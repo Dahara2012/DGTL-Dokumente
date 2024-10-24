@@ -113,9 +113,10 @@ Die Rennleitung hat die Möglichkeit, das Rennen zu neutralisieren, falls es Unf
 Alle Regeln, sofern nicht gesondert markiert, haben in jeder Session Gültigkeit (Practice, Qualifying und Race). Markierte Regeln haben nur in der jeweiligen Session Gültigkeit. Abseits von Renn-Sessions werden ausschließlich Strafpunkte und Disqualifikation als Strafen vergeben.
 
 Regeln können wie folgt markiert sein:
-[R] Gültig in Race Sessions
-[Q] Gültig in Qualifying Sessions
-[P] Gültig in Practice Sessions
+
+- [R] Gültig in Race Sessions
+- [Q] Gültig in Qualifying Sessions
+- [P] Gültig in Practice Sessions
 
 ## §Abdrängen [Q/R]
 
