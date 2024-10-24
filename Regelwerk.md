@@ -1,81 +1,79 @@
 ![Logo](/Images/DGTL-Logo-White.png)
 
-# Standardregelwerk
+**Basis für die komplette Durchführung, sowie alle Entscheidungen im Rahmen dieser Serie, ist ausschließlich dieses Reglement in der zum Zeitpunkt der Veranstaltung gültigen Fassung. Wenn der Wortlaut im Einzelfall nicht geeignet ist, eine Situation oder Entscheidung herbeizuführen, die dem Grundgedanken der sportlichen Fairness entspricht, kann eine abweichende Entscheidung getroffen werden, die vom Reglement-Wortlaut abweicht. Tritt dieser Fall ein, werden die Organisatoren den Reglement-Wortlaut anschließend so präzisieren, ändern oder ergänzen, dass er für alle folgenden Veranstaltungen allgemeine Gültigkeit erlangt.**
 
-Basis für die komplette Durchführung, sowie alle Entscheidungen im Rahmen dieser Serie, ist ausschließlich dieses Reglement in der zum Zeitpunkt der Veranstaltung gültigen Fassung. Wenn der Wortlaut im Einzelfall nicht geeignet ist, eine Situation oder Entscheidung herbeizuführen, die dem Grundgedanken der sportlichen Fairness entspricht, kann eine abweichende Entscheidung getroffen werden, die vom Reglement-Wortlaut abweicht. Tritt dieser Fall ein, werden die Organisatoren den Reglement-Wortlaut anschließend so präzisieren, ändern oder ergänzen, dass er für alle folgenden Veranstaltungen allgemeine Gültigkeit erlangt.
-
-## Flaggenkunde
+# Flaggenkunde
 
 Die folgenden Flaggen können über das DGTL-Overlay angezeigt werden. Der folgende Abschnitt beschreibt, wie man sich unter den verschiedenen Flaggen zu verhalten hat.
 
-### Formation Lap
+## Formation Lap
 
 Signalisiert, dass nach Regeln der Startprozedur gefahren werden muss.
 siehe §Startprozdeur
 siehe §Frühstart
 
-### Green Flag
+## Green Flag
 
 Signalisiert eine freie Strecke, auf der ohne Einschränkungen anderer Flaggen gefahren werden darf.
 
-### Red Flag
+## Red Flag
 
 Signalisiert den Abbruch oder Unterbrechung der aktuellen Session. Es ist vorsichtig und langsam die aktuelle Runde zu Ende zu fahren und sich in der Boxengasse in der Fastlane an der Hütchenmakierung vor dem Boxenausgang einzureihen. Informationen zum weiteren Vorgehen werden von der Rennleitung kommuniziert.
 
-### Yellow Flag
+## Yellow Flag
 
 Signalisiert eine Gefahrenstelle voraus.
 siehe §Unfallsituation
 
-### Blue Flag
+## Blue Flag
 
 Signalisiert, dass sich ein schnelleres Fahrzeug von hinten nähert. Beispielsweise vor einer Überrundung im Rennen oder einer Outlap im Qualifying.
 siehe §Überrunden
 siehe §Behinderung Hotlap
 
-### White Flag
+## White Flag
 
 Zeigt die letzte Runde der aktuellen Session an.
 
-### Checkered Flag
+## Checkered Flag
 
 Beendet die aktuelle Session. Fahre die Inlap zu Ende und parke dein Fahrzeug in der Boxengasse.
 
-### SC
+## SC
 
 Signalisiert, dass man sich in einer Safety Car Phase befindet.
 siehe §Safety Car Phasen
 
-### SC-Ending
+## SC-Ending
 
 Signalisiert das Ende einer Safety Car Phase. Das Safety Car wird diese Runde reinkommen. Es gelten weiterhin die Regeln von §Safety Car Phasen, bis sie durch eine Green Flag aufgehoben werden.
 
-### FCY
+## FCY
 
 Signalisiert, dass man sich momentan in einer Full Course Yellow Phase befindet.
 siehe §Full Course Yellow Phasen
 
-### FCY-Ending
+## FCY-Ending
 
 Zeigt an, dass die FCY-Phase in wenigen Sekunden aufgehoben wird. FCY-Ending ist auch Teil der FCY-Phase. Eine Green Flag hebt die FCY-Phase auf.
 
-## Strafen
+# Strafen
 
-### Strafpunkte
+## Strafpunkte
 
 Jeder Fahrer verfügt über ein Strafpunktekonto auf seiner Lizenz. Auf diesem Konto sammelt jeder Fahrer Strafpunkte als Konsequenz für Regelverstöße. Die Strafpunkte werden über Saisons hinweg übernommen. Der Kontostand des Strafpunktekontos kann nicht unter Null fallen. Zu Beginn einer neuen Saison verfällt bis zu 1 Strafpunkt. Für jedes Rennen ohne Strafpunkte werden bis zu 2 Strafpunkte abgezogen. Erreicht ein Fahrer 10 oder mehr Strafpunkte, wird eine Gridstrafe für das nächste Rennen verhängt. Pro angetretener Gridstrafe werden 5 Strafpunkte abgezogen. Fahrer mit 50 oder mehr Strafpunkten sind für Rennen in der Liga gesperrt. Maßgeblich ist der Strafpunktekontostand am Tag des jeweiligen Rennens.
 
-### Gridstrafe
+## Gridstrafe
 
 Wenn ein Fahrer eine Gridstrafe erhält, wird er im Startfeld des nächsten Rennens um fünf Plätze nach hinten versetzt, ausgehend von seinem Qualifikationsergebnis. Der Algorithmus zur Strafversetzung ist derselbe, der auch für die Positionsstrafen Anwendung findet. Für eine angetretene Gridstrafe werden fünf Strafpunkte erlassen. Eine Gridstrafe zählt nur als angetreten, wenn der Fahrer sich mindestens so weit vorne qualifiziert hat, dass er auch um 5 Plätze nach hinten versetzt werden kann. Kann eine Gridstrafe nicht vollständig angewendet werden, findet keine Versetzung statt und es werden keine Strafpunkte erlassen. In diesem Fall wird eine neue Gridstrafe für das nächste Rennen ausgesprochen.
 
-### Zeitstrafen
+## Zeitstrafen
 
 Fahrer erhalten Zeitstrafen als Konsequenz für Regelverstöße während einer Rennsession. Ausstehende Zeitstrafen werden jedem Fahrer im DGTL-Overlay angezeigt. Zeitstrafen können mit einem Pitstop kombiniert werden und müssen in der Boxengasse in der Slow-Lane, allerdings außerhalb des eigenen Garagenplatzes, abgesessen werden. Dafür muss das Fahrzeug im beschriebenen Bereich zum Stillstand kommen. Solange das Fahrzeug steht, wird im DGTL-Overlay die Zeitstrafe heruntergezählt. Zeitstrafen, die bis zum Ende eines Rennens nicht abgesessen wurden, werden nachträglich auf das iRacing Rennergebnis angewandt. Da iRacing im Ergebnis nur Abstände für Fahrer in der Führungsrunde dokumentiert, wird wie folgt vorgegangen:
 Platzierung im iRacing Rennergebnis innerhalb der Führungsrunde: Die ausstehende Zeitstrafe wird um 2 Sekunden erhöht und nachträglich auf die Platzierung angewendet.
 Position im iRacing Rennergebnis außerhalb der Führungsrunde: Die Zeitstrafe wird in eine Positionsstrafe umgewandelt, indem mindestens eine Positionsstrafe vergeben wird, plus eine zusätzliche Positionsstrafe pro offenen 5 Sekunden Zeitstrafe.
 
-### Positionsstrafen
+## Positionsstrafen
 
 Fahrer erhalten Positionsstrafen als Konsequenz für Regelverstöße während einer Rennsession. Diese Strafen werden nach dem Rennen auf das iRacing Rennergebnis angewendet. Für das Endergebnis werden Zeitstrafen vor Positionsstrafen berücksichtigt. Der Algorithmus zur Vergabe von Positionsstrafen funktioniert wie folgt:
 Man nimmt das vorläufige Ergebnis nach angewendeten Zeitstrafen.
@@ -85,19 +83,19 @@ Die Fahrer werden nach ihrer neuen Position sortiert.
 Wenn zwei Fahrer dieselbe Position haben, erhält derjenige Fahrer mit dem besseren Ergebnis im vorläufigen Ergebnis die vordere Position.
 Die sortierte Liste wird chronologisch durchgezählt, um die Endposition zu ermitteln.
 
-### Durchfahrtsstrafe
+## Durchfahrtsstrafe
 
 Fahrer erhalten Positionsstrafen als Konsequenz für Regelverstöße während einer Rennsession. Die Strafe wird über iRacing direkt vergeben und wird nach iRacing Regeln abgesessen.
 
-### NFA
+## NFA
 
 “No Further Action” oder “Keine weiteren Maßnahmen". Nach einer Untersuchung eines Vorfalls werden keine weiteren Schritte oder Sanktionen ergriffen.
 
-### Disqualifikation
+## Disqualifikation
 
 Der Fahrer wird von der weiteren Teilnahme an der Session ausgeschlossen.
 
-### Verwarnung
+## Verwarnung
 
 Eine Verwarnung kann anstelle einer Strafe ausgesprochen werden. Ob eine Verwarnung oder eine Strafe ausgesprochen wird, liegt im Ermessen des Rennleiters. Ein Fahrer kann höchstens eine Verwarnung bekommen.
 
@@ -125,16 +123,18 @@ Wenn bei nebeneinander fahrenden Fahrzeugen eines der Fahrzeuge das andere Fahrz
 
 Abdrängen ohne Kollision
 Strafmaß: 3 Strafpunkte + 3sec Zeitstrafe
-§Verbindungsprobleme [Q/R]
+
+## §Verbindungsprobleme [Q/R]
+
 Verbindungsprobleme zum iRacing Server gefährden andere Fahrzeuge durch sogenanntes “blinken”. Fällt der Rennkommission ein blinkender Fahrer auf, wird dieser Verwarnt und über ingame Textchat auf diesen Umstand aufmerksam gemacht. Tritt Blinken zwei Runden nach der Benachrichtigung oder später erneut auf, wird der Fahrer für die laufende Session disqualifiziert.
 
-## Blinken
+Blinken
 
 Strafmaß: Verwarnung, dann DSQ
 §Fahrpraxis [Q/R]
 Ein Fahrer darf nur am Rennen oder Qualifying teilnehmen, wenn er im Umgang mit Fahrzeug und Strecke eine ausreichende Sicherheit hat. Dies beinhaltet in besonderem Maße die Fahrzeugkontrolle im Verkehr und abseits der Ideallinie. Genauso wird Kenntnis über die Ideallinie und gängige Brems- und Einlenkpunkte vorausgesetzt. Fällt ein Fahrer durch Kontrollverlust seines Fahrzeugs und unbegründetem Fahren abseits der Ideallinie auf, kann der betroffene Fahrer für die Session disqualifiziert werden.
 
-## Mangelnde Fahrzeugkontrolle oder Streckenkenntnis
+Mangelnde Fahrzeugkontrolle oder Streckenkenntnis
 
 Strafmaß: 5 Strafpunkte + DSQ
 
@@ -178,41 +178,46 @@ Die Schuld für Kollisionen, die durch Fahrfehler wie zum Beispiel "Bremsen auf 
 
 Ist von vornherein aussichtslos, d.h. er kann unter Einhaltung der Regeln nicht erfolgreich durchgeführt werden, liegt die Schuld beim Angreifer. Dazu zählt zum Beispiel das Aufmachen eines 3-Wides, wenn die Strecke nur Platz für zwei Fahrzeuge bietet.
 
-## Unfallursache
+### Unfallursache
 
-0 Strafpunkte:
-Verbindungsprobleme (siehe §Verbindungsprobleme)
+#### 0 Strafpunkte:
 
-2 Strafpunkte:
-Fahrfehler
-Schieben/Bumpdraften
-Auffahrunfall
-Linienwahl in flachen Kurven
+- Verbindungsprobleme (siehe §Verbindungsprobleme)
 
-3 Strafpunkte:
-Linienwahl in der Kurve
-Auffahrunfall provoziert
-Kollision in Boxengasse oder Ein-/Ausfahrt (siehe <§ Boxengasse >)
-Schwer zu antizipierendes Verhalten (zB §Überrunden, §Startprozedere, §Rejoin)
+#### 2 Strafpunkte:
 
-5 Strafpunkte:
-Nicht halten der Linie innerhalb einer Bremszone
-Nicht halten der Linie auf einer Geraden
-Blockieren/Gefährliche Fahrweise (siehe <§ Gefährliche Fahrweise>)
-Gefährlicher Rejoin (siehe <§ Rejoin>)
-Langsamen Befahrens der Ideallinie (siehe <§ Defekte und Slowdown>)
-Anhalten auf der Fahrbahn (siehe <§ Parken>)
-Fehlverhalten während Unfallsituation (siehe <§ Unfallsituationen>)
+- Fahrfehler
+- Schieben/Bumpdraften
+- Auffahrunfall
+- Linienwahl in flachen Kurven
 
-Unfallfolge
+#### 3 Strafpunkte:
+
+- Linienwahl in der Kurve
+- Auffahrunfall provoziert
+- Kollision in Boxengasse oder Ein-/Ausfahrt (siehe <§ Boxengasse >)
+- Schwer zu antizipierendes Verhalten (zB §Überrunden, §Startprozedere, §Rejoin)
+
+#### 5 Strafpunkte:
+
+- Nicht halten der Linie innerhalb einer Bremszone
+- Nicht halten der Linie auf einer Geraden
+- Blockieren/Gefährliche Fahrweise (siehe <§ Gefährliche Fahrweise>)
+- Gefährlicher Rejoin (siehe <§ Rejoin>)
+- Langsamen Befahrens der Ideallinie (siehe <§ Defekte und Slowdown>)
+- Anhalten auf der Fahrbahn (siehe <§ Parken>)
+- Fehlverhalten während Unfallsituation (siehe <§ Unfallsituationen>)
+
+### Unfallfolge
+
 Kollision ohne Beschädigung oder Positionsverlust für Unfallgegner
-3 Sekunden Zeitstrafe
+**3 Sekunden Zeitstrafe**
 
 Kollision mit Beschädigung oder Positionsverlust für Unfallgegner
-5 Sekunden Zeitstrafe
+**5 Sekunden Zeitstrafe**
 
 Kollision mit Beschädigung oder Positionsverlust für mehrere Unfallgegner
-Durchfahrtsstrafe
+**Durchfahrtsstrafe**
 
 ## §Frühstart [R]
 
@@ -344,7 +349,9 @@ Wenn ein Fahrer aufgrund einer Beschädigung seines Fahrzeugs, oder eines Slowdo
 
 Langsames Befahren der Ideallinie, das Ausweichmanöver anderer Fahrer zur Vermeidung von Unfällen nötig macht.
 Strafmaß: 5 Strafpunkte
-§Unfallsituationen (Gelbe Flagge) [Q/R]
+
+## §Unfallsituationen (Gelbe Flagge) [Q/R]
+
 In einer Unfallsituation (Fahrzeuge abseits der Strecke/Ideallinie und/oder Kollision) ist das eigene Tempo, sofern ohne zusätzliche Gefährdung möglich, so anzupassen, dass keine weiteren Fahrzeuge gefährdet werden. Überholen nicht im Unfall involvierter Fahrzeuge ist verboten. Das Überholverbot gilt dabei sobald und solange die gelbe Flagge gezeigt wird.
 Das verunfallte Fahrzeug hat die eigenen Bremsen zu halten, bis eine Weiterfahrt sicher möglich ist.
 
@@ -361,7 +368,9 @@ Sobald das hintere Fahrzeug auf .5sec oder weniger aufschließt, darf vom voraus
 
 Provozieren eines Unfalls durch gefährliche Fahrweise
 Strafe: 4 Strafpunkte
-§Parken
+
+## §Parken
+
 Ein Fahrer darf sein Fahrzeug grundsätzlich nicht auf der Fahrbahn stehen lassen. Kann das Fahrzeug nicht aus eigenem Antrieb von der Fahrbahn entfernt werden, wird das Fahrzeug in Race-Sessions durch die Rennleitung abgeschleppt. In Practice- oder Qualifying-Sessions muss direkt ohne Nachfrage bei der Rennleitung abgeschleppt werden.
 Ausnahme: Weiterfahren ist gefährlicher als stehen bleiben (bspw. Während eines Unfalls)
 
