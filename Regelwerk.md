@@ -86,12 +86,13 @@ Fahrer erhalten Zeitstrafen als Konsequenz für Regelverstöße während einer R
 ## Positionsstrafen
 
 Fahrer erhalten Positionsstrafen als Konsequenz für Regelverstöße während einer Rennsession. Diese Strafen werden nach dem Rennen auf das iRacing Rennergebnis angewendet. Für das Endergebnis werden Zeitstrafen vor Positionsstrafen berücksichtigt. Der Algorithmus zur Vergabe von Positionsstrafen funktioniert wie folgt:
-Man nimmt das vorläufige Ergebnis nach angewendeten Zeitstrafen.
-Fahrer ohne Positionsstrafe bekommen eine Position von ihrem Ergebnis subtrahiert.
-Fahrer mit Positionsstrafe erhalten die Anzahl ihrer Positionsstrafen zu ihrer Position addiert.
-Die Fahrer werden nach ihrer neuen Position sortiert.
-Wenn zwei Fahrer dieselbe Position haben, erhält derjenige Fahrer mit dem besseren Ergebnis im vorläufigen Ergebnis die vordere Position.
-Die sortierte Liste wird chronologisch durchgezählt, um die Endposition zu ermitteln.
+
+- Man nimmt das vorläufige Ergebnis nach angewendeten Zeitstrafen.
+- Fahrer ohne Positionsstrafe bekommen eine Position von ihrem Ergebnis subtrahiert.
+- Fahrer mit Positionsstrafe erhalten die Anzahl ihrer Positionsstrafen zu ihrer Position addiert.
+- Die Fahrer werden nach ihrer neuen Position sortiert.
+- Wenn zwei Fahrer dieselbe Position haben, erhält derjenige Fahrer mit dem besseren Ergebnis im vorläufigen Ergebnis die vordere Position.
+- Die sortierte Liste wird chronologisch durchgezählt, um die Endposition zu ermitteln.
 
 ## Durchfahrtsstrafe
 
