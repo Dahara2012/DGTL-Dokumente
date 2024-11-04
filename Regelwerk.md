@@ -129,17 +129,17 @@ Regeln können wie folgt markiert sein:
 - [Q] Gültig in Qualifying Sessions
 - [P] Gültig in Practice Sessions
 
-> [!NOTE]
+> [!TIP]
 > Für die Wahl der Strafe einiger Reglen ist es relevant ob es einen Positionsverlust oder Vorteil gab. Ein Positionsverlust oder Vorteil der zurückgegeben wird fließt in die Bewertung mit ein, vorausgesetzt es geschieht innerhalb einer Runde oder bis zum nächsten Zwischenfall (je nachdem was früher Eintritt).
 
 ## §Abdrängen [Q/R]
 
 Wenn bei nebeneinander fahrenden Fahrzeugen eines der Fahrzeuge das andere Fahrzeug zwingt, zur Unfallvermeidung die Strecke zu verlassen, wird von Abdrängen gesprochen. Das Abdrängen anderer Fahrzeuge ist verboten. Siehe auch “Linienwahl” unter §Kollisionen. Ausweichmanöver, die zur Vermeidung einer Kollision nicht notwendig gewesen wären, werden nicht als Abdrängen gewertet. Die Strecke zählt als verlassen, wenn die Streckenbegrenzung (meist weiße Linie) überfahren werden muss. In Ausnahmen kann ein Überfahren der weißen Linie nicht als Verlassen der Strecke gewertet werden, wenn 1. durch das Überfahren kein Nachteil durch Untergrundveränderung stattfindet und 2. kein Offtrack durch iRacing vergeben wird.
 
-> Abdrängen ohne Kollision
-
 > [!CAUTION]
-> Strafmaß: 3 Strafpunkte + 3sec Zeitstrafe
+> Abdrängen ohne Kollision
+> 1 Strafpunkt
+> 3sec Zeitstrafe
 
 ## §Verbindungsprobleme [Q/R]
 
