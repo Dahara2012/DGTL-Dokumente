@@ -157,7 +157,7 @@ Ein Fahrer darf nur am Rennen oder Qualifying teilnehmen, wenn er im Umgang mit 
 **Strafen**
 
 > **Mangelnde Fahrzeugkontrolle oder Streckenkenntnis**\
-> 5 Strafpunkte & DSQ
+> 2 Strafpunkte & DSQ
 
 ## §Kollisionen [R]
 
