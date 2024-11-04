@@ -266,15 +266,15 @@ Strafmaß: 10 Strafpunkte + DSQ
 Vorsätzliches Vergrößern von Abständen
 Strafmaß: 10 Strafpunkte + DSQ
 
-~~## §Disconnect des DGTL Overlays [R]
+~~## §Disconnect des DGTL Overlays [R]~~
 
-Das DGTL Overlay dient der Erfassung von Regelverstößen, und Kommunikation von Informationen der Rennleitung während des Rennens. Um einen fairen Wettbewerb gewährleisten zu können ist das DGTL Overlay deshalb während der Rennen durchgehend auf dem selben Rechner wie iRacing zu verwenden, und eine Verbindung zu den DGTL Servern zu gewährleisten.
+~~Das DGTL Overlay dient der Erfassung von Regelverstößen, und Kommunikation von Informationen der Rennleitung während des Rennens. Um einen fairen Wettbewerb gewährleisten zu können ist das DGTL Overlay deshalb während der Rennen durchgehend auf dem selben Rechner wie iRacing zu verwenden, und eine Verbindung zu den DGTL Servern zu gewährleisten.~~
 
-Erster Verbindungsverlust des DGTL Overlays zu den DGTL Servern
-Strafmaß: Durchfahrtsstrafe
+~~Erster Verbindungsverlust des DGTL Overlays zu den DGTL Servern~~
+~~Strafmaß: Durchfahrtsstrafe~~
 
-Zweiter Verbindungsverlust des DGTL Overlays zu den DGTL Servern
-Strafmaß: DSQ~~
+~~Zweiter Verbindungsverlust des DGTL Overlays zu den DGTL Servern~~
+~~Strafmaß: DSQ~~
 
 ## §Behinderung Hotlap [Q]
 
