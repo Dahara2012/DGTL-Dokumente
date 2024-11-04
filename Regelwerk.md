@@ -104,7 +104,7 @@ Fahrer erhalten Positionsstrafen als Konsequenz für Regelverstöße während ei
 
 ## Disqualifikation
 
-Der Fahrer wird von der weiteren Teilnahme an der Session ausgeschlossen.
+Der Fahrer wird von der weiteren Teilnahme an der aktuellen Session ausgeschlossen.
 
 ## Verwarnung
 
