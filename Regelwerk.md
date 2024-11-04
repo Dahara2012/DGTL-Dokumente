@@ -116,7 +116,7 @@ Proteste dienen dazu, übersehene Vorfälle oder Fehlentscheidungen anzuzeigen. 
 
 ## Live-Rennkommission
 
-Die Rennen werden von einer Live-Rennkommission überwacht. Diese Kommission setzt die Regeln durch das Aussprechen von Strafen um.
+Die Rennen werden von einer Live-Rennkommission überwacht. Diese Kommission bestraft das brechen der Regeln durch das Aussprechen von Strafen.
 Die Rennleitung hat die Möglichkeit, das Rennen zu neutralisieren, falls es Unfälle oder andere Gefahrensituationen auf der Strecke gibt. Dies kann durch ein Safety Car (SC) oder eine Full Course Yellow (FCY)-Phase erfolgen. Die Wahl der geeigneten Maßnahme obliegt dem Rennleiter. Bei der Bewertung fließen die Schwere des Unfalls, die Verteilung des Feldes und die Möglichkeit einer sicheren Bergung mit ein, um ein authentisches Rennerlebnis zu schaffen.
 
 # Regeln
