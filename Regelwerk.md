@@ -130,7 +130,7 @@ Regeln können wie folgt markiert sein:
 - [P] Gültig in Practice Sessions
 
 > [!NOTE]
-> Für die Wahl der Strafe einiger Reglen ist es relevant ob es einen Positionsverlust oder Vorteil gab. Ein Positionsverlust oder Vorteil der zurückgegeben wird fließt in die Bewertung mit ein, vorausgesetzt es geschieht innerhlab einer Runde oder bis zum nächsten Zwischenfall (je nachdem was früher Eintritt).
+> Für die Wahl der Strafe einiger Reglen ist es relevant ob es einen Positionsverlust oder Vorteil gab. Ein Positionsverlust oder Vorteil der zurückgegeben wird fließt in die Bewertung mit ein, vorausgesetzt es geschieht innerhalb einer Runde oder bis zum nächsten Zwischenfall (je nachdem was früher Eintritt).
 
 ## §Abdrängen [Q/R]
 
