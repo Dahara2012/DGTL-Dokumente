@@ -6,9 +6,9 @@
 
 Die folgenden Flaggen können über das DGTL-Overlay angezeigt werden. Der folgende Abschnitt beschreibt, wie man sich unter den verschiedenen Flaggen zu verhalten hat.
 
-## Formation Lap
+## Pace Lap
 
-Signalisiert, dass nach Regeln der Startprozedur gefahren werden muss.
+Siert, dass nach Regeln der Startprozedur gefahren werden muss.gnalisi
 siehe §Startprozdeur
 siehe §Frühstart
 
@@ -283,7 +283,7 @@ Strafmaß: 5 Strafpunkte
 Positionsgewinne durch Überholen abseits der Strecke
 Strafmaß: 3 Strafpunkte + 1 Position Abzug im Rennergebnis
 §Safety Car Phasen [R]
-Während der Dauer der Safety Car Phase ist Überholen verboten und die Anweisungen der Simulation zu befolgen. Pitstops dürfen innerhalb einer Safety Car Phase durchgeführt werden, solange die Box nicht durch iRacing geschlossen ist. Sobald das DGTL-Overlay "Formation Lap" anzeigt, beginnt die Re-Startprozedur, die dem normalen Startprozedere entspricht, mit dem Unterschied das Single File anstatt Double File gestartet wird.
+Während der Dauer der Safety Car Phase ist Überholen verboten und die Anweisungen der Simulation zu befolgen. Pitstops dürfen innerhalb einer Safety Car Phase durchgeführt werden, solange die Box nicht durch iRacing geschlossen ist. Sobald das DGTL-Overlay "Pace Lap" anzeigt, beginnt die Re-Startprozedur, die dem normalen Startprozedere entspricht, mit dem Unterschied das Single File anstatt Double File gestartet wird.
 
 Strafen in der Safetycarphase werden automatisch durch iRacing vergeben
 
@@ -321,15 +321,12 @@ Strafmaß: 3 Strafpunkte + 1 Position Abzug im Rennergebnis
 Verbotenes Durchfahren der Slow Lane
 Strafmaß: 3 Strafpunkte
 
-## §Startprozedur [R]
+## §Pace Lap [R]
 
-In der Formationsrunde ist ein Maximalabstand zum nächsten Fahrzeug von zwei Fahrzeuglängen einzuhalten. Der Polesetter hat sich dabei am Pacecar zu orientieren. Während der gesamten Formationsrunde gilt für den Polesetter eine Höchstgeschwindigkeit von 100km/h.
-Die Formationsrunde wird Double-File gefahren. Es ist streng hintereinander zu fahren. Plötzliches Verzögern oder Beschleunigen während der Formationsrunde ist verboten. (Ausnahme zur Vermeidung eines Unfalls)
-Die Formationsrunde beginnt mit dem Losfahren des Pace Cars und endet durch die grüne Flagge des DGTL-Overlays, die das Rennen freigibt.
-Details der Startprozedur können sich für einzelne Rennen ändern. Ist dies der Fall, werden die Fahrer im Briefing informiert.
+Solange im Overlay "Pace Lap" angezeigt wird sind folgende Regeln zu beachten. Es ist ein Maximalabstand zum nächsten Fahrzeug von zwei Fahrzeuglängen einzuhalten. Der Polesetter hat sich dabei am Pacecar zu orientieren. Ob Single oder Double File gefahren wird, wird von iRacing angezeigt. Plötzliches Verzögern oder Beschleunigen ist, abgesehen von Unfallvermeidung, verboten. Wechselt das Overlay auf "Green Flag" ist das Rennen freigegeben und die Einschränkungen der "Pace Lap" nicht länger gültig. Details der Startprozedur können sich für einzelne Rennen ändern. Ist dies der Fall, werden die Fahrer im Briefing informiert.
 
 Überschreiten des Maximalabstands
-Strafmaß: 1 Strafpunkte / vollen 5 Sekunden
+Strafmaß: 1 Strafpunkte pro vollen 5 Sekunden
 
 Plötzliches Verlangsamen oder Beschleunigen während der Pace Phase
 Strafmaß: 5 Strafpunkte
