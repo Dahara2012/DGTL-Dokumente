@@ -66,7 +66,13 @@ Zeigt an, dass die FCY-Phase in wenigen Sekunden aufgehoben wird. FCY-Ending ist
 
 ## Strafpunkte
 
-Jeder Fahrer verfügt über ein Strafpunktekonto auf seiner Lizenz. Auf diesem Konto sammelt jeder Fahrer Strafpunkte als Konsequenz für Regelverstöße. Die Strafpunkte werden über Saisons hinweg übernommen. Der Kontostand des Strafpunktekontos kann nicht unter Null fallen. Zu Beginn einer neuen Saison verfällt bis zu 1 Strafpunkt. Für jedes Rennen ohne Strafpunkte werden bis zu 2 Strafpunkte abgezogen. Erreicht ein Fahrer 10 oder mehr Strafpunkte, wird eine Gridstrafe für das nächste Rennen verhängt. Pro angetretener Gridstrafe werden 5 Strafpunkte abgezogen. Fahrer mit 50 oder mehr Strafpunkten sind für Rennen in der Liga gesperrt. Maßgeblich ist der Strafpunktekontostand am Tag des jeweiligen Rennens.
+**Alt:**
+
+Jeder Fahrer verfügt über ein Strafpunktekonto auf seiner Lizenz. Auf diesem Konto sammelt jeder Fahrer Strafpunkte als Konsequenz für Regelverstöße. Strafpunktekonten sind Event und Saisonübergreifend für alle Dahara Veranstaltungen. Der Kontostand des Strafpunktekontos kann nicht unter Null fallen. Zu Beginn einer neuen Saison verfällt bis zu 1 Strafpunkt. Für jedes Rennen ohne Strafpunkte werden bis zu 2 Strafpunkte abgezogen. Erreicht ein Fahrer 10 oder mehr Strafpunkte, wird eine Gridstrafe für das nächste Rennen verhängt. Pro angetretener Gridstrafe werden 5 Strafpunkte abgezogen. Fahrer mit 50 oder mehr Strafpunkten sind für Rennen in der Liga gesperrt. Maßgeblich ist der Strafpunktekontostand am Tag des jeweiligen Rennens.
+
+**Neu:**(Abhängig davon wann die neue Webseite fertig wird)
+
+Jeder Fahrer verfügt über ein Strafpunktekonto auf seiner Lizenz. Auf diesem Konto sammelt jeder Fahrer Strafpunkte als Konsequenz für Regelverstöße. Strafpunktekonten sind Event und Saisonübergreifend für alle Dahara Veranstaltungen. Zum ersten eines Monats wird ein Strafpunkt abgezogen und für jedes angetretene Rennen wird ein Strafpunkt abgezogen. Dabei kann der Kontostand des Strafpunktekontos kann nicht unter Null fallen. Hat ein Fahrer mehr als 10 Strafpunkte ist er von Qualifying-Sessions ausgeschlossen. Hat ein Fahrer mehr als 20 Strafpunkte ist er von Renn-Sessions ausgeschlossen. Maßgeblich ist der Strafpunktekontostand am Tag des jeweiligen Rennens.
 
 ## Gridstrafe
 
