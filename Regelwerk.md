@@ -46,7 +46,7 @@ Zeigt das Ende der aktuelle Session an. Fahre die Inlap zu Ende und parke dein F
 
 Zeigt eine Safety Car Phase an. Es wird unter Safety Car Regeln gefahren.
 
-- siehe [§Safety Car Phasen](#safety-car-r)
+- siehe [§Safety Car](#safety-car-r)
 
 ## SC-Ending
 
