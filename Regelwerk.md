@@ -40,7 +40,7 @@ Zeigt die letzte Runde der aktuellen Session an.
 
 ## Checkered Flag
 
-Beendet die aktuelle Session. Fahre die Inlap zu Ende und parke dein Fahrzeug in der Boxengasse.
+Zeigt das Ende der aktuelle Session an. Fahre die Inlap zu Ende und parke dein Fahrzeug in der Slowlane.
 
 ## SC
 
