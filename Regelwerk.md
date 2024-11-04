@@ -143,17 +143,21 @@ Wenn bei nebeneinander fahrenden Fahrzeugen eines der Fahrzeuge das andere Fahrz
 
 ## §Verbindungsprobleme [Q/R]
 
-Verbindungsprobleme zum iRacing Server gefährden andere Fahrzeuge durch sogenanntes “blinken”. Fällt der Rennkommission ein blinkender Fahrer auf, wird dieser Verwarnt und über ingame Textchat auf diesen Umstand aufmerksam gemacht. Tritt Blinken zwei Runden nach der Benachrichtigung oder später erneut auf, wird der Fahrer für die laufende Session disqualifiziert.
+Verbindungsprobleme zum iRacing Server gefährden andere Fahrzeuge durch sogenanntes “blinken”. Fällt der Rennkommission ein blinkender Fahrer auf, wird dieser Verwarnt und über ingame Textchat auf diesen Umstand aufmerksam gemacht. Tritt Blinken zwei Runden nach der Benachrichtigung oder später erneut auf, wird der Fahrer disqualifiziert.
 
-Blinken
+**Strafen**
 
-Strafmaß: Verwarnung, dann DSQ
-§Fahrpraxis [Q/R]
+> **Blinken nach Benachrichtigung**\
+> DSQ
+
+## §Fahrpraxis [Q/R]
+
 Ein Fahrer darf nur am Rennen oder Qualifying teilnehmen, wenn er im Umgang mit Fahrzeug und Strecke eine ausreichende Sicherheit hat. Dies beinhaltet in besonderem Maße die Fahrzeugkontrolle im Verkehr und abseits der Ideallinie. Genauso wird Kenntnis über die Ideallinie und gängige Brems- und Einlenkpunkte vorausgesetzt. Fällt ein Fahrer durch Kontrollverlust seines Fahrzeugs und unbegründetem Fahren abseits der Ideallinie auf, kann der betroffene Fahrer für die Session disqualifiziert werden.
 
-Mangelnde Fahrzeugkontrolle oder Streckenkenntnis
+**Strafen**
 
-Strafmaß: 5 Strafpunkte + DSQ
+> **Mangelnde Fahrzeugkontrolle oder Streckenkenntnis**\
+> 5 Strafpunkte & DSQ
 
 ## §Kollisionen [R]
 
