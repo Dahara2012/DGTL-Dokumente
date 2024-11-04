@@ -10,8 +10,8 @@ Die folgenden Flaggen können über das DGTL-Overlay angezeigt werden. Der folge
 
 Zeigt an das unter Pace Lap Regeln gefahren wird.
 
-siehe [$Pace Lap](#pace-lap-r)
-siehe [§Frühstart](#fr%C3%BChstart-r)
+- siehe [$Pace Lap](#pace-lap-r)
+- siehe [§Frühstart](#fr%C3%BChstart-r)
 
 ## Green Flag
 
