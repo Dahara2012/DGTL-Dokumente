@@ -15,7 +15,7 @@ Zeigt an das unter Pace Lap Regeln gefahren wird.
 
 ## Green Flag
 
-Signalisiert eine freie Strecke, auf der ohne Einschränkungen anderer Flaggen gefahren werden darf.
+Zeigt an das das Rennen freigegeben ist und ohne Einschränkungen anderer Flaggen gefahren werden darf.
 
 ## Red Flag
 
