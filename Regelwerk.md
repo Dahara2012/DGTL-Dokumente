@@ -287,9 +287,9 @@ Strafmaß: 5 Strafpunkte
 Positionsgewinne durch Überholen abseits der Strecke
 Strafmaß: 3 Strafpunkte + 1 Position Abzug im Rennergebnis
 
-## §Safety Car Phasen [R]
+## §Safety Car [R]
 
-Während der Dauer der Safety Car Phase ist Überholen verboten und die Anweisungen der Simulation zu befolgen. Pitstops dürfen innerhalb einer Safety Car Phase durchgeführt werden, solange die Box nicht durch iRacing geschlossen ist. Sobald das DGTL-Overlay "Pace Lap" anzeigt, beginnt die Re-Startprozedur, die dem normalen Startprozedere entspricht, mit dem Unterschied das Single File anstatt Double File gestartet wird.
+Während der Dauer der Safety Car Phase ist Überholen verboten und die Anweisungen von iRacing zu befolgen. Pitstops dürfen innerhalb einer Safety Car Phase durchgeführt werden, solange die Box nicht durch iRacing geschlossen ist. Sobald das DGTL-Overlay "Pace Lap" anzeigt, beginnt die Re-Startprozedur, die dem normalen Startprozedere entspricht.
 
 Strafen in der Safetycarphase werden automatisch durch iRacing vergeben
 
