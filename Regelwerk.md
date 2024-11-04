@@ -19,12 +19,13 @@ Zeigt an das das Rennen freigegeben ist und ohne Einschränkungen anderer Flagge
 
 ## Red Flag
 
-Signalisiert den Abbruch oder Unterbrechung der aktuellen Session. Es ist vorsichtig und langsam die aktuelle Runde zu Ende zu fahren und sich in der Boxengasse in der Fastlane an der Hütchenmakierung vor dem Boxenausgang einzureihen. Informationen zum weiteren Vorgehen werden von der Rennleitung über Discord und/oder Ingame Voicechat kommuniziert.
+Zeigt den Abbruch oder Unterbrechung der aktuellen Session an. Die aktuelle Runde ist vorsichtig und langsam zu Ende zu fahren. Der Führende fährt gefolgt vom Feld bei nächster Gelegenheit in die Boxengasse. Die Fahrzeuge sind in der Fastlane hintereinandergereiht abzustellen wobei der Führende bis zur Boxenausfahrtsmarkierung vorfährt. Informationen zum weiteren Vorgehen werden von der Rennleitung über Discord und/oder Ingame Voicechat kommuniziert.
 
 ## Yellow Flag
 
-Signalisiert eine Gefahrenstelle voraus.
-siehe §Unfallsituation
+Zeigt eine Gefahrenstelle an.
+
+-siehe [§Unfallsituation](#Unfallsituationen)
 
 ## Blue Flag
 
@@ -349,7 +350,7 @@ Wenn ein Fahrer aufgrund einer Beschädigung seines Fahrzeugs, oder eines Slowdo
 Langsames Befahren der Ideallinie, das Ausweichmanöver anderer Fahrer zur Vermeidung von Unfällen nötig macht.
 Strafmaß: 5 Strafpunkte
 
-## §Unfallsituationen (Gelbe Flagge) [Q/R]
+## §Unfallsituationen (Yellow Flag) [Q/R]
 
 In einer Unfallsituation (Fahrzeuge abseits der Strecke/Ideallinie und/oder Kollision) ist das eigene Tempo, sofern ohne zusätzliche Gefährdung möglich, so anzupassen, dass keine weiteren Fahrzeuge gefährdet werden. Überholen nicht im Unfall involvierter Fahrzeuge ist verboten. Das Überholverbot gilt dabei sobald und solange die gelbe Flagge gezeigt wird.
 Das verunfallte Fahrzeug hat die eigenen Bremsen zu halten, bis eine Weiterfahrt sicher möglich ist.
