@@ -76,7 +76,7 @@ Jeder Fahrer verfügt über ein Strafpunktekonto auf seiner Lizenz. Auf diesem K
 
 ~~Wenn ein Fahrer eine Gridstrafe erhält, wird er im Startfeld des nächsten Rennens um fünf Plätze nach hinten versetzt, ausgehend von seinem Qualifikationsergebnis. Der Algorithmus zur Strafversetzung ist derselbe, der auch für die Positionsstrafen Anwendung findet. Für eine angetretene Gridstrafe werden fünf Strafpunkte erlassen. Eine Gridstrafe zählt nur als angetreten, wenn der Fahrer sich mindestens so weit vorne qualifiziert hat, dass er auch um 5 Plätze nach hinten versetzt werden kann. Kann eine Gridstrafe nicht vollständig angewendet werden, findet keine Versetzung statt und es werden keine Strafpunkte erlassen. In diesem Fall wird eine neue Gridstrafe für das nächste Rennen ausgesprochen.~~
 
-## Zeitstrafen
+## Zeitstrafen (TP)
 
 Fahrer erhalten Zeitstrafen als Konsequenz für Regelverstöße während einer Rennsession. Ausstehende Zeitstrafen werden jedem Fahrer im DGTL-Overlay angezeigt. Zeitstrafen können mit einem Pitstop kombiniert werden und müssen in der Boxengasse in der Slowlane, allerdings außerhalb der eigenen Pit, abgesessen werden. Dafür muss das Fahrzeug im beschriebenen Bereich zum Stillstand kommen. Solange das Fahrzeug steht, wird im DGTL-Overlay die Zeitstrafe heruntergezählt. Wird die Boxengasse durchfahren müssen eventuel offene Zeitstrafen abgesessen werden. Wird die Boxengasse mit offenen Zeitstrafen verlassen ehöht sich die Zeitstrafe um 5 Sekunden. Zeitstrafen, die bis zum Ende eines Rennens nicht abgesessen wurden, werden nachträglich auf das iRacing Rennergebnis angewandt. Da iRacing im Ergebnis nur Abstände für Fahrer in der Führungsrunde dokumentiert, wird wie folgt vorgegangen:
 
@@ -94,19 +94,19 @@ Fahrer erhalten Positionsstrafen als Konsequenz für Regelverstöße während ei
 - Wenn zwei Fahrer dieselbe Position haben, erhält derjenige Fahrer mit dem besseren Ergebnis im vorläufigen Ergebnis die vordere Position.
 - Die sortierte Liste wird chronologisch durchgezählt, um die Endposition zu ermitteln.
 
-## Durchfahrtsstrafe
+## Durchfahrtsstrafe (DT)
 
 Fahrer erhalten Positionsstrafen als Konsequenz für Regelverstöße während einer Rennsession. Die Strafe wird über iRacing direkt vergeben und wird nach iRacing Regeln abgesessen.
 
-## NFA
+## No Further Action (NFA)
 
 “No Further Action” oder “Keine weiteren Maßnahmen". Nach einer Untersuchung eines Vorfalls werden keine weiteren Schritte oder Sanktionen ergriffen.
 
-## Disqualifikation
+## Disqualifikation (DSQ)
 
 Der Fahrer wird von der weiteren Teilnahme an der aktuellen Session ausgeschlossen.
 
-## Verwarnung
+## Verwarnung (WARN)
 
 Eine Verwarnung kann anstelle einer Strafe ausgesprochen werden. Ob eine Verwarnung oder eine Strafe ausgesprochen wird, liegt im Ermessen des Rennleiters. Ein Fahrer kann höchstens eine Verwarnung bekommen.
 
