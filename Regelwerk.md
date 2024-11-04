@@ -8,9 +8,10 @@ Die folgenden Flaggen können über das DGTL-Overlay angezeigt werden. Der folge
 
 ## Pace Lap
 
-Siert, dass nach Regeln der Startprozedur gefahren werden muss.gnalisi
-siehe §Startprozdeur
-siehe §Frühstart
+Zeigt an das unter Pace Lap Regeln gefahren wird.
+
+siehe [$Pace Lap](## §Pace Lap [R])
+siehe [§Frühstart](## §Frühstart [R])
 
 ## Green Flag
 
