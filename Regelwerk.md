@@ -25,13 +25,14 @@ Zeigt den Abbruch oder Unterbrechung der aktuellen Session an. Die aktuelle Rund
 
 Zeigt eine Gefahrenstelle an.
 
--siehe [§Unfallsituation](#Unfallsituationen)
+- siehe [§Unfallsituation](#Unfallsituationen)
 
 ## Blue Flag
 
-Signalisiert, dass sich ein schnelleres Fahrzeug von hinten nähert. Beispielsweise vor einer Überrundung im Rennen oder einer Outlap im Qualifying.
-siehe §Überrunden
-siehe §Behinderung Hotlap
+Zeigt ein schnelleres Fahrzeug an das sich von hinten nähert. Beispielsweise vor einer Überrundung im Rennen oder einer Outlap im Qualifying.
+
+- siehe [§Überrunden](#%C3%BCberrunden-r)
+- siehe [§Behinderung Hotlap](#behinderung-hotlap-q)
 
 ## White Flag
 
