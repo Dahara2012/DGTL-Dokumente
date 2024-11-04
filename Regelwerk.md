@@ -139,7 +139,7 @@ Wenn bei nebeneinander fahrenden Fahrzeugen eines der Fahrzeuge das andere Fahrz
 **Strafen**
 
 > **Abdrängen ohne Kollision**\
-> 1 Strafpunkt & 3sec Zeitstrafe
+> 1 Strafpunkt & 3TP
 
 ## §Verbindungsprobleme [Q/R]
 
