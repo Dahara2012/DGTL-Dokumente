@@ -56,7 +56,7 @@ Zeigt an das das Safety Car diese Runde reinkommen. Es gelten weiterhin Safety C
 
 Zeigt eine Full Course Yellow Phase an. Es wird unter Full Course Yellow Regeln gefahren.
 
-- siehe [§Full Course Yellow Phasen](#full-course-yellow-phasen-r)
+- siehe [§Full Course Yellow Phase](#full-course-yellow-phase-r)
 
 ## FCY-Ending
 
@@ -248,17 +248,19 @@ Die Missachtung dieser Regel wird wie ein Frühstart gewertet
 Starten aus dem Grid trotz Pflichstart aus der Box
 Strafmaß: 2 Strafpunkte + Durchfahrtsstrafe
 
-## §Full Course Yellow Phasen [R]
+## §Full Course Yellow Phase [R]
 
-Während einer FCY-Phase gilt ein absolutes Überholverbot. Als Richtgeschwindigkeit gilt das Geschwindigkeitslimit der jeweiligen Boxengasse. Die Abweichung der eigenen Position und der Position, an der man sich beim Fahren der Richtgeschwindigkeit befinden würde, wird einem in Metern im Flaggenoverlay angezeigt. Die Abweichung kann sich auch beim Fahren mit Richtgeschwindigkeit verändern, da verschiedene Linien mit verschiedenen Längen möglich sind. Ist die Abweichung zum Ende der FCY-Phase im roten Bereich, wird eine Strafe ausgesprochen. Es empfiehlt sich daher, einige Meter Toleranz beim Fahren unter FCY vorzusehen, um eine Strafe zu vermeiden.
+Während einer FCY-Phase gilt Überholverbot. Verunfallte Fahrzeuge dürfen überholt werden. Boxenstops dürfen durchgeführt werden sofern die Boxengasse nicht explizit geschlossen wurde.
 
-Überholen unter VSC mit Positionsgewinn
+Eine FCY-Phase neutralisiert das Rennen wobei die Abstände zwischen den Fahrzeugen möglichst gleich bleiben. Um die Abstände beizubehalten zeigt das Overlay ein Delta in Metern ein. Das Delta beschreibt den Abstand in Metern des eigenen Fahrzeugs zu der Position die vom Overlay vorgesehen ist damit die Abstände beibehalten werden. Die vom Overlay vorgesehene Position verschiebt sich dabei nach einer initialien Toleranz mit der Geschwindigkeit der Maximalgeschwindigkeit der Boxengasse. Die Deltaanzeige ist grün wenn sich die vorgesehenen Position vor dem eigenen Fahrzeug berfindet, und rot wenn sie sich hinter dem eigenen Fahrzeug befindet. Das Deltas muss sich zum Ende der FCY-Phase im grünen Bereich befinden.
+
+Überholen unter VSC mit Positionsgewinn gegenüber nicht verunfallten Fahrzeugen
 Strafmaß: 5 Strafpunkte + 1 Position Abzug im Rennergebnis
 
-Überschreiten des Geschwindigkeitslimits unter VSC (<100m)
+FCY-Delta zum Ende der FCY-Phase im roten Bereich (<100m)
 Strafmaß: 1 Strafpunkte + 3sec Zeitstrafe
 
-Überschreiten des Geschwindigkeitslimits unter VSC (>=100m)
+FCY-Delta zum Ende der FCY-Phase im roten Bereich (>=100m)
 Strafmaß: 10 Strafpunkte + DSQ
 
 Vorsätzliches Vergrößern von Abständen
