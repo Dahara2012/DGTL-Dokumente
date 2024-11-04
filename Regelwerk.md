@@ -76,7 +76,7 @@ Jeder Fahrer verfügt über ein Strafpunktekonto auf seiner Lizenz. Auf diesem K
 
 ## Gridstrafe
 
-Wenn ein Fahrer eine Gridstrafe erhält, wird er im Startfeld des nächsten Rennens um fünf Plätze nach hinten versetzt, ausgehend von seinem Qualifikationsergebnis. Der Algorithmus zur Strafversetzung ist derselbe, der auch für die Positionsstrafen Anwendung findet. Für eine angetretene Gridstrafe werden fünf Strafpunkte erlassen. Eine Gridstrafe zählt nur als angetreten, wenn der Fahrer sich mindestens so weit vorne qualifiziert hat, dass er auch um 5 Plätze nach hinten versetzt werden kann. Kann eine Gridstrafe nicht vollständig angewendet werden, findet keine Versetzung statt und es werden keine Strafpunkte erlassen. In diesem Fall wird eine neue Gridstrafe für das nächste Rennen ausgesprochen.
+~~Wenn ein Fahrer eine Gridstrafe erhält, wird er im Startfeld des nächsten Rennens um fünf Plätze nach hinten versetzt, ausgehend von seinem Qualifikationsergebnis. Der Algorithmus zur Strafversetzung ist derselbe, der auch für die Positionsstrafen Anwendung findet. Für eine angetretene Gridstrafe werden fünf Strafpunkte erlassen. Eine Gridstrafe zählt nur als angetreten, wenn der Fahrer sich mindestens so weit vorne qualifiziert hat, dass er auch um 5 Plätze nach hinten versetzt werden kann. Kann eine Gridstrafe nicht vollständig angewendet werden, findet keine Versetzung statt und es werden keine Strafpunkte erlassen. In diesem Fall wird eine neue Gridstrafe für das nächste Rennen ausgesprochen.~~
 
 ## Zeitstrafen
 
