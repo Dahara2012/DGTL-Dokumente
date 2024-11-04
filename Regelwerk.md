@@ -54,12 +54,13 @@ Zeigt an das das Safety Car diese Runde reinkommen. Es gelten weiterhin Safety C
 
 ## FCY
 
-Signalisiert, dass man sich momentan in einer Full Course Yellow Phase befindet.
-siehe §Full Course Yellow Phasen
+Zeigt eine Full Course Yellow Phase an. Es wird unter Full Course Yellow Regeln gefahren.
+
+- siehe [§Full Course Yellow Phasen](#full-course-yellow-phasen-r)
 
 ## FCY-Ending
 
-Zeigt an, dass die FCY-Phase in wenigen Sekunden aufgehoben wird. FCY-Ending ist auch Teil der FCY-Phase. Eine Green Flag hebt die FCY-Phase auf.
+Zeigt an, dass die FCY-Phase in wenigen Sekunden aufgehoben wird. FCY-Ending ist auch Teil der FCY-Phase. Das Rennen ist erst mit einer Green Flag wieder freigegeben.
 
 # Strafen
 
