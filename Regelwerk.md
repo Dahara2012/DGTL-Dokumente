@@ -44,8 +44,9 @@ Zeigt das Ende der aktuelle Session an. Fahre die Inlap zu Ende und parke dein F
 
 ## SC
 
-Signalisiert, dass man sich in einer Safety Car Phase befindet.
-siehe §Safety Car Phasen
+Zeigt eine Safety Car Phase an.
+
+- siehe [§Safety Car Phasen]()
 
 ## SC-Ending
 
@@ -285,7 +286,9 @@ Strafmaß: 5 Strafpunkte
 
 Positionsgewinne durch Überholen abseits der Strecke
 Strafmaß: 3 Strafpunkte + 1 Position Abzug im Rennergebnis
-§Safety Car Phasen [R]
+
+## §Safety Car Phasen [R]
+
 Während der Dauer der Safety Car Phase ist Überholen verboten und die Anweisungen der Simulation zu befolgen. Pitstops dürfen innerhalb einer Safety Car Phase durchgeführt werden, solange die Box nicht durch iRacing geschlossen ist. Sobald das DGTL-Overlay "Pace Lap" anzeigt, beginnt die Re-Startprozedur, die dem normalen Startprozedere entspricht, mit dem Unterschied das Single File anstatt Double File gestartet wird.
 
 Strafen in der Safetycarphase werden automatisch durch iRacing vergeben
