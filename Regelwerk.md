@@ -19,7 +19,7 @@ Zeigt an das das Rennen freigegeben ist und ohne Einschränkungen anderer Flagge
 
 ## Red Flag
 
-Signalisiert den Abbruch oder Unterbrechung der aktuellen Session. Es ist vorsichtig und langsam die aktuelle Runde zu Ende zu fahren und sich in der Boxengasse in der Fastlane an der Hütchenmakierung vor dem Boxenausgang einzureihen. Informationen zum weiteren Vorgehen werden von der Rennleitung kommuniziert.
+Signalisiert den Abbruch oder Unterbrechung der aktuellen Session. Es ist vorsichtig und langsam die aktuelle Runde zu Ende zu fahren und sich in der Boxengasse in der Fastlane an der Hütchenmakierung vor dem Boxenausgang einzureihen. Informationen zum weiteren Vorgehen werden von der Rennleitung über Discord und/oder Ingame Voicechat kommuniziert.
 
 ## Yellow Flag
 
