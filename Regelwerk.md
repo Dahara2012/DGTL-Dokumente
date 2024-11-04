@@ -50,7 +50,7 @@ Zeigt eine Safety Car Phase an. Es wird unter Safety Car Regeln gefahren.
 
 ## SC-Ending
 
-Signalisiert das Ende einer Safety Car Phase. Das Safety Car wird diese Runde reinkommen. Es gelten weiterhin die Regeln von §Safety Car Phasen, bis sie durch eine Green Flag aufgehoben werden.
+Zeigt an das das Safety Car diese Runde reinkommen. Es gelten weiterhin Safety Car Regeln bis das Rennen durch eine Green Flag freigegeben wird.
 
 ## FCY
 
