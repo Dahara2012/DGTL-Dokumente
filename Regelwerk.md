@@ -240,7 +240,6 @@ Bumpdraften ist grundsätzlich erlaubt. Löst es allerdings einen Unfall aus lie
 
 - Auffahrunfall provoziert
 - Fehlverhalten während Unfallsituation (siehe [§Unfallsituationen](#unfallsituationen-yellow-flag-qr))
-- Anhalten auf der Fahrbahn (siehe [§Parken](#parken))
 
 #### 4 Strafpunkte:
 
@@ -248,6 +247,7 @@ Bumpdraften ist grundsätzlich erlaubt. Löst es allerdings einen Unfall aus lie
 - Nicht halten der Linie auf einer Geraden
 - Blockieren/Gefährliche Fahrweise (siehe [§Gefährliche Fahrweise](#gef%C3%A4hrliche-fahrweise))
 - Schwer zu antizipierendes Verhalten (zB [§Überrunden](#%C3%BCberrunden-r), [§Pace Lap](#pace-lap-r), [§Rejoin](#kontrollverlust-und-rejoin-qr))
+- Parken auf der Fahrbahn (siehe [§Parken](#parken))
 
 ### Unfallfolge
 
@@ -407,72 +407,70 @@ Sobald das hintere Fahrzeug auf .5sec oder weniger aufschließt, darf vom voraus
 > **Provozieren eines Unfalls durch gefährliche Fahrweise**\
 > 2 Strafpunkte & Verwarnung
 
-Strafe:
-
 > **Bei Kollision**\
 > siehe [§Kollisionen](#kollisionen-r) "Schwer zu antizipierendes Verhalten"
 
 ## §Parken
 
-Ein Fahrer darf sein Fahrzeug grundsätzlich nicht auf der Fahrbahn stehen lassen. Kann das Fahrzeug nicht aus eigenem Antrieb von der Fahrbahn entfernt werden, wird das Fahrzeug in Race-Sessions durch die Rennleitung abgeschleppt. In Practice- oder Qualifying-Sessions muss direkt ohne Nachfrage bei der Rennleitung abgeschleppt werden.
+Ein Fahrer darf sein Fahrzeug grundsätzlich nicht ausserhalb der Pit abstellen. Kann das Fahrzeug nicht aus eigenem Antrieb von der Fahrbahn entfernt werden, wird das Fahrzeug in Race-Sessions durch die Rennleitung abgeschleppt (vgl. [§Abschleppen](#abschleppen-qr)). In Practice- oder Qualifying-Sessions muss direkt ohne Nachfrage bei der Rennleitung abgeschleppt werden.
 Ausnahme: Weiterfahren ist gefährlicher als stehen bleiben (bspw. Während eines Unfalls)
 
-Unerlaubtes anhalten auf der Fahrbahn
-Strafmaß: 5 Strafpunkte
+> **Unerlaubtes anhalten auf der Fahrbahn**\
+> 3 Strafpunkte
+
+> **Bei Kollision**\
+> siehe [§Kollisionen](#kollisionen-r) "Parken auf der Fahrbahn"
 
 ## §Vorsatz
 
 Die Durchführung jedes sportlichen Wettbewerbs ist nur mit gegenseitigem Respekt möglich. Jedem kann es passieren, dass das eigene Talent, Grip oder Bremskraft zu überschätzen und es kommt zu Unfällen. Sollten Aktionen auf der Strecke allerdings das vorsätzliche Ziel haben, anderen Schaden zuzufügen, wird dies zu keiner Zeit toleriert.
 
-Fahrerische Aktionen, deren erkennbares Ziel es ist, einem Mitstreiter bewusst und vorsätzlich Schaden zuzufügen.
-Strafmaß: 40 Strafpunkte + 50 Positionen Abzug im Rennergebnis
+> **Fahrerische Aktionen, deren erkennbares Ziel es ist, einem Mitstreiter bewusst und vorsätzlich Schaden zuzufügen**\
+> 20 Strafpunkte & DSQ
 
 ## §Protest
 
-siehe Protest
+siehe [Protest](#protest)
 
-Verfassen einer unerlaubten Antwort in einem Protest wie das Starten oder Fortführen einer Diskussion.
-Strafmaß: 1 Strafpunkt
+> **Verfassen einer unerlaubten Antwort in einem Protest wie das Starten oder Fortführen einer Diskussion**\
+> 1 Strafpunkt
 
-Eröffnen eines Protests
-Strafmaß: 1 Strafpunkt
+> **Eröffnen eines Protests**\
+> 1 Strafpunkt
 
 ## §Kommunikation
 
-Die komplette Kommunikation der Liga findet über Discord statt. Der Beitritt des Liga Discord-Servers ist für die Dauer der Teilnahme verpflichtend (bis zur Bekanntgabe des Endergebnisses). Der Username auf dem Discord muss den Namen wie er in iRacing verwendet wird enthalten. Der Ingame Voicechat darf innerhalb der Qualifikations- oder Rennsessions nicht verwendet werden (Ausnahme: zeitkritische Kommunikation mit der Rennleitung).
+Die komplette Kommunikation der Liga findet über Discord statt. Der Beitritt des Liga Discord-Servers ist für die Dauer der Teilnahme verpflichtend (bis zur Bekanntgabe des Endergebnisses). Der Username auf dem Discord muss den Namen, wie er in iRacing verwendet wird, enthalten. Der Ingame Voicechat darf innerhalb der Qualifikations- oder Rennsessions nicht verwendet werden (Ausnahme: zeitkritische Kommunikation mit der Rennleitung).
 Während der Race-Session kommuniziert die Rennleitung per Ingamevoice und/oder Ingamechat mit den Fahrern. Die Fahrer haben sicherzustellen, dass sie etwaige Nachrichten der Rennleitung über diese Kanäle empfangen. Nicht befolgte Anweisungen durch versäumtes Verfolgen der Kommunikationskanäle werden wie ein Ignorieren der Anweisung geahndet, es sei denn, der Kommunikationsfehler liegt nachweislich bei der Rennleitung.
 
-Historische Vergehen zur Einordnung des Strafmaßes:
-Chat in Rennsession: "Ihr seid scheiße" -> 8 Strafpunkte
+> **Ein gemeldeter Fahrer/Teamleiter kann nicht erreicht werden kann, da er nicht dem Discordserver beigetreten ist. (Anwendbar max 1x/Protest/Tag)**\
+> 1 Strafpunkt
 
-Wenn ein gemeldeter Fahrer oder Teamleiter nicht erreicht werden kann, da er nicht dem Discordserver beigetreten ist (und beigetreten bleibt). (Anwendbar max 1x/Protest/Tag)
-Strafmaß: 2 Strafpunkte
+> **Ein gemeldeter Fahrer kann für andere Fahrer, aufgrund eines abweichenden Namens, nicht eindeutig zugeordnet werden. (Anwendbar max 1x/Protest/Tag)**\
+> 1 Strafpunkt
 
-Oder
+> **Unerlaubtes verwenden des Ingame Voicechats**\
+> 1 Strafpunkt
 
-Wenn ein gemeldeter Fahrer nicht den Klarnamen im Discord führt. (Anwendbar max 1x/Protest/Tag)
-Strafmaß: 2 Strafpunkte
-
-Unerlaubtes verwenden des Ingame Voicechats
-Strafmaß: 5 Strafpunkte
-
-Beleidigung und andere einem angenehmen Miteinander abträgliche Verhaltensweisen sowohl auf der Strecke im Voice, Text, oder Discord.
-Strafmaß: Strafpunkte je nach Härte, ggf. Ausschluss
+> **Beleidigung und andere einem angenehmen Miteinander abträgliche Verhaltensweisen sowohl auf der Strecke im Voice, Text, oder Discord.**\
+> Strafpunkte je nach Härte
 
 ## §Abschleppen [Q/R]
 
-Eigenständiges Abschleppen ist in Renn-Sessions nicht gestattet. In Renn-Sessions initiiert die Rennleitung das Abschleppen durch die Disqualifikation des Fahrers. In Practice- und Qualifying-Sessions darf selbstständig abgeschleppt werden. In Qualifying- oder Renn-Sessions abgeschleppte Fahrzeuge dürfen nicht am weiteren Verlauf der Session teilnehmen. Fahrzeuge, die nicht am weiteren Verlauf der Session teilnehmen können, werden durch die Rennleitung disqualifiziert.
+Eigenständiges Abschleppen ist in Renn-Sessions nicht gestattet. In Renn-Sessions initiiert die Rennleitung das Abschleppen durch die Disqualifikation des Fahrers. Es qird abgeschleppt sobald ein Fahrzeug längere Zeit ausserhalb der Boxengasse abgestellt ist, oder der Fahrer sich über Discord bei der Rennleitung meldet und um Abschleppen bittet. In Practice- und Qualifying-Sessions darf selbstständig abgeschleppt werden. In Qualifying- oder Renn-Sessions abgeschleppte Fahrzeuge dürfen nicht am weiteren Verlauf der Session teilnehmen. Fahrzeuge, die nicht am weiteren Verlauf der Session teilnehmen können, werden durch die Rennleitung disqualifiziert.
 
-Verlassen der Box nach Abschleppen (Q)
-Strafmaß: 5 Strafpunkte + DSQ Session
+> **Verlassen der Box nach Abschleppen (Q)**\
+> 4 Strafpunkte + DSQ
 
-Eigenständiges Abschleppen (R)
-Strafmaß: 5 Strafpunkte + 50 Positionen Abzug im Rennergebnis + DSQ
+> **Eigenständiges Abschleppen (R)**\
+> 3 Strafpunkte + DSQ
 
-Abschleppen durch Rennleitung
-Strafmaß: DSQ
-§Falsches Fahrzeug [Q/R]
-Die Sessions der DGTL müssen mit dem Fahrzeug bestritten werden, mit dem sie für den Kader ihres Teams gemeldet wurden.
+> **Abschleppen durch Rennleitung**\
+> DSQ
 
-Teilnahme mit falschem Fahrzeug
-Strafmaß: 10 Strafpunkte + Durchfahrtsstrafe
+## §Falsches Fahrzeug [Q/R]
+
+Die Sessions der DGTL müssen mit dem Fahrzeug bestritten werden, mit dem sie für den Kader ihres Teams gemeldet sind.
+
+> **Teilnahme mit falschem Fahrzeug**\
+> 2 Strafpunkte + DT
