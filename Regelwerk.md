@@ -78,7 +78,7 @@ Jeder Fahrer verfügt über ein Strafpunktekonto auf seiner Lizenz. Auf diesem K
 
 ## Zeitstrafen (TP)
 
-Fahrer erhalten Zeitstrafen als Konsequenz für Regelverstöße während einer Rennsession. Ausstehende Zeitstrafen werden jedem Fahrer im DGTL-Overlay angezeigt. Zeitstrafen können mit einem Pitstop kombiniert werden und müssen in der Boxengasse in der Slowlane, allerdings außerhalb der eigenen Pit, abgesessen werden. Dafür muss das Fahrzeug im beschriebenen Bereich zum Stillstand kommen. Solange das Fahrzeug steht, wird im DGTL-Overlay die Zeitstrafe heruntergezählt. Wird die Boxengasse durchfahren müssen eventuel offene Zeitstrafen abgesessen werden. Wird die Boxengasse mit offenen Zeitstrafen verlassen ehöht sich die Zeitstrafe um 5 Sekunden. Zeitstrafen, die bis zum Ende eines Rennens nicht abgesessen wurden, werden nachträglich auf das iRacing Rennergebnis angewandt. Da iRacing im Ergebnis nur Abstände für Fahrer in der Führungsrunde dokumentiert, wird wie folgt vorgegangen:
+Fahrer erhalten Zeitstrafen als Konsequenz für Regelverstöße während einer Rennsession. Ausstehende Zeitstrafen werden jedem Fahrer im DGTL-Overlay angezeigt. Zeitstrafen können mit einem Pitstop kombiniert werden und müssen in der Boxengasse in der Slowlane, allerdings außerhalb der eigenen Pit, abgesessen werden. Dafür muss das Fahrzeug im beschriebenen Bereich zum Stillstand kommen. Solange das Fahrzeug steht, wird im DGTL-Overlay die Zeitstrafe heruntergezählt. Zeitstrafen können in einem Rennen zu jeder Zeit bevor die Checkered Flag angezeigt wird abgesessen werden; auch unter FCY, SC oder Red Flag. Wird die Boxengasse durchfahren müssen eventuel offene Zeitstrafen abgesessen werden. Wird die Boxengasse mit offenen Zeitstrafen verlassen ehöht sich die Zeitstrafe um 5 Sekunden. Zeitstrafen, die bis zum Ende eines Rennens nicht abgesessen wurden, werden nachträglich auf das iRacing Rennergebnis angewandt. Da iRacing im Ergebnis nur Abstände für Fahrer in der Führungsrunde dokumentiert, wird wie folgt vorgegangen:
 
 - Platzierung im iRacing Rennergebnis innerhalb der Führungsrunde: Die ausstehende Zeitstrafe wird nachträglich auf die Platzierung angewendet.
 - Position im iRacing Rennergebnis außerhalb der Führungsrunde: Die Zeitstrafe wird in eine Positionsstrafe umgewandelt, indem mindestens eine Positionsstrafe vergeben wird, plus eine zusätzliche Positionsstrafe pro vollen 5 Sekunden Zeitstrafe (zeitstrafe div 5 + 1).
@@ -108,7 +108,13 @@ Der Fahrer wird von der weiteren Teilnahme an der aktuellen Session ausgeschloss
 
 ## Verwarnung (WARN)
 
-Eine Verwarnung kann anstelle einer Strafe ausgesprochen werden. Ob eine Verwarnung oder eine Strafe ausgesprochen wird, liegt im Ermessen des Rennleiters. Ein Fahrer kann höchstens eine Verwarnung bekommen.
+Ob man verwarnt ist wird im DGTL-Overlay angezeigt.
+
+- 1.Verwarnung = keine Strafe
+- 2.Verwarnung = 3TP
+- 3.Verwarnung = 5TP
+- 4.Verwarnung = DT
+- 5.Verwarnung = DSQ
 
 ## Protest
 
@@ -233,17 +239,15 @@ Bumpdraften ist grundsätzlich erlaubt. Löst es allerdings einen Unfall aus lie
 #### 3 Strafpunkte:
 
 - Auffahrunfall provoziert
-- Schwer zu antizipierendes Verhalten (zB [§Überrunden](#%C3%BCberrunden-r), [§Pace Lap](#pace-lap-r), [§Rejoin](#kontrollverlust-und-rejoin-qr))
+- Fehlverhalten während Unfallsituation (siehe [§Unfallsituationen](#unfallsituationen-yellow-flag-qr))
+- Anhalten auf der Fahrbahn (siehe [§Parken](#parken))
 
 #### 4 Strafpunkte:
 
 - Nicht halten der Linie innerhalb einer Bremszone
 - Nicht halten der Linie auf einer Geraden
 - Blockieren/Gefährliche Fahrweise (siehe [§Gefährliche Fahrweise](#gef%C3%A4hrliche-fahrweise))
-- Gefährlicher Rejoin (siehe [§Rejoin](#kontrollverlust-und-rejoin-qr))
-- Langsamen Befahrens der Ideallinie (siehe [§Defekte und Slowdown](#defekte-und-slowdowns-qr))
-- Anhalten auf der Fahrbahn (siehe [§Parken](#parken))
-- Fehlverhalten während Unfallsituation (siehe [§Unfallsituationen](#unfallsituationen-yellow-flag-qr))
+- Schwer zu antizipierendes Verhalten (zB [§Überrunden](#%C3%BCberrunden-r), [§Pace Lap](#pace-lap-r), [§Rejoin](#kontrollverlust-und-rejoin-qr))
 
 ### Unfallfolge
 
@@ -285,37 +289,37 @@ Während einer FCY-Phase gilt Überholverbot. Verunfallte Fahrzeuge dürfen übe
 
 Eine FCY-Phase neutralisiert das Rennen wobei die Abstände zwischen den Fahrzeugen möglichst gleich bleiben. Um die Abstände beizubehalten zeigt das Overlay ein Delta in Metern ein. Das Delta beschreibt den Abstand in Metern des eigenen Fahrzeugs zu der Position die vom Overlay vorgesehen ist damit die Abstände beibehalten werden. Die vom Overlay vorgesehene Position verschiebt sich dabei nach einer initialien Toleranz mit der Geschwindigkeit der Maximalgeschwindigkeit der Boxengasse. Die Deltaanzeige ist grün wenn sich die vorgesehenen Position vor dem eigenen Fahrzeug berfindet, und rot wenn sie sich hinter dem eigenen Fahrzeug befindet. Das Deltas muss sich zum Ende der FCY-Phase im grünen Bereich befinden.
 
-> Überholen unter VSC mit Positionsgewinn gegenüber nicht verunfallten Fahrzeugen
+> **Überholen unter VSC mit Positionsgewinn gegenüber nicht verunfallten Fahrzeugen**\
 > 5 Strafpunkte + 1 Position Abzug im Rennergebnis
 
-> FCY-Delta zum Ende der FCY-Phase im roten Bereich (<100m)
+> **FCY-Delta zum Ende der FCY-Phase im roten Bereich (<100m)**\
 > 1 Strafpunkte + 3sec Zeitstrafe
 
-> FCY-Delta zum Ende der FCY-Phase im roten Bereich (>=100m)
+> **FCY-Delta zum Ende der FCY-Phase im roten Bereich (>=100m)**\
 > 10 Strafpunkte + DSQ
 
-> Vorsätzliches Vergrößern von Abständen
+> **Vorsätzliches Vergrößern von Abständen**\
 > 5 Strafpunkte + DT
 
 ## §Behinderung Hotlap [Q]
 
 Während einer eigenen Outlap, Inlap, oder abgebrochenen Hotlap muss Fahrern auf einer schnellen Runde (soweit möglich) so Platz gelassen werden, dass ihre Hotlap nicht behindert wird. Die Boxengasse muss so verlassen werden, dass kein Fahrer auf einer schnellen Runde behindert wird.
 
-Vermeidbare Behinderung einer Qualifikationsrunde
-Strafmaß: 5 Strafpunkte
+> **Vermeidbare Behinderung einer Qualifikationsrunde**\
+> 2 Strafpunkte
 
 ## §Überholen abseits der Strecke [R]
 
 Überholmanöver dürfen grundsätzlich nur innerhalb der Streckenbegrenzungen stattfinden. Positionen, die abseits der Strecke gewonnen werden, sind unmittelbar wieder herzugeben.
 
-Positionsgewinne durch Überholen abseits der Strecke
-Strafmaß: 3 Strafpunkte + 1 Position Abzug im Rennergebnis
+> **Positionsgewinne durch Überholen abseits der Strecke**\
+> 2 Strafpunkte & 1 Position Abzug im Rennergebnis
 
 ## §Safety Car [R]
 
-Während der Dauer der Safety Car Phase ist Überholen verboten und die Anweisungen von iRacing zu befolgen. Pitstops dürfen innerhalb einer Safety Car Phase durchgeführt werden, solange die Box nicht durch iRacing geschlossen ist. Sobald das DGTL-Overlay "Pace Lap" anzeigt, beginnt die Re-Startprozedur, die dem normalen Startprozedere entspricht.
+Während der Dauer der Safety Car Phase ist Überholen verboten und die Anweisungen von iRacing zu befolgen. Pitstops dürfen innerhalb einer Safety Car Phase durchgeführt werden, solange die Box nicht durch explizit geschlossen ist. Sobald das DGTL-Overlay "Pace Lap" anzeigt, beginnt die (Re-)Startprozedur, die dem normalen Startprozedere entspricht.
 
-Strafen in der Safetycarphase werden automatisch durch iRacing vergeben
+Strafen in der Safety Car Phase werden automatisch durch iRacing vergeben
 
 ## §Überrunden [R]
 
@@ -325,77 +329,88 @@ Fahrer der überrundet wird (Fahrer B)
 Steht eine Überrundung an, so trägt Fahrer B die Verantwortung, das Überholen zu ermöglichen. Nähert sich eine Überrundung, sollte Fahrer B weiterhin normal die Ideallinie befahren. Plötzliches Verzögern außerhalb der üblichen Bremszonen oder Nichtbeschleunigen aus Kurven heraus ist zu unterlassen, da dieses Verhalten vom nachfolgenden Fahrer schlecht antizipiert werden kann. Ein Verlassen der Ideallinie ist nur gestattet, sofern dies frühzeitig und für Fahrer L klar erkennbar geschieht.
 Die bevorzugte Methode, eine Überrundung durchzuführen, ist das Lupfen des Gaspedals durch Fahrer B, sobald sich Fahrer L aus dem Windschatten heraus neben Fahrer B positioniert hat. Sollte keine Gerade für ein Windschattenüberholmanöver zur Verfügung stehen, sollte die Ideallinie frühzeitig erkennbar durch Fahrer B freigegeben und das Tempo reduziert werden, bis die Überrundung abgeschlossen ist.
 Fahrer B ist verpflichtet, Fahrer L vorbeizulassen, sobald dieser sich neben Fahrer B setzt (jede Überlappung zählt). Sollte Fahrer B eine defensive Linie gegenüber Fahrer L wählen oder wiederholt (ab dem zweiten Mal) trotz Danebensetzen durch Fahrer L die Position nicht aufgeben, wird dies als Blockieren gewertet.
-Blockieren während einer Überrundung
-Strafe: 5 Strafpunkte + 1 Position Abzug im Rennergebnis
 
-Unfall durch schwer zu antizipierendes Verhalten auf der Ideallinie
-Strafe: siehe Kollision "Schwer zu antizipierendes Verhalten"
+> **Blockieren während einer Überrundung**\
+> 3 Strafpunkte + 1 Position Abzug im Rennergebnis
+
+> **Bei Kollision**\
+> siehe [§Kollisionen](#kollisionen-r) "Schwer zu antizipierendes Verhalten"
 
 ## §Inlap [R]
 
-Nach dem Erreichen der Ziellinie ist eine eigenständige Rückkehr zur Box zwingend erforderlich. In der sogenannten Inlap ist mit angepasstem Tempo zu fahren. Vorfälle in der Inlap werden grundsätzlich genauso behandelt wie während des Rennens.
+Nach dem Erreichen der Ziellinie muss das Fahrzeug in der Boxengasse abgestellt werden. Die Boxengasse ist aus eigenem Antrieb zu erreichen. In der sogenannten Inlap ist mit angepasstem Tempo zu fahren. Vorfälle in der Inlap werden grundsätzlich genauso behandelt wie während des Rennens.
 
-Nichterreichen der Boxengasse durch Spritmangel
-Strafe: 3 Strafpunkte + 1 Position Abzug im Rennergebnis
+> **Nichterreichen der Boxengasse durch Spritmangel**\
+> 1 Strafpunkt + 1 Position Abzug im Rennergebnis
 
 ## §Boxengasse [R]
 
-Die Markierungen der Boxeneinfahrt und Boxenausfahrt sind grundsätzlich einzuhalten. Ein vollständiges Überfahren mit mindestens einem Reifen zählt als Überschreitung. Etwaige Besonderheiten werden ggf. im Fahrerbriefing angesprochen. Innerhalb der Boxeneinfahrt und der Boxenausfahrt sowie der Fastlane innerhalb der Boxengasse herrscht Überholverbot. Überlappungen sind nur zur Unfallvermeidung zulässig, wonach die Originalreihenfolge wiederhergestellt werden muss. Innerhalb der Pitlane muss zur Durchfahrt die Fast Lane verwendet werden. Die Slow Lane darf nur im Bereich der eigenen Garage für Pitstops und zum Absitzen von Zeitstrafen verwendet werden. Die Toleranz zur Durchfahrt beträgt jeweils zwei Garagenplätze um den erlaubten Bereich. Fahrzeuge in der Fastlane haben Vorfahrt gegenüber Fahrzeugen der Slow Lane.
+Die durchgezogenen Markierungen der Boxeneinfahrt und Boxenausfahrt sind grundsätzlich einzuhalten. Ein vollständiges Überfahren mit mindestens einem Reifen zählt als Überschreitung. Etwaige Besonderheiten werden ggf. im Fahrerbriefing angesprochen. Innerhalb der Boxeneinfahrt und der Boxenausfahrt sowie der Fastlane innerhalb der Boxengasse herrscht Überholverbot. Überlappungen sind nur zur Unfallvermeidung zulässig, wonach die Originalreihenfolge wiederhergestellt werden muss. Innerhalb der Pitlane muss zur Durchfahrt die Fast Lane verwendet werden. Die Slow Lane darf nur im Bereich der eigenen Pit für Pitstops und zum Absitzen von Zeitstrafen verwendet werden. Die Toleranz zur Durchfahrt beträgt jeweils zwei Garagenplätze um den erlaubten Bereich. Fahrzeuge in der Fastlane haben Vorfahrt gegenüber Fahrzeugen der Slow Lane.
 
-Überschreiten Ein-/Ausfahrt-Markierungen
-Strafmaß: 3 Strafpunkte
+> **Überschreiten Ein-/Ausfahrt-Markierungen**\
+> 2 Strafpunkte
 
-Überholen in Fast Lane oder Ein-/Ausfahrt
-Strafmaß: 3 Strafpunkte + 1 Position Abzug im Rennergebnis
+> **Überholen in Fast Lane oder Ein-/Ausfahrt**\
+> 3 Strafpunkte + 1 Position Abzug im Rennergebnis
 
-Verbotenes Durchfahren der Slow Lane
-Strafmaß: 3 Strafpunkte
+> **Verbotenes Durchfahren der Slow Lane**\
+> 2 Strafpunkte
 
 ## §Pace Lap [R]
 
 Solange im Overlay "Pace Lap" angezeigt wird sind folgende Regeln zu beachten. Es ist ein Maximalabstand zum nächsten Fahrzeug von zwei Fahrzeuglängen einzuhalten. Der Polesetter hat sich dabei am Pacecar zu orientieren. Ob Single oder Double File gefahren wird, wird von iRacing angezeigt. Plötzliches Verzögern oder Beschleunigen ist, abgesehen von Unfallvermeidung, verboten. Wechselt das Overlay auf "Green Flag" ist das Rennen freigegeben und die Einschränkungen der "Pace Lap" nicht länger gültig. Details der Startprozedur können sich für einzelne Rennen ändern. Ist dies der Fall, werden die Fahrer im Briefing informiert.
 
-Überschreiten des Maximalabstands
-Strafmaß: 1 Strafpunkte pro vollen 5 Sekunden
+> **Überschreiten des Maximalabstands**\
+> 1 Strafpunkte pro vollen 5 Sekunden (Sekunden div 5)
 
-Plötzliches Verlangsamen oder Beschleunigen während der Pace Phase
-Strafmaß: 5 Strafpunkte
+> **Plötzliches Verlangsamen oder Beschleunigen während der Pace Phase**\
+> 5 Strafpunkte
 
 ## §Kontrollverlust und Rejoin [Q/R]
 
-Verliert ein Fahrer die Kontrolle über sein Fahrzeug, und ist das Wiedererlangen nicht absehbar, muss die Bremse des Fahrzeugs gehalten werden, bis eine sichere Weiterfahrt möglich ist. Es ist darauf zu achten, sich möglichst vorhersehbar zu Verhalten und nicht bspw. die Ideallinie schnellstmöglich freizumachen. Kommt ein Fahrer von der Strecke ab, oder kommt auf der Fahrbahn zum Stehen, muss gewartet werden, bis ein wieder Auffahren auf die Strecke/ in den Verkehr sicher und vorhersehbar für andere Fahrer erfolgen kann.
+Verliert ein Fahrer die Kontrolle über sein Fahrzeug, und ist das Wiedererlangen nicht absehbar, muss die Bremse des Fahrzeugs gehalten werden, bis eine sichere Weiterfahrt möglich ist. Es ist darauf zu achten, sich möglichst vorhersehbar zu Verhalten und nicht bspw. die Ideallinie schnellstmöglich freizumachen. Kommt ein Fahrer von der Strecke ab, oder kommt auf der Fahrbahn zum Stehen, muss gewartet werden, bis ein wieder Auffahren auf die Strecke/ in den Verkehr sicher und vorhersehbar für andere Fahrer erfolgen kann. Ein sicherer Rejoin zeichnet sich durch einen flachen Winkel beim Wiederauffahren der Strecke aus der möglichst abseits der Ideallinie liegt und keine Bremsmanöver anderer Fahrzeuge zur Unfallvermeidung benötigt.
 
-Nicht halten der Bremse, das eine Gefährdung auslöst
-Strafmaß: 4 Strafpunkte + 3sec Zeitstrafe
+> **Nicht halten der Bremse, das eine Gefährdung auslöst**\
+> 3 Strafpunkte
 
-Wiederauffahren das Ausweichmanöver zur Vermeidung von Unfällen nötig macht.
-Strafmaß: 5 Strafpunkte
+> **Unsicherer Rejoin**\
+> 3 Strafpunkte
+
+> **Bei Kollision**\
+> siehe [§Kollisionen](#kollisionen-r) "Schwer zu antizipierendes Verhalten"
 
 ## §Defekte und Slowdowns [Q/R]
 
 Wenn ein Fahrer aufgrund einer Beschädigung seines Fahrzeugs, oder eines Slowdowns deutlich langsamer ist als andere Fahrzeuge, muss er mit seinem Fahrzeug die Strecke außerhalb der Ideallinie befahren, oder die Ideallinie an geeigneter Stelle frei machen, sobald ein schnelleres Fahrzeug aufschließt. Wenn das Fahrzeug nicht mehr sicher beherrschbar ist und somit eine Gefährdung für die anderen Fahrer darstellt, muss der Fahrer in die Box um das Fahrzeug zu reparieren oder das Rennen beenden.
 
-Langsames Befahren der Ideallinie, das Ausweichmanöver anderer Fahrer zur Vermeidung von Unfällen nötig macht.
-Strafmaß: 5 Strafpunkte
+> **Langsames Befahren der Ideallinie, das Ausweichmanöver anderer Fahrer zur Vermeidung von Unfällen nötig macht.**\
+> 3 Strafpunkte
+
+> **Bei Kollision**\
+> siehe [§Kollisionen](#kollisionen-r) "Schwer zu antizipierendes Verhalten"
 
 ## §Unfallsituationen (Yellow Flag) [Q/R]
 
 In einer Unfallsituation (Fahrzeuge abseits der Strecke/Ideallinie und/oder Kollision) ist das eigene Tempo, sofern ohne zusätzliche Gefährdung möglich, so anzupassen, dass keine weiteren Fahrzeuge gefährdet werden. Überholen nicht im Unfall involvierter Fahrzeuge ist verboten. Das Überholverbot gilt dabei sobald und solange die gelbe Flagge gezeigt wird.
 Das verunfallte Fahrzeug hat die eigenen Bremsen zu halten, bis eine Weiterfahrt sicher möglich ist.
 
-Überholen nicht im Unfall involvierter Fahrzeuge ohne Rückgabe daraus resultierender Positionsgewinne
-Strafmaß: 3 Strafpunkte + 3sec Zeitstrafe
-
-Positionsgewinne können bis zur nächsten Überquerung von Start/Ziel, oder der nächsten Unfallsituation zurückgegeben werden. Je nachdem, was früher eintritt.
+> **Überholen nicht im Unfall involvierter Fahrzeuge mit X Positionsgewinnen**\
+> 3 Strafpunkte + X Positionen Abzug im Rennergebnis
 
 ## §Gefährliche Fahrweise
 
 Eine Fahrweise die Aufgrund ihrer Unvorhersehbarkeit Unfälle provoziert ist zu unterlassen. Dazu zählen das Fahren von Schlangenlinien, das plötzliche Wechseln der Spur in einem Zweikampf, unvermitteltes Verlangsamen des Fahrzeugs außerhalb von Bremszonen, oder das Blockieren anderer Fahrzeuge.
-Blockieren
+
+**Blockieren**\
 Sobald das hintere Fahrzeug auf .5sec oder weniger aufschließt, darf vom vorausfahrenden Fahrzeug pro Gerade einmalig die Linie gewählt werden, die gehalten werden muss. Besteht keine Überlappung beider Fahrzeuge bis zur nächsten Kurve/Bremszone darf die komplette Streckenbreite für die Kurve genutzt werden.
 
-Provozieren eines Unfalls durch gefährliche Fahrweise
-Strafe: 4 Strafpunkte
+> **Provozieren eines Unfalls durch gefährliche Fahrweise**\
+> 2 Strafpunkte & Verwarnung
+
+Strafe:
+
+> **Bei Kollision**\
+> siehe [§Kollisionen](#kollisionen-r) "Schwer zu antizipierendes Verhalten"
 
 ## §Parken
 
