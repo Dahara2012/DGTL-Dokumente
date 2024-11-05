@@ -202,7 +202,7 @@ Die Schuld für Kollisionen, die durch Fahrfehler wie zum Beispiel "Bremsen auf 
 
 ### Aussichtsloser Angriff
 
-Ist von vornherein aussichtslos, d.h. er kann unter Einhaltung der Regeln nicht erfolgreich durchgeführt werden, liegt die Schuld beim Angreifer. Dazu zählt zum Beispiel das Aufmachen eines 3-Wides, wenn die Strecke nur Platz für zwei Fahrzeuge bietet.
+Ist ein Angriff von vornherein aussichtslos, d.h. er kann unter Einhaltung der Regeln nicht erfolgreich durchgeführt werden, liegt die Schuld beim Angreifer. Dazu zählt zum Beispiel das Aufmachen eines 3-Wides, wenn die Strecke nur Platz für zwei Fahrzeuge bietet.
 
 ### 3-Wide und mehr
 
