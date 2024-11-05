@@ -208,11 +208,15 @@ Ist von vornherein aussichtslos, d.h. er kann unter Einhaltung der Regeln nicht 
 
 Wer sich zusätzlich als neuer Angreifer in ein 2-Wide (oder mehr) einmischt trägt grundsätzlich die Schuld sollte es dadurch zu einer Kollision kommen. Eine Ausnahme dazu stellt das offensichtlich Ignorieren des neuen Angreifers durch die ursprünglich im Kampf befindlichen Fahrzeuge dar.
 
+### Schieben/Bumpdraften
+
+Bumpdraften ist grundsätzlich erlaubt. Löst es allerdings einen Unfall aus liegt die Schuld grundsätzlich beim schiebenden Fahrer.
+
 ### Unfallursache
 
 #### 0 Strafpunkte:
 
-- Verbindungsprobleme (siehe §Verbindungsprobleme)
+- Verbindungsprobleme (siehe [§Verbindungsprobleme](#verbindungsprobleme-qr))
 
 #### 2 Strafpunkte:
 
