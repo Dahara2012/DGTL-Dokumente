@@ -204,6 +204,10 @@ Die Schuld für Kollisionen, die durch Fahrfehler wie zum Beispiel "Bremsen auf 
 
 Ist von vornherein aussichtslos, d.h. er kann unter Einhaltung der Regeln nicht erfolgreich durchgeführt werden, liegt die Schuld beim Angreifer. Dazu zählt zum Beispiel das Aufmachen eines 3-Wides, wenn die Strecke nur Platz für zwei Fahrzeuge bietet.
 
+### 3-Wide und mehr
+
+Wer sich zusätzlich als neuer Angreifer in ein 2-Wide (oder mehr) einmischt trägt grundsätzlich die Schuld sollte es dadurch zu einer Kollision kommen. Eine Ausnahme dazu stellt das offensichtlich Ignorieren des neuen Angreifers durch die ursprünglich im Kampf befindlichen Fahrzeuge dar.
+
 ### Unfallursache
 
 #### 0 Strafpunkte:
