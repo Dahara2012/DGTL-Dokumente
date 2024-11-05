@@ -260,24 +260,24 @@ Bumpdraften ist grundsätzlich erlaubt. Löst es allerdings einen Unfall aus lie
 
 Das Durchführen eines Frühstarts ist nicht erlaubt. Als Frühstart zählt das Erlangen eines Vorteils durch Danebensetzen (jede Überlappung zählt), oder Überholen des Vordermanns, bevor das Rennen durch die grüne Flagge des DGTL-Overlays freigegeben ist. Dient das Maneuver in erster Linie der Vermeidung eines Unfalls und nicht der Erlangung eines Vorteils, fällt keine Strafe an. Für den Polesitter zählt das Erhöhen der Geschwindigkeit auf >100km/h vor Freigabe des Rennens als Frühstart.
 
-Durchführen eines Frühstarts
-Strafmaß: 5 Strafpunkte + 5 sec Zeitstrafe
+> **Durchführen eines Frühstarts**\
+> 3 Strafpunkte + 5TP
 
-Durchführen eines Frühstarts mit einem Vorteil > 5sec
-Strafmaß: 10 Strafpunkte + Durchfahrtsstrafe
-§Streckenlimits [R]
-Zur Bewertung der Überschreitung von Streckenlimits werden die Offtracks von iRacing verwendet. Das Überschreiten von Streckenlimits ist verboten, sollte aber zur Unfallvermeidung, wenn nötig, trotzdem gemacht werden. Zwischen Performance Offtracks und Ausweich Offtracks wird nicht unterschieden, da die Erhebung automatisiert erfolgt. Alle fünf Offtracks wird eine Zeitstrafe vergeben. Das erste Mal pro Rennen nach dem zehnten Offtrack.
+> **Durchführen eines Frühstarts mit einem Vorteil > 5sec**\
+> 5 Strafpunkte + DT
 
-## Überschreiten des Offtracklimits
+## §Streckenlimits [R]
 
-Strafmaß: 3 sec Zeitstrafe pro 5 Offtracks
-§Starten aus der Box [R]
+Zur Bewertung der Überschreitung von Streckenlimits werden die Offtracks von iRacing verwendet. Das Überschreiten von Streckenlimits ist verboten, sollte aber zur Unfallvermeidung, wenn nötig, trotzdem gemacht werden. Zwischen Performance Offtracks und Ausweich Offtracks wird nicht unterschieden, da die Erhebung automatisiert erfolgt. Die erste Zeitstrafe gibt es für den zehnten Offtrack, danach alle fünf Offtracks.
+
+> **Überschreiten des Offtracklimits**\
+> 3TP
+
+## §Starten aus der Box [R]
+
 Startet ein Fahrer aus der Box, darf er bis zum Hütchen der Boxenausfahrt vorfahren, bzw. sich hinter anderen wartenden Fahrzeugen einreihen. Es ist das Hütchen bzw. Linie gemeint, bis zu der das Geschwindigkeitslimit der Box gilt. Die Boxengasse darf verlassen werden, sobald das letzte Fahrzeug des Starterfelds das eigene Fahrzeug in der Relative Blackbox überholt hat.
 
-Die Missachtung dieser Regel wird wie ein Frühstart gewertet
-
-Starten aus dem Grid trotz Pflichstart aus der Box
-Strafmaß: 2 Strafpunkte + Durchfahrtsstrafe
+Die Missachtung dieser Regel wird wie ein [Frühstart](#fr%C3%BChstart-r) gewertet
 
 ## §Full Course Yellow Phase [R]
 
