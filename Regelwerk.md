@@ -175,12 +175,12 @@ Wenn sich ein Fahrzeug zum Überholen neben ein anderes Fahrzeug setzt, müssen 
 Wenn sich ein Fahrzeug in einer Kurve neben einem anderen Fahrzeug zum Überholen positioniert, muss je nach Grad der Überlappung zum normalen Einlenkpunkt, nicht dem tatsächlichen Einlenkpunkt, (der Ideallinie) der Kurve wie folgt Platz gelassen werden:
 
 - **Fall A:** Die Vorderreifen des Angreifers sind hinter den Hinterreifen des Verteidigers:
-- Der Verteidiger muss dem Angreifer keinen Platz lassen. Der Angreifer muss zurückziehen.
+  - Der Verteidiger muss dem Angreifer keinen Platz lassen. Der Angreifer muss zurückziehen.
 - **Fall B:** Die Vorderreifen des Angreifers sind vor den Hinterreifen des Verteidigers:
   (aber noch nicht Fall C)
-- Der Verteidiger muss dem Angreifer eine Wagenbreite zwischen seinem eigenen Fahrzeug und der Streckenbegrenzung am Apex lassen. Dasselbe gilt für den Kurvenausgang.
+  - Der Verteidiger muss dem Angreifer eine Wagenbreite zwischen seinem eigenen Fahrzeug und der Streckenbegrenzung am Apex lassen. Dasselbe gilt für den Kurvenausgang.
 - **Fall C:** Die Vorderreifen des Angreifers sind vor den Vorderreifen des Verteidigers:
-- Der Angreifer muss dem Verteidiger eine Wagenbreite Platz zwischen seinem eigenen Fahrzeug und der Streckenbegrenzung auf der Seite des Verteidigers lassen.
+  - Der Angreifer muss dem Verteidiger eine Wagenbreite Platz zwischen seinem eigenen Fahrzeug und der Streckenbegrenzung auf der Seite des Verteidigers lassen.
 
 Unabhängig vom Fall muss der vorgeschriebene Platz gelassen werden, bis das Überholmanöver abgeschlossen ist – das bedeutet bis keine Überlappung der Fahrzeuge mehr besteht.
 
