@@ -285,27 +285,17 @@ Während einer FCY-Phase gilt Überholverbot. Verunfallte Fahrzeuge dürfen übe
 
 Eine FCY-Phase neutralisiert das Rennen wobei die Abstände zwischen den Fahrzeugen möglichst gleich bleiben. Um die Abstände beizubehalten zeigt das Overlay ein Delta in Metern ein. Das Delta beschreibt den Abstand in Metern des eigenen Fahrzeugs zu der Position die vom Overlay vorgesehen ist damit die Abstände beibehalten werden. Die vom Overlay vorgesehene Position verschiebt sich dabei nach einer initialien Toleranz mit der Geschwindigkeit der Maximalgeschwindigkeit der Boxengasse. Die Deltaanzeige ist grün wenn sich die vorgesehenen Position vor dem eigenen Fahrzeug berfindet, und rot wenn sie sich hinter dem eigenen Fahrzeug befindet. Das Deltas muss sich zum Ende der FCY-Phase im grünen Bereich befinden.
 
-Überholen unter VSC mit Positionsgewinn gegenüber nicht verunfallten Fahrzeugen
-Strafmaß: 5 Strafpunkte + 1 Position Abzug im Rennergebnis
+> Überholen unter VSC mit Positionsgewinn gegenüber nicht verunfallten Fahrzeugen
+> 5 Strafpunkte + 1 Position Abzug im Rennergebnis
 
-FCY-Delta zum Ende der FCY-Phase im roten Bereich (<100m)
-Strafmaß: 1 Strafpunkte + 3sec Zeitstrafe
+> FCY-Delta zum Ende der FCY-Phase im roten Bereich (<100m)
+> 1 Strafpunkte + 3sec Zeitstrafe
 
-FCY-Delta zum Ende der FCY-Phase im roten Bereich (>=100m)
-Strafmaß: 10 Strafpunkte + DSQ
+> FCY-Delta zum Ende der FCY-Phase im roten Bereich (>=100m)
+> 10 Strafpunkte + DSQ
 
-Vorsätzliches Vergrößern von Abständen
-Strafmaß: 10 Strafpunkte + DSQ
-
-## §Disconnect des DGTL Overlays [R]
-
-~~Das DGTL Overlay dient der Erfassung von Regelverstößen, und Kommunikation von Informationen der Rennleitung während des Rennens. Um einen fairen Wettbewerb gewährleisten zu können ist das DGTL Overlay deshalb während der Rennen durchgehend auf dem selben Rechner wie iRacing zu verwenden, und eine Verbindung zu den DGTL Servern zu gewährleisten.~~
-
-~~Erster Verbindungsverlust des DGTL Overlays zu den DGTL Servern~~
-~~Strafmaß: Durchfahrtsstrafe~~
-
-~~Zweiter Verbindungsverlust des DGTL Overlays zu den DGTL Servern~~
-~~Strafmaß: DSQ~~
+> Vorsätzliches Vergrößern von Abständen
+> 5 Strafpunkte + DT
 
 ## §Behinderung Hotlap [Q]
 
