@@ -260,10 +260,10 @@ Bumpdraften ist grundsätzlich erlaubt. Löst es allerdings einen Unfall aus lie
 
 Das Durchführen eines Frühstarts ist nicht erlaubt. Als Frühstart zählt das Erlangen eines Vorteils durch Danebensetzen (jede Überlappung zählt), oder Überholen des Vordermanns, bevor das Rennen durch die grüne Flagge des DGTL-Overlays freigegeben ist. Dient das Maneuver in erster Linie der Vermeidung eines Unfalls und nicht der Erlangung eines Vorteils, fällt keine Strafe an. Für den Polesitter zählt das Erhöhen der Geschwindigkeit auf >100km/h vor Freigabe des Rennens als Frühstart.
 
-> **Durchführen eines Frühstarts**\
+> **Durchführen eines Frühstarts mit einem Vorteil < 5sec**\
 > 3 Strafpunkte + 5TP
 
-> **Durchführen eines Frühstarts mit einem Vorteil > 5sec**\
+> **Durchführen eines Frühstarts mit einem Vorteil >= 5sec**\
 > 5 Strafpunkte + DT
 
 ## §Streckenlimits [R]
