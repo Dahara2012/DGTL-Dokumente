@@ -104,7 +104,7 @@ Fahrer erhalten Positionsstrafen als Konsequenz für Regelverstöße während ei
 
 ## Disqualifikation (DSQ)
 
-Der Fahrer wird von der weiteren Teilnahme an der aktuellen Session ausgeschlossen.
+Der Fahrer wird von der weiteren Teilnahme an der aktuellen Session ausgeschlossen. Der Fahrer erhält keine Punkte für die Session.
 
 ## Verwarnung (WARN)
 
