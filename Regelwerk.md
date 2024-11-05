@@ -130,16 +130,19 @@ Regeln können wie folgt markiert sein:
 - [P] Gültig in Practice Sessions
 
 > [!TIP]
-> Für die Wahl der Strafe einiger Reglen ist es relevant ob es einen Positionsverlust oder Vorteil gab. Es wird berücksichtigt ob ein Positionsverlust oder Vorteil zurückgegeben wurde, vorausgesetzt es geschieht innerhalb einer Runde oder bis zum nächsten Zwischenfall (je nachdem was früher Eintritt).
+> Für die Wahl der Strafe einiger Reglen ist es relevant ob es einen Positionsverlust oder anderen Vorteil gab. Es wird berücksichtigt ob ein Positionsverlust oder anderer Vorteil zurückgegeben wurde, vorausgesetzt es geschieht innerhalb einer Runde oder bis zum nächsten Zwischenfall (je nachdem was früher Eintritt).
 
 ## §Abdrängen [Q/R]
 
-Wenn bei nebeneinander fahrenden Fahrzeugen eines der Fahrzeuge das andere Fahrzeug zwingt, zur Unfallvermeidung die Strecke zu verlassen, wird von Abdrängen gesprochen. Das Abdrängen anderer Fahrzeuge ist verboten. Siehe auch “Linienwahl” unter §Kollisionen. Ausweichmanöver, die zur Vermeidung einer Kollision nicht notwendig gewesen wären, werden nicht als Abdrängen gewertet. Die Strecke zählt als verlassen, wenn die Streckenbegrenzung (meist weiße Linie) überfahren werden muss. Je nach Situation kann ein Überfahren der weißen Linie nicht als Verlassen der Strecke gewertet werden, wenn 1. durch das Überfahren kein Nachteil durch Untergrundveränderung stattfindet und 2. kein Offtrack durch iRacing vergeben wird.
+Wenn bei nebeneinander fahrenden Fahrzeugen eines der Fahrzeuge das andere Fahrzeug zwingt, zur Unfallvermeidung die Strecke zu verlassen, wird von Abdrängen gesprochen. Das Abdrängen anderer Fahrzeuge ist verboten. Ausweichmanöver, die zur Vermeidung einer Kollision nicht notwendig gewesen wären, werden nicht als Abdrängen gewertet. Die Strecke zählt als verlassen, wenn die Streckenbegrenzung (meist weiße Linie) überfahren werden muss. Je nach Situation kann ein Überfahren der weißen Linie nicht als Verlassen der Strecke gewertet werden, wenn 1. durch das Überfahren kein Nachteil durch Untergrundveränderung stattfindet und 2. kein Offtrack durch iRacing vergeben wird.
 
 **Strafen**
 
-> **Abdrängen ohne Kollision**\
+> **Abdrängen mit Vorteil (ohne Kollision)**\
 > 1 Strafpunkt & 3TP
+
+> **Abdrängen ohne Vorteil (ohne Kollision)**\
+> 1 Strafpunkt
 
 ## §Verbindungsprobleme [Q/R]
 
