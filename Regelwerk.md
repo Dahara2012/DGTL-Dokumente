@@ -228,22 +228,22 @@ Bumpdraften ist grundsätzlich erlaubt. Löst es allerdings einen Unfall aus lie
 #### 2 Strafpunkte:
 
 - Linienwahl in der Kurve
-- Kollision in Boxengasse oder Ein-/Ausfahrt (siehe <§ Boxengasse >)
+- Kollision in Boxengasse oder Ein-/Ausfahrt (siehe [§Boxengasse](#boxengasse-r))
 
 #### 3 Strafpunkte:
 
 - Auffahrunfall provoziert
-- Schwer zu antizipierendes Verhalten (zB §Überrunden, §Startprozedere, §Rejoin)
+- Schwer zu antizipierendes Verhalten (zB [§Überrunden](#%C3%BCberrunden-r), [§Pace Lap](#pace-lap-r), [§Rejoin](#kontrollverlust-und-rejoin-qr))
 
 #### 4 Strafpunkte:
 
 - Nicht halten der Linie innerhalb einer Bremszone
 - Nicht halten der Linie auf einer Geraden
-- Blockieren/Gefährliche Fahrweise (siehe <§ Gefährliche Fahrweise>)
-- Gefährlicher Rejoin (siehe <§ Rejoin>)
-- Langsamen Befahrens der Ideallinie (siehe <§ Defekte und Slowdown>)
-- Anhalten auf der Fahrbahn (siehe <§ Parken>)
-- Fehlverhalten während Unfallsituation (siehe <§ Unfallsituationen>)
+- Blockieren/Gefährliche Fahrweise (siehe [§Gefährliche Fahrweise](#gef%C3%A4hrliche-fahrweise))
+- Gefährlicher Rejoin (siehe [§Rejoin](#kontrollverlust-und-rejoin-qr))
+- Langsamen Befahrens der Ideallinie (siehe [§Defekte und Slowdown](#defekte-und-slowdowns-qr))
+- Anhalten auf der Fahrbahn (siehe [§Parken](#parken))
+- Fehlverhalten während Unfallsituation (siehe [§Unfallsituationen](#unfallsituationen-yellow-flag-qr))
 
 ### Unfallfolge
 
