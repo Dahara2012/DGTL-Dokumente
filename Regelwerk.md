@@ -218,21 +218,24 @@ Bumpdraften ist grundsätzlich erlaubt. Löst es allerdings einen Unfall aus lie
 
 - Verbindungsprobleme (siehe [§Verbindungsprobleme](#verbindungsprobleme-qr))
 
-#### 2 Strafpunkte:
+#### 1 Strafpunkte:
 
 - Fahrfehler
 - Schieben/Bumpdraften
 - Auffahrunfall
 - Linienwahl in flachen Kurven
 
-#### 3 Strafpunkte:
+#### 2 Strafpunkte:
 
 - Linienwahl in der Kurve
-- Auffahrunfall provoziert
 - Kollision in Boxengasse oder Ein-/Ausfahrt (siehe <§ Boxengasse >)
+
+#### 3 Strafpunkte:
+
+- Auffahrunfall provoziert
 - Schwer zu antizipierendes Verhalten (zB §Überrunden, §Startprozedere, §Rejoin)
 
-#### 5 Strafpunkte:
+#### 4 Strafpunkte:
 
 - Nicht halten der Linie innerhalb einer Bremszone
 - Nicht halten der Linie auf einer Geraden
@@ -244,14 +247,14 @@ Bumpdraften ist grundsätzlich erlaubt. Löst es allerdings einen Unfall aus lie
 
 ### Unfallfolge
 
-Kollision ohne Beschädigung oder Positionsverlust für Unfallgegner
-**3 Sekunden Zeitstrafe**
+> **Kollision ohne Beschädigung oder Positionsverlust für Unfallgegner**\
+> 3TP
 
-Kollision mit Beschädigung oder Positionsverlust für Unfallgegner
-**5 Sekunden Zeitstrafe**
+> **Kollision mit Beschädigung oder Positionsverlust für Unfallgegner**\
+> 5TP
 
-Kollision mit Beschädigung oder Positionsverlust für mehrere Unfallgegner
-**Durchfahrtsstrafe**
+> **Kollision mit Beschädigung oder Positionsverlust für mehrere Unfallgegner**\
+> DT
 
 ## §Frühstart [R]
 
