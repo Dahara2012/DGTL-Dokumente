@@ -164,27 +164,29 @@ Ein Fahrer darf nur am Rennen oder Qualifying teilnehmen, wenn er im Umgang mit 
 
 ## §Kollisionen [R]
 
-Kollisionen sind Berührungen zwischen zwei oder mehr Fahrzeugen, die zu einer Beschädigung und/oder einem Positionsverlust führen. Im Folgenden werden Regeln für den Zweikampf definiert. Ein Abweichen von diesen Regeln führt dazu, dass ein Fahrer im Falle einer Kollision als schuldig gilt. Als Schuldiger erhält man Strafpunkte, abhängig von der Ursache der Kollision, sowie eine Zeitstrafe oder Durchfahrtsstrafe, je nach Schwere der Unfallfolgen. Fahrer sollten daher die aktuelle Situation, insbesondere die Gefahr, das Rennen für viele gleichzeitig negativ zu beeinflussen (zum Beispiel beim Start oder in engen Rennsituationen), in ihre Risikobewertung vor dem Start eines Angriffs einfließen lassen. Wenn bei einer Kollision lediglich der als schuldig ermittelte Fahrer negativ von der Kollision beeinflusst wird, kann auf “No Further Action” (NFA) entschieden werden. Dabei wird berücksichtigt, dass auch regelkonforme Überholmanöver Zeit für alle Beteiligten kosten. Auch wenn kein eindeutig Schuldiger festgestellt werden kann oder beiden Fahrern eine Teilschuld zugesprochen wird, kann auf NFA entschieden werden.
+Kollisionen sind Berührungen zwischen zwei oder mehr Fahrzeugen, die zu einer Beschädigung und/oder einem Positionsverlust führen. Im Folgenden werden Regeln für den Zweikampf definiert. Ein Abweichen von diesen Regeln führt dazu, dass ein Fahrer im Falle einer Kollision als schuldig gilt. Als Schuldiger erhält man Strafpunkte, abhängig von der Ursache der Kollision, sowie eine Zeitstrafe oder Durchfahrtsstrafe, je nach Schwere der Unfallfolgen. Fahrer sollten daher die aktuelle Situation, insbesondere die Gefahr, das Rennen für viele gleichzeitig negativ zu beeinflussen (zum Beispiel beim Start oder in engen Rennsituationen), in ihre Risikobewertung vor dem Start eines Angriffs einfließen lassen. Wenn bei einer Kollision lediglich der als schuldig ermittelte Fahrer negativ von der Kollision beeinflusst wird, kann auf “No Further Action” (NFA) entschieden werden. Auch regelkonforme Überholmanöver kosten alle Beteiligte Zeit, weshalb Zeitverlust nicht als negative Beeinflussung gewertet wird. Auch wenn kein eindeutig Schuldiger festgestellt werden kann oder beiden Fahrern eine Teilschuld zugesprochen wird, kann auf NFA entschieden werden.
 
 ### Linienwahl auf Gerade
 
-Wenn sich ein Fahrzeug zum Überholen neben ein anderes Fahrzeug setzt, müssen beide Fahrzeuge ihre Linie halten. Die Linie gilt als gehalten, wenn der Abstand zur nächsten seitlichen Streckenbegrenzung konstant bleibt. Dabei darf der freie Raum zwischen dem eigenen Fahrzeug und der freien seitlichen Streckenbegrenzung genutzt werden, ohne dass es als Nicht-Halten der Linie gewertet wird. Unabhängig davon ist ein Wechseln der Linie innerhalb einer Bremszone durch den Verteidiger nicht gestattet. Kommt es zur Kollision, liegt die Schuld bei dem Fahrer, der seine Linie nicht gehalten hat.
+Wenn sich ein Fahrzeug zum Überholen neben ein anderes Fahrzeug setzt, müssen beide Fahrzeuge ihre Linie halten. Die Linie gilt als gehalten, wenn der Abstand zur nächsten seitlichen Streckenbegrenzung konstant bleibt. Findet eine Fahrbahnverengung statt muss dem anderen Fahrzeug immer mindestens, sofern möglich, eine Wagenbreite Platz gelassen werden. Reicht die Streckenbreite nicht mehr für beide Fahrzeuge aus muss das hintere Fahrzeug zurückziehen. Sind beide Fahrzeuge gleich auf muss der Angreifer zurückziehen. Der freie Raum zwischen dem eigenen Fahrzeug und der freien seitlichen Streckenbegrenzung darf genutzt werden, ohne dass es als Nicht-Halten der Linie gewertet wird. Unabhängig davon ist ein Wechseln der Linie innerhalb einer Bremszone durch den Verteidiger nicht gestattet. Kommt es zur Kollision, liegt die Schuld bei dem Fahrer, der seine Linie nicht gehalten hat.
 
 ### Linienwahl in der Kurve
 
-Wenn sich ein Fahrzeug in einer Kurve neben einem anderen Fahrzeug zum Überholen positioniert, muss je nach Grad der Überlappung zum gewöhnlichen Einlenkpunkt (der Ideallinie) der Kurve wie folgt Platz gelassen werden:
-Fall A: Die Vorderreifen des Angreifers sind hinter den Hinterreifen des Verteidigers:
-Der Verteidiger muss dem Angreifer keinen Platz lassen. Der Angreifer muss zurückziehen.
-Fall B: Die Vorderreifen des Angreifers sind vor den Hinterreifen des Verteidigers:
-(aber noch nicht Fall C)
-Der Verteidiger muss dem Angreifer eine Wagenbreite zwischen seinem eigenen Fahrzeug und der Streckenbegrenzung am Apex lassen. Dasselbe gilt für den Kurvenausgang.
-Fall C: Die Vorderreifen des Angreifers sind vor den Vorderreifen des Verteidigers:
-Der Angreifer muss dem Verteidiger eine Wagenbreite Platz zwischen seinem eigenen Fahrzeug und der Streckenbegrenzung auf der Seite des Verteidigers lassen.
+Wenn sich ein Fahrzeug in einer Kurve neben einem anderen Fahrzeug zum Überholen positioniert, muss je nach Grad der Überlappung zum normalen Einlenkpunkt, nicht dem tatsächlichen Einlenkpunkt, (der Ideallinie) der Kurve wie folgt Platz gelassen werden:
+
+- **Fall A:** Die Vorderreifen des Angreifers sind hinter den Hinterreifen des Verteidigers:
+- - Der Verteidiger muss dem Angreifer keinen Platz lassen. Der Angreifer muss zurückziehen.
+- **Fall B:** Die Vorderreifen des Angreifers sind vor den Hinterreifen des Verteidigers:
+  (aber noch nicht Fall C)
+- - Der Verteidiger muss dem Angreifer eine Wagenbreite zwischen seinem eigenen Fahrzeug und der Streckenbegrenzung am Apex lassen. Dasselbe gilt für den Kurvenausgang.
+- **Fall C:** Die Vorderreifen des Angreifers sind vor den Vorderreifen des Verteidigers:
+- - Der Angreifer muss dem Verteidiger eine Wagenbreite Platz zwischen seinem eigenen Fahrzeug und der Streckenbegrenzung auf der Seite des Verteidigers lassen.
+
 Unabhängig vom Fall muss der vorgeschriebene Platz gelassen werden, bis das Überholmanöver abgeschlossen ist – das bedeutet bis keine Überlappung der Fahrzeuge mehr besteht.
 
 ### Linienwahl in flachen Kurven
 
-Es handelt sich um eine flache Kurve, wenn die Ideallinie kein Bremsen erfordert und ein kollisionsfreies 2-wide ohne Bremen (aber evtl. Lupfen) möglich ist. Befinden sich zwei Fahrzeuge in einer flachen Kurve ist die Linie so zu wählen, dass beide Fahrzeug die Kurve ohne Berührung und Bremsen mit angemessener Geschwindigkeit navigieren können. Mit angemessen ist dabei eine Linienwahl gemeint, die beide Fahrzeuge als Einheit möglichst schnell durch die Kurve bringt. Taktisches Sperren einer besseren Linie wird im Vergleich zur Anfahrt auf eine reguläre Kurve in flachen Kurven nicht als angemessen betrachtet.
+Es handelt sich um eine flache Kurve, wenn die Ideallinie kein Bremsen (aber evtl. Lupfen) erfordert und ein kollisionsfreies 2-wide möglich ist. Befinden sich zwei Fahrzeuge in einer flachen Kurve ist die Linie so zu wählen, dass beide Fahrzeug die Kurve ohne Berührung und Bremsen mit angemessener Geschwindigkeit navigieren können. Mit angemessen ist dabei eine Linienwahl gemeint, die beide Fahrzeuge als Einheit möglichst schnell durch die Kurve bringt. Taktisches Sperren einer besseren Linie wird im Vergleich zur Anfahrt auf eine reguläre Kurve in flachen Kurven nicht als angemessen betrachtet.
 
 ### Passende Geschwindigkeit
 
