@@ -88,6 +88,9 @@ Fahrer erhalten Zeitstrafen als Konsequenz für Regelverstöße während einer R
 - Platzierung im iRacing Rennergebnis innerhalb der Führungsrunde: Die ausstehende Zeitstrafe wird nachträglich auf die Platzierung angewendet.
 - Position im iRacing Rennergebnis außerhalb der Führungsrunde: Die Zeitstrafe wird in eine Positionsstrafe umgewandelt, indem mindestens eine Positionsstrafe vergeben wird, plus eine zusätzliche Positionsstrafe pro vollen 5 Sekunden Zeitstrafe (zeitstrafe div 5 + 1).
 
+> [!TIP]
+> Das bedeutet für das letzte Fahrzeug in der Führungsrunde hat eine ausstehende Zeistrafe keine Auswirkung
+
 ## Positionsstrafen
 
 Fahrer erhalten Positionsstrafen als Konsequenz für Regelverstöße während einer Rennsession. Diese Strafen werden nach dem Rennen auf das iRacing Rennergebnis angewendet. Für das Endergebnis werden Zeitstrafen vor Positionsstrafen berücksichtigt. Der Algorithmus zur Vergabe von Positionsstrafen funktioniert wie folgt:
