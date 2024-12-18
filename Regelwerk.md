@@ -298,13 +298,16 @@ Eine FCY-Phase neutralisiert das Rennen wobei die Abstände zwischen den Fahrzeu
 > 5 Strafpunkte + 1 Position Abzug im Rennergebnis
 
 > **FCY-Delta zum Ende der FCY-Phase im roten Bereich (<100m)**\
-> 1 Strafpunkte + 3sec Zeitstrafe
+> 1 Strafpunkt + 3sec Zeitstrafe
 
 > **FCY-Delta zum Ende der FCY-Phase im roten Bereich (>=100m)**\
 > 10 Strafpunkte + DSQ
 
 > **Vorsätzliches Vergrößern von Abständen**\
 > 5 Strafpunkte + DT
+
+> **Überlappung während FCY**\
+> 1 Strafpunkt
 
 ## §Behinderung Hotlap [Q]
 
