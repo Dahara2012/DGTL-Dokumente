@@ -443,9 +443,6 @@ siehe [Protest](#protest)
 > **Verfassen einer unerlaubten Antwort in einem Protest wie das Starten oder Fortführen einer Diskussion**\
 > 1 Strafpunkt
 
-> **Eröffnen eines Protests**\
-> 1 Strafpunkt
-
 ## §Kommunikation
 
 Die komplette Kommunikation der Liga findet über Discord statt. Der Beitritt des Liga Discord-Servers ist für die Dauer der Teilnahme verpflichtend (bis zur Bekanntgabe des Endergebnisses). Der Username auf dem Discord muss den Namen, wie er in iRacing verwendet wird, enthalten. Der Ingame Voicechat darf innerhalb der Qualifikations- oder Rennsessions nicht verwendet werden (Ausnahme: zeitkritische Kommunikation mit der Rennleitung).
