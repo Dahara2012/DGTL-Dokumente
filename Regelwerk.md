@@ -397,13 +397,17 @@ Wenn ein Fahrer aufgrund einer Beschädigung seines Fahrzeugs, oder eines Slowdo
 > **Bei Kollision**\
 > siehe [§Kollisionen](#kollisionen-r) "Schwer zu antizipierendes Verhalten"
 
-## §Unfallsituationen (Yellow Flag) [Q/R]
+## §Unfallsituationen (z.B Yellow Flag) [Q/R]
 
-In einer Unfallsituation (Fahrzeuge abseits der Strecke/Ideallinie und/oder Kollision) ist das eigene Tempo, sofern ohne zusätzliche Gefährdung möglich, so anzupassen, dass keine weiteren Fahrzeuge gefährdet werden. Überholen nicht im Unfall involvierter Fahrzeuge ist verboten. Das Überholverbot gilt dabei sobald und solange die gelbe Flagge gezeigt wird.
-Das verunfallte Fahrzeug hat die eigenen Bremsen zu halten, bis eine Weiterfahrt sicher möglich ist.
+In einer Unfallsituation (Fahrzeuge abseits der Strecke/Ideallinie und/oder Kollision) ist das eigene Tempo, sofern ohne zusätzliche Gefährdung möglich, so anzupassen, dass keine weiteren Fahrzeuge gefährdet werden.
+Überholen ist abgesehen von stehenden oder sehr langsamen Fahrzeugen verboten. Das Überholverbot gilt dabei bis die Unfallstelle passiert ist oder die gelbe Flagge aufgehoben wird, je nachdem was später eintritt.
+Verunfallte Fahrzeuge hat die eigenen Bremsen zu halten, bis eine Weiterfahrt sicher möglich ist.
 
 > **Überholen nicht im Unfall involvierter Fahrzeuge mit X Positionsgewinnen**\
 > 3 Strafpunkte + X Positionen Abzug im Rennergebnis
+
+> **Fahren mit nicht angepasster Geschwindigkeit**\
+> 3 Strafpunkte
 
 ## §Gefährliche Fahrweise
 
