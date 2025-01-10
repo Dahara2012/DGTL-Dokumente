@@ -401,7 +401,7 @@ Wenn ein Fahrer aufgrund einer Beschädigung seines Fahrzeugs, oder eines Slowdo
 
 In einer Unfallsituation (Fahrzeuge abseits der Strecke/Ideallinie und/oder Kollision) ist das eigene Tempo, sofern ohne zusätzliche Gefährdung möglich, so anzupassen, dass keine weiteren Fahrzeuge gefährdet werden.
 Überholen ist abgesehen von stehenden oder sehr langsamen Fahrzeugen verboten. Das Überholverbot gilt dabei bis die Unfallstelle passiert ist oder die gelbe Flagge aufgehoben wird, je nachdem was später eintritt.
-Verunfallte Fahrzeuge hat die eigenen Bremsen zu halten, bis eine Weiterfahrt sicher möglich ist.
+Verunfallte Fahrzeuge haben die eigenen Bremsen zu halten, bis eine Weiterfahrt sicher möglich ist.
 
 > **Überholen nicht im Unfall involvierter Fahrzeuge mit X Positionsgewinnen**\
 > 3 Strafpunkte + X Positionen Abzug im Rennergebnis
