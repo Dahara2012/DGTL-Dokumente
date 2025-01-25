@@ -488,5 +488,5 @@ Die Sessions der DGTL müssen mit dem Fahrzeug bestritten werden, mit dem sie f�
 
 Fahrer mit einer Qualifikationssperre dürfen die Boxengasse während einer Qualifikations Session nicht verlassen.
 
-> **Verlassen der Box in einer Qualifokationssession (Q)**\
+> **Verlassen der Box in einer Qualifikationssession (Q)**\
 > 1 Strafpunkt + DT im Rennen
