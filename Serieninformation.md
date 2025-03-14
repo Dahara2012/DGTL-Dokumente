@@ -16,17 +16,15 @@ Die Startgebühr beträgt pro Team 20€ pro Saison. Damit kann ein Team zwei Fa
 
 # Anmeldung und Gaststarts
 
-Informationen zum Anmeldeprozess sind auf der Anmeldeseite zu finden.
+Die Anmeldung findet über die Webseite statt. Ein entsprechendes Formular ist dort zu finden. Die Anzahl der Verfügbaren Startplätze ist auf 20 beschränkt. Sollten sich bis zum Stichtag mehr als 20 Teams anmelden gibt es ein Qualifikationsevent. Teams die sich nicht Qualifizieren können, oder sich nach dem Stichtag anmelden kommen auf eine Warteliste. Teams der Warteliste rücken nach Reigenfolge basierend auf ihrer Platzierung im Qualifying und danach nach dem Zeitpunkt der Anmeldung nach.
 
-Gehen die Anmeldungen über die verfügbare Anzahl freier Plätze hinaus, findet ein Qualifikationsevent statt. In der Qualifikation ausgeschiedene Teams und Nachmeldungen kommen auf eine Warteliste, die nachrückt, sollten Plätze frei werden.
+Fristen und Termine können dem Ligakalender entnommen werden.
 
 Gaststarter sind diese Saison nicht vorgesehen.
 
-Als Nachmeldung zählt jede Anmeldung, die nach dem Stichtag für das Qualifikationsevent eingehen.
-
 # Qualifikation
 
-Info folgt
+Eine Qualifikationsevent wird durchgeführt sofern die Anzahl eingegangener Anmeldungen die Anzahl verfügbarer Startplätze zum Stichtag überschreitet. Bei dem Qualifikationsevent handelt es sich um eine Open Qualifying Session. Aus den gefahrenen schnellsten Runden wird ein Ranking der Teams nach dem DGTL Punkteschema erstellt. Pro Team werden dabei die Platzierung der jeweils zwei schlechtesten Fahrer gewertet, um Chancengleichheit zwischen Teams mit zwei Fahrern und Teams mit mehr Fahrern herzustellen. Die 20 besten Teams erhalten dabei einen Startplatz für die kommende Saison. Teams auf den weiteren Plätzen kommen auf die Nachrückliste.
 
 # Ablauf
 
