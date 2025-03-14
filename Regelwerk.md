@@ -397,13 +397,17 @@ Wenn ein Fahrer aufgrund einer Beschädigung seines Fahrzeugs, oder eines Slowdo
 > **Bei Kollision**\
 > siehe [§Kollisionen](#kollisionen-r) "Schwer zu antizipierendes Verhalten"
 
-## §Unfallsituationen (Yellow Flag) [Q/R]
+## §Unfallsituationen (z.B Yellow Flag) [Q/R]
 
-In einer Unfallsituation (Fahrzeuge abseits der Strecke/Ideallinie und/oder Kollision) ist das eigene Tempo, sofern ohne zusätzliche Gefährdung möglich, so anzupassen, dass keine weiteren Fahrzeuge gefährdet werden. Überholen nicht im Unfall involvierter Fahrzeuge ist verboten. Das Überholverbot gilt dabei sobald und solange die gelbe Flagge gezeigt wird.
-Das verunfallte Fahrzeug hat die eigenen Bremsen zu halten, bis eine Weiterfahrt sicher möglich ist.
+In einer Unfallsituation (Fahrzeuge abseits der Strecke/Ideallinie und/oder Kollision) ist das eigene Tempo, sofern ohne zusätzliche Gefährdung möglich, so anzupassen, dass keine weiteren Fahrzeuge gefährdet werden.
+Überholen ist abgesehen von stehenden oder sehr langsamen Fahrzeugen verboten. Das Überholverbot gilt dabei bis die Unfallstelle passiert ist oder die gelbe Flagge aufgehoben wird, je nachdem was später eintritt.
+Verunfallte Fahrzeuge haben die eigenen Bremsen zu halten, bis eine Weiterfahrt sicher möglich ist.
 
 > **Überholen nicht im Unfall involvierter Fahrzeuge mit X Positionsgewinnen**\
 > 3 Strafpunkte + X Positionen Abzug im Rennergebnis
+
+> **Fahren mit nicht angepasster Geschwindigkeit**\
+> 3 Strafpunkte
 
 ## §Gefährliche Fahrweise
 
@@ -443,9 +447,6 @@ siehe [Protest](#protest)
 > **Verfassen einer unerlaubten Antwort in einem Protest wie das Starten oder Fortführen einer Diskussion**\
 > 1 Strafpunkt
 
-> **Eröffnen eines Protests**\
-> 1 Strafpunkt
-
 ## §Kommunikation
 
 Die komplette Kommunikation der Liga findet über Discord statt. Der Beitritt des Liga Discord-Servers ist für die Dauer der Teilnahme verpflichtend (bis zur Bekanntgabe des Endergebnisses). Der Username auf dem Discord muss den Namen, wie er in iRacing verwendet wird, enthalten. Der Ingame Voicechat darf innerhalb der Qualifikations- oder Rennsessions nicht verwendet werden (Ausnahme: zeitkritische Kommunikation mit der Rennleitung).
@@ -465,10 +466,10 @@ Während der Race-Session kommuniziert die Rennleitung per Ingamevoice und/oder 
 
 ## §Abschleppen [Q/R]
 
-Eigenständiges Abschleppen ist in Renn-Sessions nicht gestattet. In Renn-Sessions initiiert die Rennleitung das Abschleppen durch die Disqualifikation des Fahrers. Es qird abgeschleppt sobald ein Fahrzeug längere Zeit ausserhalb der Boxengasse abgestellt ist, oder der Fahrer sich über Discord bei der Rennleitung meldet und um Abschleppen bittet. In Practice- und Qualifying-Sessions darf selbstständig abgeschleppt werden. In Qualifying- oder Renn-Sessions abgeschleppte Fahrzeuge dürfen nicht am weiteren Verlauf der Session teilnehmen. Fahrzeuge, die nicht am weiteren Verlauf der Session teilnehmen können, werden durch die Rennleitung disqualifiziert.
+Eigenständiges Abschleppen ist in Renn-Sessions nicht gestattet. In Renn-Sessions initiiert die Rennleitung das Abschleppen durch die Disqualifikation des Fahrers. Es wird abgeschleppt sobald ein Fahrzeug längere Zeit ausserhalb der Boxengasse abgestellt ist, oder der Fahrer sich über Discord bei der Rennleitung meldet und um Abschleppen bittet. In Practice- und Qualifying-Sessions darf selbstständig abgeschleppt werden. In Qualifying- oder Renn-Sessions abgeschleppte Fahrzeuge dürfen nicht am weiteren Verlauf der Session teilnehmen. Fahrzeuge, die nicht am weiteren Verlauf der Session teilnehmen können, werden durch die Rennleitung disqualifiziert.
 
 > **Verlassen der Box nach Abschleppen (Q)**\
-> 4 Strafpunkte + DSQ
+> 4 Strafpunkte + DT im Rennen
 
 > **Eigenständiges Abschleppen (R)**\
 > 3 Strafpunkte + DSQ
@@ -482,3 +483,10 @@ Die Sessions der DGTL müssen mit dem Fahrzeug bestritten werden, mit dem sie f�
 
 > **Teilnahme mit falschem Fahrzeug**\
 > 2 Strafpunkte + DT
+
+## **§Teilnahme an Qualifikation trotz Qualifikationssperre [Q]**
+
+Fahrer mit einer Qualifikationssperre dürfen die Boxengasse während einer Qualifikations Session nicht verlassen.
+
+> **Verlassen der Box in einer Qualifikationssession (Q)**\
+> 1 Strafpunkt + DT im Rennen
