@@ -24,7 +24,7 @@ Gaststarter sind diese Saison nicht vorgesehen.
 
 # Qualifikation
 
-Eine Qualifikationsevent wird durchgeführt sofern die Anzahl eingegangener Anmeldungen die Anzahl verfügbarer Startplätze zum Stichtag überschreitet. Bei dem Qualifikationsevent handelt es sich um eine Open Qualifying Session. Aus den gefahrenen schnellsten Runden wird ein Ranking der Teams nach dem DGTL Punkteschema erstellt. Pro Team werden dabei die Platzierung der jeweils zwei schlechtesten Fahrer gewertet, um Chancengleichheit zwischen Teams mit zwei Fahrern und Teams mit mehr Fahrern herzustellen. Die 20 besten Teams erhalten dabei einen Startplatz für die kommende Saison. Teams auf den weiteren Plätzen kommen auf die Nachrückliste.
+Eine Qualifikationsevent wird durchgeführt sofern die Anzahl eingegangener Anmeldungen die Anzahl verfügbarer Startplätze zum Stichtag überschreitet. Bei dem Qualifikationsevent handelt es sich um eine Open Qualifying Session. Aus den gefahrenen schnellsten Runden wird ein Ranking der Teams nach dem DGTL Punkteschema erstellt. Pro Team werden dabei die Platzierung der jeweils zwei schlechtesten Fahrer gewertet, um Chancengleichheit zwischen Teams mit zwei Fahrern und Teams mit mehr Fahrern herzustellen. Die 20 besten Teams erhalten dabei einen Startplatz für die kommende Saison. Teams auf den weiteren Plätzen kommen auf die Warteliste.
 
 # Ablauf
 
