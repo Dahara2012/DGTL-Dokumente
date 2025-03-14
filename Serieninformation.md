@@ -152,4 +152,4 @@ Sollten Teams am Ende der Saison Punktegleichstand haben, wird die Endplatzierun
 
 [^1]: Die Distanz eines Rennens wird in Runden festgelegt. Die Anzahl dieser Runden wird so festgelegt, dass sie in etwa einer Renndauer von 90 Minuten (bei trockenen Bedingungen) entspricht.
 [^2]: Die letzte reguläre Rennrunde ist die letzte komplette Rennrunde die vom Führenden unter Grüner Flagge beendet wurde.
-[^3]: Der Ligakalender kann [hier](https://dgtl.dahara.de/#h.kv6esdq53hli) gefunden werden und mit klicken von "zu Kalender hinzufügen" dem eigenen Kaledner hinzugefügt werden.
+[^3]: Der Ligakalender kann [hier](https://dgtl.dahara.de/#h.kv6esdq53hli) gefunden werden und mit klicken von "zu Kalender hinzufügen" dem eigenen Kalender hinzugefügt werden.
