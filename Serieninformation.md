@@ -8,8 +8,6 @@ Die Liga-Saison umfasst sechs Rennen, die normalerweise im Zwei-Wochen-Rhythmus 
 
 Im Vorfeld der Rennen stellt die Liga Trainingsserver zur Verfügung. Die Startpositionen für jedes Rennen werden in einem offenen Qualifying ermittelt.
 
-[^1]: Die Distanz eines Rennens wird in Runden festgelegt. Die Anzahl dieser Runden wird so festgelegt, dass sie in etwa einer Renndauer von 90 Minuten (bei trockenen Bedingungen) entspricht.
-
 # Startgebühr
 
 Die Startgebühr beträgt pro Team 20€ pro Saison. Damit kann ein Team zwei Fahrzeuge für die Saison stellen. Die Startgebühr wird verwendet, um die Organisation, Server und Preise zu finanzieren. Die Startgebühr muss bis spätestens 2 Wochen vor Saisonstart eingegangen sein, sonst kann der Startplatz anderweitig vergeben werden. Für ein vorzeitiges Ausscheiden, egal ob durch Disqualifikation oder freiwilligen Rücktritt, gibt es keine Erstattung der Startgebühr. Wenn die Saison aus organisatorischen oder technischen Gründen im Vorfeld abgesagt werden muss, werden bereits gezahlte Startgelder zurückerstattet. Alle Informationen zum Zahlungsvorgang werden während des Anmeldeprozesses kommuniziert. Sollten Teams erst nach dem ersten Rennen nachrücken, zahlen sie eine um die Hälfte ermäßigte Startgebühr.
@@ -22,7 +20,7 @@ Für den ersten, zweiten und dritten Platz in der Teamwertung wird am Ende der S
 
 Die Anmeldung findet über die Webseite statt. Ein entsprechendes Formular ist dort zu finden. Die Anzahl der Verfügbaren Startplätze ist auf 20 beschränkt. Sollten sich bis zum Stichtag mehr als 20 Teams anmelden gibt es ein Qualifikationsevent. Teams die sich nicht Qualifizieren können, oder sich nach dem Stichtag anmelden kommen auf eine Warteliste. Teams der Warteliste rücken nach Reigenfolge basierend auf ihrer Platzierung im Qualifying und danach nach dem Zeitpunkt der Anmeldung nach.
 
-Fristen und Termine können dem Ligakalender entnommen werden.
+Fristen und Termine können dem Ligakalender[^3] entnommen werden.
 
 Gaststarter sind diese Saison nicht vorgesehen.
 
@@ -79,8 +77,6 @@ Fahrer mit DNF oder TOW erhalten Punkte basierend auf ihrer Endplatzierung.
 
 Fahrer mit DSQ erhalten keine Punkte.
 
-[^2]: Die letzte reguläre Rennrunde ist die letzte komplette Rennrunde die vom Führenden unter Grüner Flagge beendet wurde.
-
 - P01: 75 Punkte
 - P02: 70 Punkte
 - P03: 65 Punkte
@@ -127,7 +123,7 @@ Fahrer mit DSQ erhalten keine Punkte.
 
 Es gibt einen aktiven Streckenpool und einen inaktiven Streckenpool mit jeweils 20 Strecken. Der Rennkalender einer Saison ergibt sich aus den sechs Strecken die am längsten nicht mehr in der DGTL gefahren worden sind. Diese sechs Strecken werden dabei durch die Liga Leitung auf die zuvor bekanntgebenem Renntermine aufgeteilt. Die Ligaleitung kann zwischen Saisons die Zusammensetzung des inaktiven Pools durch tauschen mit anderen iRacing Strecken verändern; der aktive Pool wird nicht modifiziert. Pro Saison gibt es zwei Abstimmungen. Die Teamleiter können drei Strecken voten, die aus dem aktiven Streckenpool in den inaktiven Streckenpool wechseln und drei Strecken voten, die aus dem inaktiven Streckenpool in den aktiven Streckenpol wechslen.
 
-Die Termine zum Voting und zur Bekanntgabe des Rennkalenders können dem Ligakalender entnommen werden.
+Die Termine zum Voting und zur Bekanntgabe des Rennkalenders können dem Ligakalender[^3] entnommen werden.
 
 # Verschiebung
 
@@ -153,3 +149,7 @@ Sollten Teams am Ende der Saison Punktegleichstand haben, wird die Endplatzierun
 2. Vorteil für die Partei mit mehr Rennteilnahmen.
 3. Vorteil für die Partei mit der niedrigeren Summe aller Platzierungen aller Rennen.
 4. Reihenfolge der Anmeldung für die Saison; der Vorteil liegt dabei auf Seiten der früheren Anmeldung.
+
+[^1]: Die Distanz eines Rennens wird in Runden festgelegt. Die Anzahl dieser Runden wird so festgelegt, dass sie in etwa einer Renndauer von 90 Minuten (bei trockenen Bedingungen) entspricht.
+[^2]: Die letzte reguläre Rennrunde ist die letzte komplette Rennrunde die vom Führenden unter Grüner Flagge beendet wurde.
+[^3]: Der Ligakalender kann [hier](https://dgtl.dahara.de/#h.kv6esdq53hli) gefunden werden und mit klicken von "zu Kalender hinzufügen" dem eigenen Kaledner hinzugefügt werden.
