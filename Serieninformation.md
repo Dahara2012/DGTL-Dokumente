@@ -10,13 +10,34 @@ Im Vorfeld der Rennen stellt die Liga Trainingsserver zur Verfügung. Die Startp
 
 [^1]: Die Distanz eines Rennens wird in Runden festgelegt. Die Anzahl dieser Runden wird so festgelegt, dass sie in etwa einer Renndauer von 90 Minuten (bei trockenen Bedingungen) entspricht.
 
-# Briefing
-
-Vor jedem Rennen findet ein Briefing statt. Die Teilnahme am Briefing ist nicht verpflichtend, stellt aber die letzte Möglichkeit dar vor einem Rennen Fragen zu stellen. Alle Informationen, die im Briefing kommuniziert werden, können auch im Briefingdokument nachgelesen werden. Dabei ist darauf zu achten, dass das Dokument bis zum Briefing noch aktualisiert werden kann. Kenntnis über alle Informationen, die im Briefing kommuniziert werden, wird vorausgesetzt. Im Briefing werden eventuell veränderte Abläufe kommuniziert. Es wird an Regeln erinnert, die zuletzt problematisch waren, Hinweise der Rennleitung vorgelesen und an angewandte oder abzusitzende Strafen erinnert. Das Briefingdokument enthält darüber hinaus Informationen zu den Wetter/InSim Einstellungen der Sessions.
-
 # Startgebühr
 
 Die Startgebühr beträgt pro Team 20€ pro Saison. Damit kann ein Team zwei Fahrzeuge für die Saison stellen. Die Startgebühr wird verwendet, um die Organisation, Server und Preise zu finanzieren. Die Startgebühr muss bis spätestens 2 Wochen vor Saisonstart eingegangen sein, sonst kann der Startplatz anderweitig vergeben werden. Für ein vorzeitiges Ausscheiden, egal ob durch Disqualifikation oder freiwilligen Rücktritt, gibt es keine Erstattung der Startgebühr. Wenn die Saison aus organisatorischen oder technischen Gründen im Vorfeld abgesagt werden muss, werden bereits gezahlte Startgelder zurückerstattet. Alle Informationen zum Zahlungsvorgang werden während des Anmeldeprozesses kommuniziert. Sollten Teams erst nach dem ersten Rennen nachrücken, zahlen sie eine um die Hälfte ermäßigte Startgebühr.
+
+# Anmeldung und Gaststarts
+
+Informationen zum Anmeldeprozess sind auf der Anmeldeseite zu finden.
+
+Gehen die Anmeldungen über die verfügbare Anzahl freier Plätze hinaus, findet ein Qualifikationsevent statt. In der Qualifikation ausgeschiedene Teams und Nachmeldungen kommen auf eine Warteliste, die nachrückt, sollten Plätze frei werden.
+
+Gaststarter sind diese Saison nicht vorgesehen.
+
+Als Nachmeldung zählt jede Anmeldung, die nach dem Stichtag für das Qualifikationsevent eingehen.
+
+# Qualifikation
+
+Info folgt
+
+# Ablauf
+
+Der Ablauf am Renntag ist wie folgt:
+
+- (19:00 Uhr) Open Practice (50min)
+- (19:50 Uhr) Briefing (10min)
+- (20:00 Uhr) Qualifying (20min)
+- (20.20 Uhr) Warmup (10min)
+- (20.30 Uhr) Rennen (90min)
+- (22.00 Uhr) Interviews
 
 # Fahrzeugwahl
 
@@ -34,14 +55,17 @@ Aktueller Fahrzeugpool:
 - Ford Mustang GT3
 - Honda GT3
 
-# Tie Breaker
+# Setups
 
-Sollten Teams am Ende der Saison Punktegleichstand haben, wird die Endplatzierung nach folgenden Kriterien in folgender Reihenfolge entschieden. Sobald ein Kriterium einen Unterschied zwischen beiden Parteien zum Vorteil einer Partei ergibt, erhält diese Partei die bessere der zu entscheidenden Platzierungen; mögliche weitere Kriterien werden dann nicht weiter betrachtet:
+Das Setup für alle Rennen der DGTL ist nicht vorgegeben. Es wird mit Open Setup gefahren.
 
-1. Vorteil für die Partei mit weniger Strafpunkten zum Saisonende.
-2. Vorteil für die Partei mit mehr Rennteilnahmen.
-3. Vorteil für die Partei mit der niedrigeren Summe aller Platzierungen aller Rennen.
-4. Reihenfolge der Anmeldung für die Saison; der Vorteil liegt dabei auf Seiten der früheren Anmeldung.
+# Briefing
+
+Vor jedem Rennen findet ein Briefing statt. Die Teilnahme am Briefing ist nicht verpflichtend, stellt aber die letzte Möglichkeit dar vor einem Rennen Fragen zu stellen. Alle Informationen, die im Briefing kommuniziert werden, können auch im Briefingdokument nachgelesen werden. Dabei ist darauf zu achten, dass das Dokument bis zum Briefing noch aktualisiert werden kann. Kenntnis über alle Informationen, die im Briefing kommuniziert werden, wird vorausgesetzt. Im Briefing werden eventuell veränderte Abläufe kommuniziert. Es wird an Regeln erinnert, die zuletzt problematisch waren, Hinweise der Rennleitung vorgelesen und an angewandte oder abzusitzende Strafen erinnert. Das Briefingdokument enthält darüber hinaus Informationen zu den Wetter/InSim Einstellungen der Sessions.
+
+# Kader
+
+Ein Kader umfasst alle Fahrer, die für ein Team startberechtigt sind. Ein Kader ist auf 4 Fahrer begrenzt. Der Teamleiter kann die Zusammenstellung des eigenen Kaders verändern. Dafür meldet er Änderungen bei der Liga-Organisation. Fahrer können auch aus dem Kader entfernt werden; dabei verlieren sie allerdings alle Punkte, die sie in der laufenden Saison bis zu diesem Zeitpunkt erfahren haben. Die Bearbeitung von Anträgen für Änderungen am Kader können bis zu 24h dauern, Fahrer daher bitte rechtzeitig vor einem Rennen melden.
 
 # Punktevergabe
 
@@ -97,21 +121,6 @@ Fahrer mit DSQ erhalten keine Punkte.
 - P40: 01 Punkt
 - P40+: 0 Punkte
 
-# Kader
-
-Ein Kader umfasst alle Fahrer, die für ein Team startberechtigt sind. Ein Kader ist auf 4 Fahrer begrenzt. Der Teamleiter kann die Zusammenstellung des eigenen Kaders verändern. Dafür meldet er Änderungen bei der Liga-Organisation. Fahrer können auch aus dem Kader entfernt werden; dabei verlieren sie allerdings alle Punkte, die sie in der laufenden Saison bis zu diesem Zeitpunkt erfahren haben. Die Bearbeitung von Anträgen für Änderungen am Kader können bis zu 24h dauern, Fahrer daher bitte rechtzeitig vor einem Rennen melden.
-
-# Ablauf
-
-Der Ablauf am Renntag ist wie folgt:
-
-- (19:00 Uhr) Open Practice (50min)
-- (19:50 Uhr) Briefing (10min)
-- (20:00 Uhr) Qualifying (20min)
-- (20.20 Uhr) Warmup (10min)
-- (20.30 Uhr) Rennen (90min)
-- (22.00 Uhr) Interviews
-
 # Rennkalender
 
 Es gibt einen aktiven Streckenpool und einen inaktiven Streckenpool mit jeweils 20 Strecken. Der Rennkalender einer Saison ergibt sich aus den sechs Strecken die am längsten nicht mehr in der DGTL gefahren worden sind. Diese sechs Strecken werden dabei durch die Liga Leitung auf die zuvor bekanntgebenem Renntermine aufgeteilt. Die Ligaleitung kann zwischen Saisons die Zusammensetzung des inaktiven Pools durch tauschen mit anderen iRacing Strecken verändern; der aktive Pool wird nicht modifiziert. Pro Saison gibt es zwei Abstimmungen. Die Teamleiter können drei Strecken voten, die aus dem aktiven Streckenpool in den inaktiven Streckenpool wechseln und drei Strecken voten, die aus dem inaktiven Streckenpool in den aktiven Streckenpol wechslen.
@@ -121,22 +130,6 @@ Die Termine zum Voting und zur Bekanntgabe des Rennkalenders können dem Ligakal
 # Verschiebung
 
 Die Rennkommission behält sich vor, im Falle technischer oder anderer Probleme die Veranstaltung am Rennabend abzubrechen und zu verschieben, oder zu annullieren. Wird ein Ersatztermin anberaumt, wird dieser zeitnah über Discord (#ankündigungen) bekannt gegeben.
-
-# Anmeldung und Gaststarts
-
-Informationen zum Anmeldeprozess sind auf der Anmeldeseite zu finden.
-
-Gehen die Anmeldungen über die verfügbare Anzahl freier Plätze hinaus, findet ein Qualifikationsevent statt. In der Qualifikation ausgeschiedene Teams und Nachmeldungen kommen auf eine Warteliste, die nachrückt, sollten Plätze frei werden.
-
-Gaststarter sind diese Saison nicht vorgesehen.
-
-Als Nachmeldung zählt jede Anmeldung, die nach dem Stichtag für das Qualifikationsevent eingehen.
-
-# Qualifikation
-
-# Setups
-
-Das Setup für alle Rennen der DGTL ist nicht vorgegeben. Es wird mit Open Setup gefahren.
 
 # Livestream
 
@@ -153,3 +146,12 @@ Die Tankkapazität in der DGTL beträgt in der Regel 60%. Damit benötigen Fahrz
 # Regeln, Strafen und Proteste
 
 Die Rennsessions werden von einer Live-Rennkommission überwacht. Strafen werden live vergeben. Vorfälle werden nach der jeweils aktuellen Version des Dahara Standardregelwerks entschieden.
+
+# Tie Breaker
+
+Sollten Teams am Ende der Saison Punktegleichstand haben, wird die Endplatzierung nach folgenden Kriterien in folgender Reihenfolge entschieden. Sobald ein Kriterium einen Unterschied zwischen beiden Parteien zum Vorteil einer Partei ergibt, erhält diese Partei die bessere der zu entscheidenden Platzierungen; mögliche weitere Kriterien werden dann nicht weiter betrachtet:
+
+1. Vorteil für die Partei mit weniger Strafpunkten zum Saisonende.
+2. Vorteil für die Partei mit mehr Rennteilnahmen.
+3. Vorteil für die Partei mit der niedrigeren Summe aller Platzierungen aller Rennen.
+4. Reihenfolge der Anmeldung für die Saison; der Vorteil liegt dabei auf Seiten der früheren Anmeldung.
