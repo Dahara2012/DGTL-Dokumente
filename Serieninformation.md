@@ -14,6 +14,10 @@ Im Vorfeld der Rennen stellt die Liga Trainingsserver zur Verfügung. Die Startp
 
 Die Startgebühr beträgt pro Team 20€ pro Saison. Damit kann ein Team zwei Fahrzeuge für die Saison stellen. Die Startgebühr wird verwendet, um die Organisation, Server und Preise zu finanzieren. Die Startgebühr muss bis spätestens 2 Wochen vor Saisonstart eingegangen sein, sonst kann der Startplatz anderweitig vergeben werden. Für ein vorzeitiges Ausscheiden, egal ob durch Disqualifikation oder freiwilligen Rücktritt, gibt es keine Erstattung der Startgebühr. Wenn die Saison aus organisatorischen oder technischen Gründen im Vorfeld abgesagt werden muss, werden bereits gezahlte Startgelder zurückerstattet. Alle Informationen zum Zahlungsvorgang werden während des Anmeldeprozesses kommuniziert. Sollten Teams erst nach dem ersten Rennen nachrücken, zahlen sie eine um die Hälfte ermäßigte Startgebühr.
 
+# Preise
+
+Für den ersten, zweiten und dritten Platz in der Teamwertung wird am Ende der Saison dem jeweiligen Teamleiter ein Pokal überreicht. Sollte ein Teamleiter nicht innerhalb von einer Woche nach dem ersten Kontaktversuch der Ligaleitung zum Zweck der Preisübergabe reagieren, verfällt jeder Anspruch auf einen Preis. Preise werden nur verliehen, wenn das Starterfeld > 20 Fahrzeuge bzw. 10 Teams ist.
+
 # Anmeldung und Gaststarts
 
 Die Anmeldung findet über die Webseite statt. Ein entsprechendes Formular ist dort zu finden. Die Anzahl der Verfügbaren Startplätze ist auf 20 beschränkt. Sollten sich bis zum Stichtag mehr als 20 Teams anmelden gibt es ein Qualifikationsevent. Teams die sich nicht Qualifizieren können, oder sich nach dem Stichtag anmelden kommen auf eine Warteliste. Teams der Warteliste rücken nach Reigenfolge basierend auf ihrer Platzierung im Qualifying und danach nach dem Zeitpunkt der Anmeldung nach.
@@ -132,10 +136,6 @@ Die Rennkommission behält sich vor, im Falle technischer oder anderer Probleme 
 # Livestream
 
 Die Rennen werden live übertragen. Eine Übertragung von DGTL Veranstaltung ohne vorherige Erlaubnis ist nicht zulässig. Eine Ausnahme stellt eine Übertragung dar, die nur auf das eigene Auto fokussiert ist und nicht versucht einen Überblick über das gesamte Renngeschehen zu bieten. Jene ist ohne gesonderte Erlaubnis möglich.
-
-# Preise
-
-Für den ersten, zweiten und dritten Platz in der Teamwertung wird am Ende der Saison dem jeweiligen Teamleiter ein Pokal überreicht. Sollte ein Teamleiter nicht innerhalb von einer Woche nach dem ersten Kontaktversuch der Ligaleitung zum Zweck der Preisübergabe reagieren, verfällt jeder Anspruch auf einen Preis. Preise werden nur verliehen, wenn das Starterfeld > 20 Fahrzeuge bzw. 10 Teams ist.
 
 # Balance of Performance
 
