@@ -53,7 +53,7 @@ Fahrer mit DNF oder TOW erhalten Punkte basierend auf ihrer Endplatzierung.
 
 Fahrer mit DSQ erhalten keine Punkte.
 
-[^2]: die letzte reguläre Rennrunde ist die letzte komplette Rennrunde die vom Führenden unter Grüner Flagge beendet wurde.
+[^2]: Die letzte reguläre Rennrunde ist die letzte komplette Rennrunde die vom Führenden unter Grüner Flagge beendet wurde.
 
 - P01: 75 Punkte
 - P02: 70 Punkte
@@ -114,14 +114,9 @@ Der Ablauf am Renntag ist wie folgt:
 
 # Rennkalender
 
-Die Termine der Rennen der aktuellen Saison können dem Channel #info des Discords, dem Kalenderbereich der Webseite entnommen, oder als Google Kalender eingebunden werden. Die Strecken des Rennkalenders ergeben sich aus den Stimmen aller Teamleiter zwei Wochen vor Ligastart. Dabei kann allen Strecken des Streckenpools eine Stimme gegeben werden. Strecken behalten ihre Stimmen aus vorherigen Saisons als Bonusstimmen. Bonusstimmen werden für zukünftige Saisons genullt, sobald sie gefahren werden. Die sechs Strecken mit den meisten Stimmen ergeben den Rennkalender für die anstehende Saison und werden durch die Ligaleitung auf die festgelegten Renntage aufgeteilt. Sollte das Ergebnis durch Stimmengleichstand nicht eindeutig sein, entscheidet die Ligaleitung über die Nominierung der fraglichen Strecken. Der Streckenpool, der zur Wahl steht, besteht aus 20 Strecken, die sich wie folgt zusammensetzten:
+Es gibt einen aktiven Streckenpool und einen inaktiven Streckenpool mit jeweils 20 Strecken. Der Rennkalender einer Saison ergibt sich aus den sechs Strecken die am längsten nicht mehr in der DGTL gefahren worden sind. Diese sechs Strecken werden dabei durch die Liga Leitung auf die zuvor bekanntgebenem Renntermine aufgeteilt. Die Ligaleitung kann zwischen Saisons die Zusammensetzung des inaktiven Pools durch tauschen mit anderen iRacing Strecken verändern; der aktive Pool wird nicht modifiziert. Pro Saison gibt es zwei Abstimmungen. Die Teamleiter können drei Strecken voten, die aus dem aktiven Streckenpool in den inaktiven Streckenpool wechseln und drei Strecken voten, die aus dem inaktiven Streckenpool in den aktiven Streckenpol wechslen.
 
-    Die sechs Strecken, die in der Vorsaison gefahren wurden
-
-    Die zehn Strecken mit den aktuell meisten Bonusstimmen
-
-    Vier Strecken, die in der Vorsaison nicht zur Wahl standen
-    (1 aus Europa, 1 Amerika, 1 aus Asien/Ozeanien, 1 aus Beliebig)
+Die Termine zum Voting und zur Bekanntgabe des Rennkalenders können dem Ligakalender entnommen werden.
 
 # Verschiebung
 
@@ -137,6 +132,8 @@ Gaststarter sind diese Saison nicht vorgesehen.
 
 Als Nachmeldung zählt jede Anmeldung, die nach dem Stichtag für das Qualifikationsevent eingehen.
 
+# Qualifikation
+
 # Setups
 
 Das Setup für alle Rennen der DGTL ist nicht vorgegeben. Es wird mit Open Setup gefahren.
@@ -147,11 +144,11 @@ Die Rennen werden live übertragen. Eine Übertragung von DGTL Veranstaltung ohn
 
 # Preise
 
-Für den ersten, zweiten und dritten Platz in der Teamwertung wird am Ende der Saison dem jeweiligen Teamleiter ein Pokal überreicht. Sollte ein Teamleiter nicht innerhalb von einer Woche nach dem ersten Kontaktversuch der Ligaleitung zum Zweck der Preisübergabe reagieren, verfällt jeder Anspruch auf einen Preis. Preise werden nur verliehen, wenn das Starterfeld > 20 Fahrzeuge ist.
+Für den ersten, zweiten und dritten Platz in der Teamwertung wird am Ende der Saison dem jeweiligen Teamleiter ein Pokal überreicht. Sollte ein Teamleiter nicht innerhalb von einer Woche nach dem ersten Kontaktversuch der Ligaleitung zum Zweck der Preisübergabe reagieren, verfällt jeder Anspruch auf einen Preis. Preise werden nur verliehen, wenn das Starterfeld > 20 Fahrzeuge bzw. 10 Teams ist.
 
 # Balance of Performance
 
-Die Tankkapazität in der DGTL beträgt in der Regel 60%. Damit benötigen Fahrzeuge im Normalfall (SC Phasen oder andere unplanmäßige Ereignisse außen vorgenommen) 3 Stints zur Beendigung eines Rennens. Informationen zur gültigen BoP können dem aktuellen Briefing Dokument entnommen werden.
+Die Tankkapazität in der DGTL beträgt in der Regel 60%. Damit benötigen Fahrzeuge im Normalfall (SC Phasen oder andere unplanmäßige Ereignisse außen vorgenommen) 3 Stints zur Beendigung eines Rennens. Zusätzliche BoP Anpassungen sind nicht vorgesehen. Steht allerdings eine aktuelle alternative BoP zur Verfügung (bspw. eines iRacing Special Events zur selben Strecken) kann diese übernommen werden. Die Informationen zur jeweils gültigen BoP können dem aktuellen Briefing Dokument entnommen werden.
 
 # Regeln, Strafen und Proteste
 
