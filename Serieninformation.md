@@ -18,7 +18,7 @@ Für den ersten, zweiten und dritten Platz in der Teamwertung wird am Ende der S
 
 # Anmeldung und Gaststarts
 
-Die Anmeldung findet über die Webseite statt. Ein entsprechendes Formular ist dort zu finden. Die Anzahl der Verfügbaren Startplätze ist auf 20 beschränkt. Sollten sich bis zum Stichtag mehr als 20 Teams anmelden gibt es ein Qualifikationsevent. Teams die sich nicht Qualifizieren können, oder sich nach dem Stichtag anmelden kommen auf eine Warteliste. Teams der Warteliste rücken nach Reigenfolge basierend auf ihrer Platzierung im Qualifying und danach nach dem Zeitpunkt der Anmeldung nach.
+Die Anmeldung findet über die Webseite statt. Ein entsprechendes Formular ist dort zu finden. Die Anzahl der Verfügbaren Startplätze ist auf 20 beschränkt. Sollten sich bis zum Stichtag mehr als 20 Teams anmelden gibt es ein Qualifikationsevent. Teams die sich nicht Qualifizieren können, oder sich nach dem Stichtag anmelden kommen auf eine Warteliste. Teams der Warteliste rücken nach Reihenfolge basierend auf ihrer Platzierung im Qualifying und danach nach dem Zeitpunkt der Anmeldung nach.
 
 Fristen und Termine können dem Ligakalender[^3] entnommen werden.
 
@@ -26,7 +26,7 @@ Gaststarter sind diese Saison nicht vorgesehen.
 
 # Qualifikation
 
-Eine Qualifikationsevent wird durchgeführt sofern die Anzahl eingegangener Anmeldungen die Anzahl verfügbarer Startplätze zum Stichtag überschreitet. Bei dem Qualifikationsevent handelt es sich um eine Open Qualifying Session. Aus den gefahrenen schnellsten Runden wird ein Ranking der Teams nach dem DGTL Punkteschema erstellt. Pro Team werden dabei die Platzierung der jeweils zwei schlechtesten Fahrer gewertet, um Chancengleichheit zwischen Teams mit zwei Fahrern und Teams mit mehr Fahrern herzustellen. Die 20 besten Teams erhalten dabei einen Startplatz für die kommende Saison. Teams auf den weiteren Plätzen kommen auf die Warteliste.
+Eine Qualifikationsevent wird durchgeführt sofern die Anzahl eingegangener Anmeldungen die Anzahl verfügbarer Startplätze zum Stichtag überschreitet. Bei dem Qualifikationsevent handelt es sich um eine Open Qualifying Session. Aus den gefahrenen schnellsten Runden wird ein Ranking der Teams nach dem DGTL Punkteschema erstellt. Pro Team werden dabei die Platzierung der jeweils zwei schlechtesten der angetretenen Fahrer gewertet, um Chancengleichheit zwischen Teams mit zwei Fahrern und Teams mit mehr Fahrern herzustellen. Die 20 besten Teams erhalten dabei einen Startplatz für die kommende Saison. Teams auf den weiteren Plätzen kommen auf die Warteliste.
 
 # Ablauf
 
@@ -63,15 +63,17 @@ Das Setup für alle Rennen der DGTL ist nicht vorgegeben. Es wird mit Open Setup
 
 Vor jedem Rennen findet ein Briefing statt. Die Teilnahme am Briefing ist nicht verpflichtend, stellt aber die letzte Möglichkeit dar vor einem Rennen Fragen zu stellen. Alle Informationen, die im Briefing kommuniziert werden, können auch im Briefingdokument nachgelesen werden. Dabei ist darauf zu achten, dass das Dokument bis zum Briefing noch aktualisiert werden kann. Kenntnis über alle Informationen, die im Briefing kommuniziert werden, wird vorausgesetzt. Im Briefing werden eventuell veränderte Abläufe kommuniziert. Es wird an Regeln erinnert, die zuletzt problematisch waren, Hinweise der Rennleitung vorgelesen und an angewandte oder abzusitzende Strafen erinnert. Das Briefingdokument enthält darüber hinaus Informationen zu den Wetter/InSim Einstellungen der Sessions.
 
+# Wetter
+
+Für die Seassions der DGTL wird dynamisches Wetter verwendet. Die genauen Verhältnisse der Sessions sind im Vorfeld also nicht bekannt. Im Vorfeld werden die Parameter bekanntgegeben mit denen das Wetter generiert wird (Regenwahrscheinlichkeit, Temperatur, Windgeschwindigkeit). Ein detaillierter Wetterbericht wird am Vortag jedes Rennens veröffentlicht.
+
 # Kader
 
-Ein Kader umfasst alle Fahrer, die für ein Team startberechtigt sind. Ein Kader ist auf 4 Fahrer begrenzt. Der Teamleiter kann die Zusammenstellung des eigenen Kaders verändern. Dafür meldet er Änderungen bei der Liga-Organisation. Fahrer können auch aus dem Kader entfernt werden; dabei verlieren sie allerdings alle Punkte, die sie in der laufenden Saison bis zu diesem Zeitpunkt erfahren haben. Die Bearbeitung von Anträgen für Änderungen am Kader können bis zu 24h dauern, Fahrer daher bitte rechtzeitig vor einem Rennen melden.
+Ein Kader umfasst alle Fahrer, die für ein Team startberechtigt sind. Ein Kader ist auf 4 Fahrer begrenzt. Der Teamleiter kann die Zusammenstellung des eigenen Kaders verändern. Dafür meldet er Änderungen bei der Liga-Organisation. Fahrer können auch aus dem Kader entfernt werden; dabei gehen allerdings alle Punkte verloren, die der Fahrer in der laufenden Saison bis zu diesem Zeitpunkt erfahren hat. Die Bearbeitung von Anträgen für Änderungen am Kader können bis zu 24h dauern, Fahrer daher bitte rechtzeitig vor einem Rennen melden.
 
 # Punktevergabe
 
-Punkte werden nach der Veröffentlichung des offiziellen Ergebnisses nach dem folgenden Schema vergeben. Die Teamwertung ergibt sich aus den kumulierten Punkte ihrer Fahrer. Gewertet werden alle Fahrer, die an den Start gehen. Wird das Rennen abgebrochen, werden bei <50% zurückgelegter regulärer Rennrunden von der Anzahl angedachter Rennrunden halbe Punkte vergeben, sonst volle Punkte. Im Falle eines Rennabbruchs zählen die Platzierungen aus der letzten regulären Rennrunde[^2] (vor einer etwaigen SC-Phase).
-
-Schnellste Rennrunde innerhalb der Top10: +4 Punkte
+Punkte werden nach der Veröffentlichung des offiziellen Ergebnisses nach dem folgenden Schema vergeben. Die Teamwertung ergibt sich aus den kumulierten Punkte ihrer Fahrer. Gewertet werden alle Fahrer, die an den Start gehen. Wird das Rennen abgebrochen, werden bei <50% zurückgelegter regulärer Rennrunden von der Anzahl angedachter Rennrunden halbe Punkte vergeben, sonst volle Punkte. Im Falle eines Rennabbruchs zählen die Platzierungen aus der letzten regulären Rennrunde[^2].
 
 Fahrer mit DNF oder TOW erhalten Punkte basierend auf ihrer Endplatzierung.
 
@@ -135,7 +137,7 @@ Die Rennen werden live übertragen. Eine Übertragung von DGTL Veranstaltung ohn
 
 # Balance of Performance
 
-Die Tankkapazität in der DGTL beträgt in der Regel 60%. Damit benötigen Fahrzeuge im Normalfall (SC Phasen oder andere unplanmäßige Ereignisse außen vorgenommen) 3 Stints zur Beendigung eines Rennens. Zusätzliche BoP Anpassungen sind nicht vorgesehen. Steht allerdings eine aktuelle alternative BoP zur Verfügung (bspw. eines iRacing Special Events zur selben Strecken) kann diese übernommen werden. Die Informationen zur jeweils gültigen BoP können dem aktuellen Briefing Dokument entnommen werden.
+Die Tankkapazität in der DGTL beträgt in der Regel 60%. Damit benötigen Fahrzeuge im Normalfall (SC Phasen oder andere unplanmäßige Ereignisse außen vorgenommen) 3 Stints zur Beendigung eines Rennens. Zusätzliche BoP Anpassungen sind nicht vorgesehen. Steht allerdings eine aktuelle alternative BoP zur Verfügung (bspw. eines iRacing Special Events zur selben Strecken) kann diese übernommen werden. Alle Informationen zur jeweils gültigen BoP können dem aktuellen Briefing Dokument entnommen werden.
 
 # Regeln, Strafen und Proteste
 
