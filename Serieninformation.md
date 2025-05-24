@@ -65,7 +65,7 @@ Vor jedem Rennen findet ein Briefing statt. Die Teilnahme am Briefing ist nicht 
 
 # Wetter
 
-Für die Seassions der DGTL wird dynamisches Wetter verwendet. Die genauen Verhältnisse der Sessions sind im Vorfeld also nicht bekannt. Im Vorfeld werden die Parameter bekanntgegeben mit denen das Wetter generiert wird (Regenwahrscheinlichkeit, Temperatur, Windgeschwindigkeit). Ein detaillierter Wetterbericht wird am Vortag jedes Rennens veröffentlicht.
+Für die Seassions der DGTL wird dynamisches Wetter verwendet. Die genauen Verhältnisse der Sessions sind im Vorfeld also nicht bekannt. Im Briefingdokuemnt werden im Vorfeld die Parameter bekanntgegeben mit denen das Wetter generiert wird (Regenwahrscheinlichkeit, Temperatur, Windgeschwindigkeit). Ein detaillierter Wetterbericht wird am Vortag jedes Rennens veröffentlicht.
 
 # Kader
 
