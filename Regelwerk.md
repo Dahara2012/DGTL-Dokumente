@@ -72,7 +72,9 @@ Zeigt an, dass die FCY-Phase in wenigen Sekunden aufgehoben wird. FCY-Ending ist
 Strafpunkte werden in einem Strafpunktekonto auf der Lizenz jedes Fahrers erfasst.
 Strafpunktekonten sind Event und Saisonübergreifend für alle Dahara Veranstaltungen.
 Strafpunkte haben ein Verfallsdatum das in der Regel ein Jahr beträgt.
-Für jede Rennteilnahme erhält man -1 Strafpunkt. Auch Minuspunkte haben ein Verfallsdatum.
+Für jede Rennteilnahme erhält man -1 Strafpunkt. 
+Für eine angetretene Quali-Sperre erhält man -1 Strafpunkt.
+Auch Minuspunkte haben ein Verfallsdatum.
 Hat ein Fahrer mehr als 10 Strafpunkte ist er von Qualifying-Sessions ausgeschlossen.
 Hat ein Fahrer mehr als 20 Strafpunkte ist er von Renn-Sessions ausgeschlossen.
 Maßgeblich ist der Strafpunktekontostand am Tag des jeweiligen Rennens.
@@ -83,7 +85,7 @@ Maßgeblich ist der Strafpunktekontostand am Tag des jeweiligen Rennens.
 
 ## Zeitstrafen (TP)
 
-Fahrer erhalten Zeitstrafen als Konsequenz für Regelverstöße während einer Rennsession. Ausstehende Zeitstrafen werden jedem Fahrer im DGTL-Overlay angezeigt. Zeitstrafen können mit einem Pitstop kombiniert werden und müssen in der Boxengasse in der Slowlane, allerdings außerhalb der eigenen Pit, abgesessen werden. Dafür muss das Fahrzeug im beschriebenen Bereich zum Stillstand kommen. Solange das Fahrzeug steht, wird im DGTL-Overlay die Zeitstrafe heruntergezählt. Zeitstrafen können in einem Rennen zu jeder Zeit bevor die Checkered Flag angezeigt wird abgesessen werden; auch unter FCY, SC oder Red Flag. Wird die Boxengasse durchfahren müssen eventuel offene Zeitstrafen abgesessen werden. Wird die Boxengasse mit offenen Zeitstrafen verlassen ehöht sich die Zeitstrafe um 5 Sekunden. Zeitstrafen, die bis zum Ende eines Rennens nicht abgesessen wurden, werden nachträglich auf das iRacing Rennergebnis angewandt. Da iRacing im Ergebnis nur Abstände für Fahrer in der Führungsrunde dokumentiert, wird wie folgt vorgegangen:
+Fahrer erhalten Zeitstrafen als Konsequenz für Regelverstöße während einer Rennsession. Ausstehende Zeitstrafen werden jedem Fahrer im DGTL-Overlay angezeigt. Zeitstrafen können mit einem Pitstop kombiniert werden und müssen in der Boxengasse in der Slowlane, allerdings außerhalb der eigenen Pit, abgesessen werden. Dafür muss das Fahrzeug im beschriebenen Bereich zum Stillstand kommen. Solange das Fahrzeug steht, wird im DGTL-Overlay die Zeitstrafe heruntergezählt. Zeitstrafen können in einem Rennen zu jeder Zeit bevor die Checkered Flag angezeigt wird abgesessen werden; auch unter FCY oder SC. Wird die Boxengasse durchfahren (ausgenommen bei einer Red Flag) müssen eventuel offene Zeitstrafen abgesessen werden. Wird die Boxengasse mit offenen Zeitstrafen verlassen ehöht sich die Zeitstrafe um 5 Sekunden. Zeitstrafen, die bis zum Ende eines Rennens nicht abgesessen wurden, werden nachträglich auf das iRacing Rennergebnis angewandt. Da iRacing im Ergebnis nur Abstände für Fahrer in der Führungsrunde dokumentiert, wird wie folgt vorgegangen:
 
 - Platzierung im iRacing Rennergebnis innerhalb der Führungsrunde: Die ausstehende Zeitstrafe wird nachträglich auf die Platzierung angewendet.
 - Position im iRacing Rennergebnis außerhalb der Führungsrunde: Die Zeitstrafe wird in eine Positionsstrafe umgewandelt, indem mindestens eine Positionsstrafe vergeben wird, plus eine zusätzliche Positionsstrafe pro vollen 5 Sekunden Zeitstrafe (zeitstrafe div 5 + 1).
@@ -100,7 +102,7 @@ Fahrer erhalten Positionsstrafen als Konsequenz für Regelverstöße während ei
 - Fahrer mit Positionsstrafe erhalten die Anzahl ihrer Positionsstrafen zu ihrer Position addiert.
 - Die Fahrer werden nach ihrer neuen Position sortiert.
 - Wenn zwei Fahrer dieselbe Position haben, erhält derjenige Fahrer mit dem besseren Ergebnis im vorläufigen Ergebnis die vordere Position.
-- Die sortierte Liste wird chronologisch durchgezählt, um die Endposition zu ermitteln.
+- Die Endposition werden basierend auf der neuen sortierten Liste vergeben.
 
 ## Durchfahrtsstrafe (DT)
 
@@ -160,6 +162,7 @@ Wenn bei nebeneinander fahrenden Fahrzeugen eines der Fahrzeuge das andere Fahrz
 
 ## §Verbindungsprobleme [Q/R]
 
+(Wird nur noch angewandt sollte die neue Erkennung von iRacing unzureichend funktionieren)
 Verbindungsprobleme zum iRacing Server gefährden andere Fahrzeuge durch sogenanntes “blinken”. Fällt der Rennkommission ein blinkender Fahrer auf, wird dieser Verwarnt und über ingame Textchat auf diesen Umstand aufmerksam gemacht. Tritt Blinken zwei Runden nach der Benachrichtigung oder später erneut auf, wird der Fahrer disqualifiziert.
 
 **Strafen**
@@ -176,7 +179,7 @@ Ein Fahrer darf nur am Rennen oder Qualifying teilnehmen, wenn er im Umgang mit 
 > **Mangelnde Fahrzeugkontrolle oder Streckenkenntnis**\
 > 2 Strafpunkte & DSQ
 
-## §Kollisionen [R]
+## §Kollisionen [Q/R]
 
 Kollisionen sind Berührungen zwischen zwei oder mehr Fahrzeugen, die zu einer Beschädigung und/oder einem Positionsverlust führen. Im Folgenden werden Regeln für den Zweikampf definiert. Ein Abweichen von diesen Regeln führt dazu, dass ein Fahrer im Falle einer Kollision als schuldig gilt. Als Schuldiger erhält man Strafpunkte, abhängig von der Ursache der Kollision, sowie eine Zeitstrafe oder Durchfahrtsstrafe, je nach Schwere der Unfallfolgen. Fahrer sollten daher die aktuelle Situation, insbesondere die Gefahr, das Rennen für viele gleichzeitig negativ zu beeinflussen (zum Beispiel beim Start oder in engen Rennsituationen), in ihre Risikobewertung vor dem Start eines Angriffs einfließen lassen. Wenn bei einer Kollision lediglich der als schuldig ermittelte Fahrer negativ von der Kollision beeinflusst wird, kann auf “No Further Action” (NFA) entschieden werden. Auch regelkonforme Überholmanöver kosten alle Beteiligte Zeit, weshalb Zeitverlust nicht als negative Beeinflussung gewertet wird. Auch wenn kein eindeutig Schuldiger festgestellt werden kann oder beiden Fahrern eine Teilschuld zugesprochen wird, kann auf NFA entschieden werden.
 
@@ -188,9 +191,9 @@ Wenn sich ein Fahrzeug zum Überholen neben ein anderes Fahrzeug setzt, müssen 
 
 Wenn sich ein Fahrzeug in einer Kurve neben einem anderen Fahrzeug zum Überholen positioniert, muss je nach Grad der Überlappung zum normalen Einlenkpunkt, nicht dem tatsächlichen Einlenkpunkt, (der Ideallinie) der Kurve wie folgt Platz gelassen werden:
 
-- **Fall A:** Die Vorderreifen des Angreifers sind hinter den Hinterreifen des Verteidigers:
+- **Fall A:** Die Vorderachse des Angreifers befindet sich hinter den Hinterachse des Verteidigers:
   - Der Verteidiger muss dem Angreifer keinen Platz lassen. Der Angreifer muss zurückziehen.
-- **Fall B:** Die Vorderreifen des Angreifers sind vor den Hinterreifen des Verteidigers:
+- **Fall B:** Die Vorderachse des Angreifers befindet sich vor der Hinterachse des Verteidigers:
   (aber noch nicht Fall C)
   - Der Verteidiger muss dem Angreifer eine Wagenbreite zwischen seinem eigenen Fahrzeug und der Streckenbegrenzung am Apex lassen. Dasselbe gilt für den Kurvenausgang.
 - **Fall C:** Die Vorderreifen des Angreifers sind vor den Vorderreifen des Verteidigers:
@@ -262,21 +265,27 @@ Bumpdraften ist grundsätzlich erlaubt. Löst es allerdings einen Unfall aus lie
 > **Kollision ohne Beschädigung oder Positionsverlust für Unfallgegner**\
 > 3TP
 
-> **Kollision mit Beschädigung oder Positionsverlust für Unfallgegner**\
-> 5TP
+> **Kollision mit offensichtlicher Beschädigung oder Positionsverlust für Unfallgegner**\
+> 6TP
 
-> **Kollision mit Beschädigung oder Positionsverlust für mehrere Unfallgegner**\
+> **Kollision mit offensichtlich DNF-würdigen Unfallschaden für Unfallgegner**\
+> DT
+
+> **Kollision mit offensichtlicher Beschädigung oder Positionsverlust für mehrere Unfallgegner**\
 > DT
 
 ## §Frühstart [R]
 
-Das Durchführen eines Frühstarts ist nicht erlaubt. Als Frühstart zählt das Erlangen eines Vorteils durch Danebensetzen (jede Überlappung zählt), oder Überholen des Vordermanns, bevor das Rennen durch die grüne Flagge des DGTL-Overlays freigegeben ist. Dient das Maneuver in erster Linie der Vermeidung eines Unfalls und nicht der Erlangung eines Vorteils, fällt keine Strafe an. Für den Polesitter zählt das Erhöhen der Geschwindigkeit auf >100km/h vor Freigabe des Rennens als Frühstart.
+Das Durchführen eines Frühstarts ist nicht erlaubt. Als Frühstart zählt das Erlangen eines Vorteils durch Danebensetzen (jede Überlappung zählt), oder Überholen des Vordermanns, bevor das Rennen durch die grüne Flagge des DGTL-Overlays freigegeben ist. Dient das Maneuver in erster Linie der Vermeidung eines Unfalls und nicht der Erlangung eines Vorteils, fällt keine Strafe an. Für den Polesitter zählt das Erhöhen der Geschwindigkeit auf >100km/h erreichen der Startzone als Frühstart.
 
 > **Durchführen eines Frühstarts mit einem Vorteil < 5sec**\
-> 3 Strafpunkte + 5TP
+> 2 Strafpunkte + 5TP
 
 > **Durchführen eines Frühstarts mit einem Vorteil >= 5sec**\
-> 5 Strafpunkte + DT
+> 4 Strafpunkte + DT
+
+> **Durchführen eines Frühstarts mit einem Vorteil >= 10sec**\
+> 4 Strafpunkte + DSQ
 
 ## §Streckenlimits [R]
 
@@ -298,16 +307,16 @@ Während einer FCY-Phase gilt Überholverbot. Verunfallte Fahrzeuge dürfen übe
 Eine FCY-Phase neutralisiert das Rennen wobei die Abstände zwischen den Fahrzeugen möglichst gleich bleiben. Um die Abstände beizubehalten zeigt das Overlay ein Delta in Metern ein. Das Delta beschreibt den Abstand in Metern des eigenen Fahrzeugs zu der Position die vom Overlay vorgesehen ist damit die Abstände beibehalten werden. Die vom Overlay vorgesehene Position verschiebt sich dabei nach einer initialien Toleranz mit der Geschwindigkeit der Maximalgeschwindigkeit der Boxengasse. Die Deltaanzeige ist grün wenn sich die vorgesehenen Position vor dem eigenen Fahrzeug berfindet, und rot wenn sie sich hinter dem eigenen Fahrzeug befindet. Das Deltas muss sich zum Ende der FCY-Phase im grünen Bereich befinden. Während FCY-Phasen ist Single File zu fahren; bestehende Überlappungen zu anderen Fahrzeugen sind zeitnah aufzulösen.
 
 > **Überholen unter VSC mit Positionsgewinn gegenüber nicht verunfallten Fahrzeugen**\
-> 5 Strafpunkte + 1 Position Abzug im Rennergebnis
+> 3 Strafpunkte + 1 Position Abzug im Rennergebnis
 
 > **FCY-Delta zum Ende der FCY-Phase im roten Bereich (<100m)**\
 > 1 Strafpunkt + 3sec Zeitstrafe
 
 > **FCY-Delta zum Ende der FCY-Phase im roten Bereich (>=100m)**\
-> 10 Strafpunkte + DSQ
+> 5 Strafpunkte + DSQ
 
 > **Vorsätzliches Vergrößern von Abständen**\
-> 5 Strafpunkte + DT
+> 3 Strafpunkte + DT
 
 > **Überlappung während FCY**\
 > 1 Strafpunkt
@@ -328,14 +337,14 @@ Während einer eigenen Outlap, Inlap, oder abgebrochenen Hotlap muss Fahrern auf
 
 ## §Safety Car [R]
 
-Während der Dauer der Safety Car Phase ist Überholen verboten und die Anweisungen von iRacing zu befolgen. Pitstops dürfen innerhalb einer Safety Car Phase durchgeführt werden, solange die Box nicht durch explizit geschlossen ist. Sobald das DGTL-Overlay "Pace Lap" anzeigt, beginnt die (Re-)Startprozedur, die dem normalen Startprozedere entspricht.
+Während der Dauer der Safety Car Phase ist Überholen verboten und die Anweisungen von iRacing zu befolgen. Pitstops dürfen innerhalb einer Safety Car Phase durchgeführt werden, solange die Box nicht explizit geschlossen ist. Sobald das DGTL-Overlay "Pace Lap" anzeigt, beginnt die (Re-)Startprozedur, die dem normalen Startprozedere entspricht.
 
 Strafen in der Safety Car Phase werden automatisch durch iRacing vergeben
 
 ## §Überrunden [R]
 
-Fahrer in Führungsrunder (Fahrer L)
-Fahrer der überrundet wird (Fahrer B)
+Fahrer in Führungsrunder (Fahrer L).
+Fahrer der überrundet wird (Fahrer B).
 
 Steht eine Überrundung an, so trägt Fahrer B die Verantwortung, das Überholen zu ermöglichen. Nähert sich eine Überrundung, sollte Fahrer B weiterhin normal die Ideallinie befahren. Plötzliches Verzögern außerhalb der üblichen Bremszonen oder Nichtbeschleunigen aus Kurven heraus ist zu unterlassen, da dieses Verhalten vom nachfolgenden Fahrer schlecht antizipiert werden kann. Ein Verlassen der Ideallinie ist nur gestattet, sofern dies frühzeitig und für Fahrer L klar erkennbar geschieht.
 Die bevorzugte Methode, eine Überrundung durchzuführen, ist das Lupfen des Gaspedals durch Fahrer B, sobald sich Fahrer L aus dem Windschatten heraus neben Fahrer B positioniert hat. Sollte keine Gerade für ein Windschattenüberholmanöver zur Verfügung stehen, sollte die Ideallinie frühzeitig erkennbar durch Fahrer B freigegeben und das Tempo reduziert werden, bis die Überrundung abgeschlossen ist.
@@ -362,20 +371,22 @@ Die durchgezogenen Markierungen der Boxeneinfahrt und Boxenausfahrt sind grunds�
 > 2 Strafpunkte
 
 > **Überholen in Fast Lane oder Ein-/Ausfahrt**\
-> 3 Strafpunkte + 1 Position Abzug im Rennergebnis
+> 2 Strafpunkte + 1 Position Abzug im Rennergebnis
 
 > **Verbotenes Durchfahren der Slow Lane**\
-> 2 Strafpunkte
+> 1 Strafpunkte
 
 ## §Pace Lap [R]
 
-Solange im Overlay "Pace Lap" angezeigt wird sind folgende Regeln zu beachten. Es ist ein Maximalabstand zum nächsten Fahrzeug von zwei Fahrzeuglängen einzuhalten. Der Polesetter hat sich dabei am Pacecar zu orientieren. Ob Single oder Double File gefahren wird, wird von iRacing angezeigt. Plötzliches Verzögern oder Beschleunigen ist, abgesehen von Unfallvermeidung, verboten. Wechselt das Overlay auf "Green Flag" ist das Rennen freigegeben und die Einschränkungen der "Pace Lap" nicht länger gültig. Details der Startprozedur können sich für einzelne Rennen ändern. Ist dies der Fall, werden die Fahrer im Briefing informiert.
+Solange im Overlay „Pace Lap“ angezeigt wird, gelten folgende Regeln. Die Pace Lap beginnt mit einem stehenden Start. Nach dem Erlöschen der Startampel bleibt das Feld zunächst stehen. Boxenstarter (Fahrer, die aus der Box starten) fahren zuerst los und absolvieren ihre Einführungsrunde. Nach dieser Runde müssen sie wieder in die Boxengasse einbiegen, sich am Ende der Fastlane beim Hütchen am Boxenausgang aufreihen und von dort aus den eigentlichen Boxenstart durchführen. Für Boxenstarter gibt es kein Geschwindigkeitslimit während der Einführungsrunde. Sie müssen jedoch selbstständig sicherstellen, dass sie vor dem Feld ihre Positionen für den Start korrekt einnehmen. Nach den Boxenstartern verlässt das Pace Car die Boxengasse und gibt das Tempo für das restliche Feld vor. Der Polesetter folgt dem Pace Car und führt das Feld durch die Einführungsrunde. Zwischen jedem Fahrzeug darf höchstens ein Abstand von zwei Fahrzeuglängen bestehen. Der Polesetter orientiert sich dafür am Pace Car, bis zur Markierung der Boxeneinfahrt.
+Ob im Single File (eine Reihe) oder Double File (zwei Reihen) gefahren wird, zeigt iRacing an.
+Vor der Startzone ist plötzliches Beschleunigen oder Verzögern verboten, außer zur Unfallvermeidung. Die Startzone beginnt auf Höhe der Boxengasse (ab dem Hütchen, wo das Boxentempolimit gilt) und endet, sobald das Overlay die grüne Flagge zeigt. Innerhalb dieser Zone darf der Polesetter das Tempo selbstständig erhöhen. Tut er das nicht, ist der Start spätestens mit der grünen Flagge freigegeben. Alle anderen Fahrer dürfen beschleunigen, sobald ihr Vordermann beschleunigt. P2 orientiert sich dabei am Polesetter. Nach dem Beschleunigen darf das Tempo nicht mehr verringert werden. Unabhängig vom Tempo ist Überholen erst ab der grünen Flagge erlaubt. Hinweis: Details zur Startprozedur können sich je nach Rennen ändern. In diesem Fall werden die Fahrer im Briefing informiert.
 
 > **Überschreiten des Maximalabstands**\
 > 1 Strafpunkte pro vollen 5 Sekunden (Sekunden div 5)
 
 > **Plötzliches Verlangsamen oder Beschleunigen während der Pace Phase**\
-> 5 Strafpunkte
+> 4 Strafpunkte
 
 ## §Kontrollverlust und Rejoin [Q/R]
 
@@ -452,13 +463,10 @@ siehe [Protest](#protest)
 
 ## §Kommunikation
 
-Die komplette Kommunikation der Liga findet über Discord statt. Der Beitritt des Liga Discord-Servers ist für die Dauer der Teilnahme verpflichtend (bis zur Bekanntgabe des Endergebnisses). Der Username auf dem Discord muss den Namen, wie er in iRacing verwendet wird, enthalten. Der Ingame Voicechat darf innerhalb der Qualifikations- oder Rennsessions nicht verwendet werden (Ausnahme: zeitkritische Kommunikation mit der Rennleitung).
+Die komplette Kommunikation der Liga findet über Discord statt. Der Beitritt des Liga Discord-Servers ist für die Dauer der Teilnahme verpflichtend (bis zur Bekanntgabe des Endergebnisses). Der Username auf dem Discord sollte den Namen, wie er in iRacing verwendet wird, enthalten. Der Ingame Voicechat darf innerhalb der Qualifikations- oder Rennsessions nicht verwendet werden (Ausnahme: zeitkritische Kommunikation mit der Rennleitung).
 Während der Race-Session kommuniziert die Rennleitung per Ingamevoice und/oder Ingamechat mit den Fahrern. Die Fahrer haben sicherzustellen, dass sie etwaige Nachrichten der Rennleitung über diese Kanäle empfangen. Nicht befolgte Anweisungen durch versäumtes Verfolgen der Kommunikationskanäle werden wie ein Ignorieren der Anweisung geahndet, es sei denn, der Kommunikationsfehler liegt nachweislich bei der Rennleitung.
 
 > **Ein gemeldeter Fahrer/Teamleiter kann nicht erreicht werden kann, da er nicht dem Discordserver beigetreten ist. (Anwendbar max 1x/Protest/Tag)**\
-> 1 Strafpunkt
-
-> **Ein gemeldeter Fahrer kann für andere Fahrer, aufgrund eines abweichenden Namens, nicht eindeutig zugeordnet werden. (Anwendbar max 1x/Protest/Tag)**\
 > 1 Strafpunkt
 
 > **Unerlaubtes verwenden des Ingame Voicechats**\
@@ -469,10 +477,10 @@ Während der Race-Session kommuniziert die Rennleitung per Ingamevoice und/oder 
 
 ## §Abschleppen [Q/R]
 
-Eigenständiges Abschleppen ist in Renn-Sessions nicht gestattet. In Renn-Sessions initiiert die Rennleitung das Abschleppen durch die Disqualifikation des Fahrers. Es wird abgeschleppt sobald ein Fahrzeug längere Zeit ausserhalb der Boxengasse abgestellt ist, oder der Fahrer sich über Discord bei der Rennleitung meldet und um Abschleppen bittet. In Practice- und Qualifying-Sessions darf selbstständig abgeschleppt werden. In Qualifying- oder Renn-Sessions abgeschleppte Fahrzeuge dürfen nicht am weiteren Verlauf der Session teilnehmen. Fahrzeuge, die nicht am weiteren Verlauf der Session teilnehmen können, werden durch die Rennleitung disqualifiziert.
+Eigenständiges Abschleppen ist in Renn-Sessions nicht gestattet. In Renn-Sessions initiiert die Rennleitung das Abschleppen durch die Disqualifikation (iiRacing) des Fahrers. Es wird abgeschleppt sobald ein Fahrzeug längere Zeit ausserhalb der Boxengasse abgestellt ist, oder der Fahrer sich über Discord bei der Rennleitung meldet und um Abschleppen bittet. In Practice- und Qualifying-Sessions darf selbstständig abgeschleppt werden. In Qualifying- oder Renn-Sessions abgeschleppte Fahrzeuge dürfen nicht am weiteren Verlauf der Session teilnehmen. Fahrzeuge, die nicht am weiteren Verlauf der Session teilnehmen können, werden durch die Rennleitung disqualifiziert.
 
 > **Verlassen der Box nach Abschleppen (Q)**\
-> 4 Strafpunkte + DT im Rennen
+> 3 Strafpunkte + DT im Rennen
 
 > **Eigenständiges Abschleppen (R)**\
 > 3 Strafpunkte + DSQ
@@ -482,7 +490,7 @@ Eigenständiges Abschleppen ist in Renn-Sessions nicht gestattet. In Renn-Sessio
 
 ## §Falsches Fahrzeug [Q/R]
 
-Die Sessions der DGTL müssen mit dem Fahrzeug bestritten werden, mit dem sie für den Kader ihres Teams gemeldet sind.
+Die Sessions der DGTL müssen mit dem Fahrzeug bestritten werden, mit dem sie im Kader ihres Teams gemeldet sind.
 
 > **Teilnahme mit falschem Fahrzeug**\
 > 2 Strafpunkte + DT
