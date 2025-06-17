@@ -189,7 +189,10 @@ Wenn sich ein Fahrzeug zum Überholen neben ein anderes Fahrzeug setzt, müssen 
 
 ### Linienwahl in der Kurve
 
-![Kollision](/Images/kollision.png){width=100px}
+<!-- ![Kollision](/Images/kollision.png){width=100px} -->
+<p align="center">
+  <img src="/Images/kollision.png" alt="Linienwahl Grafik" width="100">
+</p>
 
 Wenn sich ein Fahrzeug in einer Kurve neben einem anderen Fahrzeug zum Überholen positioniert, muss je nach Grad der Überlappung zum normalen Einlenkpunkt, nicht dem tatsächlichen Einlenkpunkt, (der Ideallinie) der Kurve wie folgt Platz gelassen werden:
 
