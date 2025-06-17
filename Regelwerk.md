@@ -2,8 +2,8 @@
 
 **Basis für die komplette Durchführung, sowie alle Entscheidungen im Rahmen dieser Serie, ist ausschließlich dieses Reglement in der zum Zeitpunkt der Veranstaltung gültigen Fassung. Wenn der Wortlaut im Einzelfall nicht geeignet ist, eine Situation oder Entscheidung herbeizuführen, die dem Grundgedanken der sportlichen Fairness entspricht, kann eine abweichende Entscheidung getroffen werden, die vom Reglement-Wortlaut abweicht. Tritt dieser Fall ein, werden die Organisatoren den Reglement-Wortlaut anschließend so präzisieren, ändern oder ergänzen, dass er für alle folgenden Veranstaltungen allgemeine Gültigkeit erlangt.**
 
-> [!CAUTION]
-> nocht nicht final für Saison 8
+<!-- > [!CAUTION]
+> nocht nicht final für Saison 8 -->
 
 # Flaggenkunde
 
@@ -186,14 +186,15 @@ Wenn sich ein Fahrzeug zum Überholen neben ein anderes Fahrzeug setzt, müssen 
 
 ### Linienwahl in der Kurve
 
+![Kollision](/Images/kollision.png)
+
 Wenn sich ein Fahrzeug in einer Kurve neben einem anderen Fahrzeug zum Überholen positioniert, muss je nach Grad der Überlappung zum normalen Einlenkpunkt, nicht dem tatsächlichen Einlenkpunkt, (der Ideallinie) der Kurve wie folgt Platz gelassen werden:
 
-- **Fall A:** Die Vorderreifen des Angreifers sind hinter den Hinterreifen des Verteidigers:
+- **Fall A:** Die Vorderachse des Angreifers ist im Bereich A (siehe Grafik) des Verteidigers:
   - Der Verteidiger muss dem Angreifer keinen Platz lassen. Der Angreifer muss zurückziehen.
-- **Fall B:** Die Vorderreifen des Angreifers sind vor den Hinterreifen des Verteidigers:
-  (aber noch nicht Fall C)
+- **Fall B:** Die Vorderreifen des Angreifers ist im Bereich B (siehe Grafik) des Verteidigers:
   - Der Verteidiger muss dem Angreifer eine Wagenbreite zwischen seinem eigenen Fahrzeug und der Streckenbegrenzung am Apex lassen. Dasselbe gilt für den Kurvenausgang.
-- **Fall C:** Die Vorderreifen des Angreifers sind vor den Vorderreifen des Verteidigers:
+- **Fall C:** Die Vorderreifen des Angreifers ist im Bereich C (siehe Grafik) des Verteidigers:
   - Der Angreifer muss dem Verteidiger eine Wagenbreite Platz zwischen seinem eigenen Fahrzeug und der Streckenbegrenzung auf der Seite des Verteidigers lassen.
 
 Unabhängig vom Fall muss der vorgeschriebene Platz gelassen werden, bis das Überholmanöver abgeschlossen ist – das bedeutet bis keine Überlappung der Fahrzeuge mehr besteht.
