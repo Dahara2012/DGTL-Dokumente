@@ -386,15 +386,29 @@ Die durchgezogenen Markierungen der Boxeneinfahrt und Boxenausfahrt sind grunds�
 
 ## §Pace Lap [R]
 
-Solange im Overlay „Pace Lap“ angezeigt wird, gelten folgende Regeln. Die Pace Lap beginnt mit einem stehenden Start. Nach dem Erlöschen der Startampel bleibt das Feld zunächst stehen. Boxenstarter (Fahrer, die aus der Box starten) fahren zuerst los und absolvieren ihre Einführungsrunde. Nach dieser Runde müssen sie wieder in die Boxengasse einbiegen, sich am Ende der Fastlane beim Hütchen am Boxenausgang aufreihen und von dort aus den eigentlichen Boxenstart durchführen. Für Boxenstarter gibt es kein Geschwindigkeitslimit während der Einführungsrunde. Sie müssen jedoch selbstständig sicherstellen, dass sie vor dem Feld ihre Positionen für den Start korrekt einnehmen. Nach den Boxenstartern verlässt das Pace Car die Boxengasse und gibt das Tempo für das restliche Feld vor. Der Polesetter folgt dem Pace Car und führt das Feld durch die Einführungsrunde. Zwischen jedem Fahrzeug darf höchstens ein Abstand von zwei Fahrzeuglängen bestehen. Der Polesetter orientiert sich dafür am Pace Car, bis zur Markierung der Boxeneinfahrt.
-Ob im Single File (eine Reihe) oder Double File (zwei Reihen) gefahren wird, zeigt iRacing an.
-Vor der Startzone ist plötzliches Beschleunigen oder Verzögern verboten, außer zur Unfallvermeidung. Die Startzone beginnt auf Höhe der Boxengasse (ab dem Hütchen, wo das Boxentempolimit gilt) und endet, sobald das Overlay die grüne Flagge zeigt. Innerhalb dieser Zone darf der Polesetter das Tempo selbstständig erhöhen. Tut er das nicht, ist der Start spätestens mit der grünen Flagge freigegeben. Alle anderen Fahrer dürfen beschleunigen, sobald ihr Vordermann beschleunigt. P2 orientiert sich dabei am Polesetter. Nach dem Beschleunigen darf das Tempo nicht mehr verringert werden. Unabhängig vom Tempo ist Überholen erst ab der grünen Flagge erlaubt. Hinweis: Details zur Startprozedur können sich je nach Rennen ändern. In diesem Fall werden die Fahrer im Briefing informiert.
+Die Pace Lap beginnt mit einem stehenden Start. Nach dem Erlöschen der Startampel bleibt das Feld zunächst stehen. Boxenstarter (Fahrer, die aus der Boxengasse starten) fahren zuerst los und absolvieren ihre Einführungsrunde. Nach dieser Runde müssen sie erneut in die Boxengasse einbiegen, sich am Ende der Fastlane beim Hütchen am Boxenausgang aufreihen und von dort aus ihren eigentlichen Boxenstart durchführen.
+Für Boxenstarter gilt kein Geschwindigkeitslimit während der Einführungsrunde. Sie müssen jedoch eigenverantwortlich sicherstellen, dass sie vor dem Hauptfeld korrekt in ihre Startposition gelangen.
+Sobald die Boxenstarter unterwegs sind, verlässt das Pace Car die Boxengasse und gibt das Tempo für das restliche Feld vor. Der Polesetter folgt dem Pace Car, welches das Feld durch die Einführungsrunde führt.
+Zwischen den Fahrzeugen einer Spur darf ein Abstand von maximal zwei Fahrzeuglängen bestehen. Die erste Reihe orientiert sich dabei am Pace Car, bis dieses die Strecke über die Boxeneinfahrt verlässt. Der Abstand innerhalb des Maximalabstandes ist so zu wählen, dass Unfälle durch unerwartet langsamere Fahrzeuge vermieden werden können.
+Zum Rennstart wird mit zwei Spuren gestartet. Bei Restarts sind die Anweisungen von iRacing bezüglich der Anzahl der Spuren und möglicher Wave-Bys zu beachten.
+Während der Pace Lap ist plötzliches Beschleunigen oder Abbremsen verboten, außer zur Unfallvermeidung. Die Startzone beginnt auf Höhe der Boxengasse (ab dem Hütchen, an dem das Boxentempolimit gilt) und endet, sobald das Overlay die grüne Flagge anzeigt.
+Innerhalb dieser Zone darf der Polesetter das Tempo eigenständig erhöhen. Tut er dies nicht, wird der Start spätestens mit der grünen Flagge freigegeben. Einmal beschleunigt, darf die Geschwindigkeit und Beschleunigung bis zur grünen Flagge oder zur ersten Bremszone nicht mehr verringert werden.
+
+Alle anderen Fahrer dürfen beschleunigen, sobald ihr Vordermann beschleunigt. P2 orientiert sich dabei am Polesetter. Unabhängig vom Tempo ist ein Überholen erst ab der grünen Flagge erlaubt.
+
+Hinweis: Details zur Startprozedur können je nach Rennen abweichen. In diesem Fall werden die Fahrer im Briefing entsprechend informiert.
 
 > **Überschreiten des Maximalabstands**\
 > 1 Strafpunkte pro vollen 5 Sekunden (Sekunden div 5)
 
 > **Plötzliches Verlangsamen oder Beschleunigen während der Pace Phase**\
-> 4 Strafpunkte
+> 2 Strafpunkte
+
+> **Auslösen eines Unfalls aufgrund zu geringem Abstand oder plötztlichem Ändern der Geschwindigkeit**\
+> 3 Strafpunkte + TP basierend auf §Kollisionen
+
+> **Boxenstarter zu langsam**\
+> 2 Strafpunkte
 
 ## §Kontrollverlust und Rejoin [Q/R]
 
