@@ -190,9 +190,6 @@ Wenn sich ein Fahrzeug zum Überholen neben ein anderes Fahrzeug setzt, müssen 
 ### Linienwahl in der Kurve
 
 <!-- ![Kollision](/Images/kollision.png){width=100px} -->
-<p align="center">
-  <img src="/Images/kollision.png" alt="Linienwahl Grafik" width="50%">
-</p>
 
 Wenn sich ein Fahrzeug in einer Kurve neben einem anderen Fahrzeug zum Überholen positioniert, muss je nach Grad der Überlappung zum normalen Einlenkpunkt, nicht dem tatsächlichen Einlenkpunkt, (der Ideallinie) der Kurve wie folgt Platz gelassen werden:
 
@@ -202,6 +199,10 @@ Wenn sich ein Fahrzeug in einer Kurve neben einem anderen Fahrzeug zum Überhole
   - Der Verteidiger muss dem Angreifer eine Wagenbreite zwischen seinem eigenen Fahrzeug und der Streckenbegrenzung am Apex lassen. Dasselbe gilt für den Kurvenausgang.
 - **Fall C:** Die Vorderreifen des Angreifers ist im Bereich C (siehe Grafik) des Verteidigers:
   - Der Angreifer muss dem Verteidiger eine Wagenbreite Platz zwischen seinem eigenen Fahrzeug und der Streckenbegrenzung auf der Seite des Verteidigers lassen.
+
+<p align="center">
+  <img src="/Images/kollision.png" alt="Linienwahl Grafik" width="50%">
+</p>
 
 Unabhängig vom Fall muss der vorgeschriebene Platz gelassen werden, bis das Überholmanöver abgeschlossen ist – das bedeutet bis keine Überlappung der Fahrzeuge mehr besteht.
 
