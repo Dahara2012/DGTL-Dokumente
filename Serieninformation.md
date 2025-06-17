@@ -26,7 +26,7 @@ Gaststarter sind diese Saison nicht vorgesehen.
 
 # Qualifikation
 
-Eine Qualifikationsevent wird durchgeführt sofern die Anzahl eingegangener Anmeldungen die Anzahl verfügbarer Startplätze zum Stichtag überschreitet. Bei dem Qualifikationsevent handelt es sich um eine Open Qualifying Session. Aus den gefahrenen schnellsten Runden wird ein Ranking der Teams nach dem DGTL Punkteschema erstellt. Pro Team werden dabei die Platzierung der jeweils zwei schlechtesten der angetretenen Fahrer gewertet, um Chancengleichheit zwischen Teams mit zwei Fahrern und Teams mit mehr Fahrern herzustellen. Die 20 besten Teams erhalten dabei einen Startplatz für die kommende Saison. Teams auf den weiteren Plätzen kommen auf die Warteliste.
+Eine Qualifikationsevent wird durchgeführt sofern die Anzahl eingegangener Anmeldungen die Anzahl verfügbarer Startplätze zum Stichtag überschreitet. Bei dem Qualifikationsevent handelt es sich um eine Open Qualifying Session. Aus den gefahrenen schnellsten Runden wird ein Ranking der Teams nach dem DGTL Punkteschema erstellt. Pro Team sollen 2 Fahrer des Kaders antreten. Treten mehr als 2 Fahrer für ein Team an werden dabei die Platzierung der jeweils zwei schlechtesten Fahrer für die Teamwertung herangezogen, um Chancengleichheit zwischen Teams mit zwei Fahrern und Teams mit mehr Fahrern herzustellen. Die 20 besten Teams erhalten dabei einen Startplatz für die kommende Saison. Teams auf den weiteren Plätzen kommen auf die Warteliste.
 
 # Ablauf
 
@@ -65,7 +65,7 @@ Vor jedem Rennen findet ein Briefing statt. Die Teilnahme am Briefing ist nicht 
 
 # Wetter
 
-Für die Seassions der DGTL wird dynamisches Wetter verwendet. Die genauen Verhältnisse der Sessions sind im Vorfeld also nicht bekannt. Im Briefingdokuemnt werden im Vorfeld die Parameter bekanntgegeben mit denen das Wetter generiert wird (Regenwahrscheinlichkeit, Temperatur, Windgeschwindigkeit). Ein detaillierter Wetterbericht wird am Vortag jedes Rennens veröffentlicht.
+Für die Sessions der DGTL wird dynamisches Wetter verwendet. Die genauen Verhältnisse der Sessions sind im Vorfeld also nicht bekannt. Im Briefingdokuemnt werden im Vorfeld die Parameter bekanntgegeben mit denen das Wetter generiert wird (Regenwahrscheinlichkeit, Temperatur, Windgeschwindigkeit). Ein detaillierter Wetterbericht wird am Vortag jedes Rennens veröffentlicht.
 
 # Kader
 
@@ -141,7 +141,7 @@ Die Tankkapazität in der DGTL beträgt in der Regel 60%. Damit benötigen Fahrz
 
 # Regeln, Strafen und Proteste
 
-Die Rennsessions werden von einer Live-Rennkommission überwacht. Strafen werden live vergeben. Vorfälle werden nach der jeweils aktuellen Version des Dahara Standardregelwerks entschieden.
+Die Rennsessions werden von einer Live-Rennkommission überwacht. Strafen werden live vergeben. Vorfälle werden nach der jeweils aktuellen Version des Dahara Standardregelwerks entschieden.Informationen wie Proteste eingereicht werden können sind im Regelwerk zu finden.
 
 # Tie Breaker
 
