@@ -93,6 +93,9 @@ Fahrer erhalten Zeitstrafen als Konsequenz für Regelverstöße während einer R
 > [!TIP]
 > Das bedeutet für das letzte Fahrzeug in der Führungsrunde hat eine ausstehende Zeistrafe keine Auswirkung
 
+> [!IMPORTANT]
+> Zeitstrafen gibt es nur in Rennsessions vergeben; nich tin Quali- oder Practice-Sessions
+
 ## Positionsstrafen
 
 Fahrer erhalten Positionsstrafen als Konsequenz für Regelverstöße während einer Rennsession. Diese Strafen werden nach dem Rennen auf das iRacing Rennergebnis angewendet. Für das Endergebnis werden Zeitstrafen vor Positionsstrafen berücksichtigt. Der Algorithmus zur Vergabe von Positionsstrafen funktioniert wie folgt:
