@@ -388,11 +388,11 @@ Die durchgezogenen Markierungen der Boxeneinfahrt und Boxenausfahrt sind grunds�
 
 Die Pace Lap beginnt mit einem stehenden Start. Nach dem Erlöschen der Startampel bleibt das Feld zunächst stehen. Boxenstarter (Fahrer, die aus der Boxengasse starten) fahren zuerst los und absolvieren ihre Einführungsrunde. Nach dieser Runde müssen sie erneut in die Boxengasse einbiegen, sich am Ende der Fastlane beim Hütchen am Boxenausgang aufreihen und von dort aus ihren eigentlichen Boxenstart durchführen.
 Für Boxenstarter gilt kein Geschwindigkeitslimit während der Einführungsrunde. Sie müssen jedoch eigenverantwortlich sicherstellen, dass sie vor dem Hauptfeld korrekt in ihre Startposition gelangen.
-Sobald die Boxenstarter unterwegs sind, verlässt das Pace Car die Boxengasse und gibt das Tempo für das restliche Feld vor. Der Polesetter folgt dem Pace Car, welches das Feld durch die Einführungsrunde führt.
+Sobald eventuelle Boxenstarter unterwegs sind, setzt sich das Pace Car in Bewegung und gibt das Tempo für das restliche Feld vor. Der Polesetter folgt dem Pace Car, welches das Feld durch die Einführungsrunde führt.
 Zwischen den Fahrzeugen einer Spur darf ein Abstand von maximal zwei Fahrzeuglängen bestehen. Die erste Reihe orientiert sich dabei am Pace Car, bis dieses die Strecke über die Boxeneinfahrt verlässt. Der Abstand innerhalb des Maximalabstandes ist so zu wählen, dass Unfälle durch unerwartet langsamere Fahrzeuge vermieden werden können.
 Zum Rennstart wird mit zwei Spuren gestartet. Bei Restarts sind die Anweisungen von iRacing bezüglich der Anzahl der Spuren und möglicher Wave-Bys zu beachten.
-Während der Pace Lap ist plötzliches Beschleunigen oder Abbremsen verboten, außer zur Unfallvermeidung. Die Startzone beginnt auf Höhe der Boxengasse (ab dem Hütchen, an dem das Boxentempolimit gilt) und endet, sobald das Overlay die grüne Flagge anzeigt.
-Innerhalb dieser Zone darf der Polesetter das Tempo eigenständig erhöhen. Tut er dies nicht, wird der Start spätestens mit der grünen Flagge freigegeben. Einmal beschleunigt, darf die Geschwindigkeit und Beschleunigung bis zur grünen Flagge oder zur ersten Bremszone nicht mehr verringert werden.
+Während der Pace Lap ist plötzliches Beschleunigen oder Abbremsen verboten, außer zur Unfallvermeidung. Die Startzone beginnt sobald das Pace Car in der Boxengasse ist (grau im Relative), und Endet, sobald das Overlay die grüne Flagge anzeigt.
+Innerhalb dieser Zone darf der Polesetter das Tempo eigenständig anziehen. Tut er dies nicht, wird der Start spätestens mit der grünen Flagge freigegeben. Einmal beschleunigt, darf die Geschwindigkeit und Beschleunigung bis zur ersten Bremszone nicht mehr verringert werden.
 
 Alle anderen Fahrer dürfen beschleunigen, sobald ihr Vordermann beschleunigt. P2 orientiert sich dabei am Polesetter. Unabhängig vom Tempo ist ein Überholen erst ab der grünen Flagge erlaubt.
 
