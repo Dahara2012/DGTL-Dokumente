@@ -53,7 +53,9 @@ Zeigt eine Safety Car Phase an. Es wird unter Safety Car Regeln gefahren.
 
 ## SC-Ending
 
-Zeigt an das das Safety Car diese Runde reinkommen. Es gelten weiterhin Safety Car Regeln bis das Rennen durch eine Green Flag freigegeben wird.
+Zeigt an das das Safety Car diese Runde reinkommen.
+
+- siehe [§Safety Car](#safety-car-r)
 
 ## FCY
 
@@ -314,8 +316,8 @@ Während einer FCY-Phase gilt Überholverbot. Verunfallte Fahrzeuge dürfen übe
 
 Eine FCY-Phase neutralisiert das Rennen wobei die Abstände zwischen den Fahrzeugen möglichst gleich bleiben. Um die Abstände beizubehalten zeigt das Overlay ein Delta in Metern ein. Das Delta beschreibt den Abstand in Metern des eigenen Fahrzeugs zu der Position die vom Overlay vorgesehen ist damit die Abstände beibehalten werden. Die vom Overlay vorgesehene Position verschiebt sich dabei nach einer initialien Toleranz mit der Geschwindigkeit der Maximalgeschwindigkeit der Boxengasse. Die Deltaanzeige ist grün wenn sich die vorgesehenen Position vor dem eigenen Fahrzeug berfindet, und rot wenn sie sich hinter dem eigenen Fahrzeug befindet. Das Deltas muss sich zum Ende der FCY-Phase im grünen Bereich befinden. Während FCY-Phasen ist Single File zu fahren; bestehende Überlappungen zu anderen Fahrzeugen sind zeitnah aufzulösen.
 
-> **Überholen unter VSC mit Positionsgewinn gegenüber nicht verunfallten Fahrzeugen**\
-> 3 Strafpunkte + 1 Position Abzug im Rennergebnis
+> **Überholen nicht verunfallter Fahrzeuge unter VSC**\
+> 3 Strafpunkte + 1 Position (pro überholtem Fahrzeug) Abzug im Rennergebnis
 
 > **FCY-Delta zum Ende der FCY-Phase im roten Bereich (<100m)**\
 > 1 Strafpunkt + 3sec Zeitstrafe
@@ -345,7 +347,9 @@ Während einer eigenen Outlap, Inlap, oder abgebrochenen Hotlap muss Fahrern auf
 
 ## §Safety Car [R]
 
-Während der Dauer der Safety Car Phase ist Überholen verboten und die Anweisungen von iRacing zu befolgen. Pitstops dürfen innerhalb einer Safety Car Phase durchgeführt werden, solange die Box nicht explizit geschlossen ist. Sobald das DGTL-Overlay "Pace Lap" anzeigt, beginnt die (Re-)Startprozedur, die dem normalen Startprozedere entspricht.
+Während der Dauer der Safety Car Phase ist Überholen verboten und die Anweisungen von iRacing zu befolgen. Pitstops dürfen innerhalb einer Safety Car Phase durchgeführt werden, solange die Box nicht explizit geschlossen ist. Sobald das DGTL-Overlay "SC Ending" anzeigt, beginnt die (Re-)Startprozedur, die dem normalen Startprozedere entspricht.
+
+- Startprozedere siehe [$Pace Lap](#pace-lap-r)
 
 Strafen in der Safety Car Phase werden automatisch durch iRacing vergeben
 
