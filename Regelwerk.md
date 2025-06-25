@@ -347,7 +347,7 @@ Während einer eigenen Outlap, Inlap, oder abgebrochenen Hotlap muss Fahrern auf
 
 ## §Safety Car [R]
 
-Während der Dauer der Safety Car Phase ist Überholen verboten und die Anweisungen von iRacing zu befolgen. Pitstops dürfen innerhalb einer Safety Car Phase durchgeführt werden, solange die Box nicht explizit geschlossen ist. Sobald das DGTL-Overlay "SC Ending" anzeigt, beginnt die (Re-)Startprozedur, die dem normalen Startprozedere entspricht.
+Während der Dauer der Safety Car Phase ist Überholen verboten und die Anweisungen von iRacing zu befolgen. Pitstops dürfen innerhalb einer Safety Car Phase durchgeführt werden, solange die Box nicht explizit geschlossen ist. Sobald das DGTL-Overlay "SC Ending" anzeigt, beginnt die (Re-)Startprozedur, die dem normalen Startprozedere bzgl. Abständen, Startzone und Rennfreigabe entspricht.
 
 - Startprozedere siehe [$Pace Lap](#pace-lap-r)
 
