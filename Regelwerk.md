@@ -53,7 +53,7 @@ Zeigt eine Safety Car Phase an. Es wird unter Safety Car Regeln gefahren.
 
 ## SC-Ending
 
-Zeigt an das das Safety Car diese Runde reinkommen.
+Zeigt an das das Safety Car diese Runde reinkommt.
 
 - siehe [§Safety Car](#safety-car-r)
 
