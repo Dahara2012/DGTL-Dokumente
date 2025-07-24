@@ -512,7 +512,7 @@ Während der Race-Session kommuniziert die Rennleitung per Ingamevoice und/oder 
 
 ## §Abschleppen [Q/R]
 
-Eigenständiges Abschleppen ist in Renn-Sessions nicht gestattet. In Renn-Sessions initiiert die Rennleitung das Abschleppen durch die Disqualifikation (iiRacing) des Fahrers. Es wird abgeschleppt sobald ein Fahrzeug längere Zeit ausserhalb der Boxengasse abgestellt ist, oder der Fahrer sich über Discord bei der Rennleitung meldet und um Abschleppen bittet. In Practice- und Qualifying-Sessions darf selbstständig abgeschleppt werden. In Qualifying- oder Renn-Sessions abgeschleppte Fahrzeuge dürfen nicht am weiteren Verlauf der Session teilnehmen. Fahrzeuge, die nicht am weiteren Verlauf der Session teilnehmen können, werden durch die Rennleitung disqualifiziert.
+Eigenständiges Abschleppen ist in Renn-Sessions nicht gestattet. In Renn-Sessions initiiert die Rennleitung das Abschleppen durch die Disqualifikation (iRacing) des Fahrers. Es wird abgeschleppt sobald ein Fahrzeug längere Zeit ausserhalb der Boxengasse abgestellt ist, oder der Fahrer sich über Discord bei der Rennleitung meldet und um Abschleppen bittet. In Practice- und Qualifying-Sessions darf selbstständig abgeschleppt werden. In Qualifying- oder Renn-Sessions abgeschleppte Fahrzeuge dürfen nicht am weiteren Verlauf der Session teilnehmen. Fahrzeuge, die nicht am weiteren Verlauf der Session teilnehmen können, werden durch die Rennleitung disqualifiziert.
 
 > **Verlassen der Box nach Abschleppen (Q)**\
 > 3 Strafpunkte + DT im Rennen
