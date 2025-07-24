@@ -286,7 +286,12 @@ Bumpdraften ist grundsätzlich erlaubt. Löst es allerdings einen Unfall aus lie
 
 ## §Frühstart [R]
 
-Das Durchführen eines Frühstarts ist nicht erlaubt. Als Frühstart zählt das Erlangen eines Vorteils durch Danebensetzen (jede Überlappung zählt), oder Überholen des Vordermanns, bevor das Rennen durch die grüne Flagge des DGTL-Overlays freigegeben ist. Dient das Maneuver in erster Linie der Vermeidung eines Unfalls und nicht der Erlangung eines Vorteils, fällt keine Strafe an. Für den Polesitter zählt das Erhöhen der Geschwindigkeit auf >100km/h erreichen der Startzone als Frühstart.
+Das Durchführen eines Frühstarts ist nicht erlaubt. Folgende Situationen zählen als Frühstart:
+-Erlangen eines Vorteils durch Danebensetzen (jede Überlappung zählt), oder Überholen des Vordermanns, bevor das Rennen durch die grüne Flagge des DGTL-Overlays freigegeben ist.
+-Für den Polesitter zählt das Erhöhen der Geschwindigkeit auf >100km/h vor erreichen der Startzone als Frühstart.
+-Beschleunigen vor dem Vordermann in der Startzone - wie in [$Pace Lap](#pace-lap-r) beschrieben-
+
+Dient das Maneuver in erster Linie der Vermeidung eines Unfalls und wird jeder erlangte Vorteil (in einer sicheren Art und Weise) wieder hergegeben, fällt keine Strafe an.
 
 > **Durchführen eines Frühstarts mit einem Vorteil < 5sec**\
 > 2 Strafpunkte + 5TP
@@ -413,6 +418,9 @@ Hinweis: Details zur Startprozedur können je nach Rennen abweichen. In diesem F
 
 > **Boxenstarter zu langsam**\
 > 2 Strafpunkte
+
+> **Vorzeitiges Beschleunigen in der Startzone**\
+> siehe [§Frühstart](#fr%C3%BChstart-r)
 
 ## §Kontrollverlust und Rejoin [Q/R]
 
