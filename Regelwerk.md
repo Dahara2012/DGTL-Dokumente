@@ -28,7 +28,7 @@ Zeigt den Abbruch oder Unterbrechung der aktuellen Session an. Die aktuelle Rund
 
 Zeigt eine Gefahrenstelle an.
 
-- siehe [§Unfallsituation](#Unfallsituationen)
+- siehe [§Unfallsituation](#unfallsituationen-zb-yellow-flag-qr)
 
 ## Blue Flag
 
@@ -260,7 +260,7 @@ Bumpdraften ist grundsätzlich erlaubt. Löst es allerdings einen Unfall aus lie
 #### 3 Strafpunkte:
 
 - Auffahrunfall provoziert
-- Fehlverhalten während Unfallsituation (siehe [§Unfallsituationen](#unfallsituationen-yellow-flag-qr))
+- Fehlverhalten während Unfallsituation (siehe [§Unfallsituationen](#unfallsituationen-zb-yellow-flag-qr))
 
 #### 4 Strafpunkte:
 
