@@ -460,13 +460,22 @@ Verunfallte Fahrzeuge haben die eigenen Bremsen zu halten, bis eine Weiterfahrt 
 
 ## §Gefährliche Fahrweise
 
-Eine Fahrweise die Aufgrund ihrer Unvorhersehbarkeit Unfälle provoziert ist zu unterlassen. Dazu zählen das Fahren von Schlangenlinien, das plötzliche Wechseln der Spur in einem Zweikampf, unvermitteltes Verlangsamen des Fahrzeugs außerhalb von Bremszonen, oder das Blockieren anderer Fahrzeuge.
+Um ein sicheres und faires Fahren am Limit im Zusammenspiel mit anderen Teilnehmern zu ermöglichen, ist ein Mindestmaß an vorhersehbarem Verhalten erforderlich. Eine Fahrweise, die durch ihre Unvorhersehbarkeit potenziell Unfälle provoziert, ist zu unterlassen.
+
+Dazu zählen unter anderem aber nicht abschließend:
+
+- das Fahren von Schlangenlinien
+- plötzliche Spurwechsel in Zweikämpfen
+- unerwartetes Verlangsamen außerhalb von Bremszonen
+- übermäßig spätes Beschleunigen am Start oder aus Kurven
+- deutlich unter dem Limit gefahrene Geschwindigkeiten, zB in der Boxengasse, unter Full-Course Yellow (FCY) oder hinter dem Safety Car (SC),
+- Blockieren anderer Fahrzeuge.
 
 **Blockieren**\
 Sobald das hintere Fahrzeug auf .5sec oder weniger aufschließt, darf vom vorausfahrenden Fahrzeug pro Gerade einmalig die Linie gewählt werden, die gehalten werden muss. Besteht keine Überlappung beider Fahrzeuge bis zur nächsten Kurve/Bremszone darf die komplette Streckenbreite für die Kurve genutzt werden.
 
 > **Provozieren eines Unfalls durch gefährliche Fahrweise**\
-> 2 Strafpunkte & Verwarnung
+> 3 Strafpunkte
 
 > **Bei Kollision**\
 > siehe [§Kollisionen](#kollisionen-r) "Schwer zu antizipierendes Verhalten"
