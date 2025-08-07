@@ -196,7 +196,7 @@ Wenn sich ein Fahrzeug zum Überholen neben ein anderes Fahrzeug setzt, müssen 
 
 <!-- ![Kollision](/Images/kollision.png){width=100px} -->
 
-Wenn sich ein Fahrzeug in einer Kurve neben einem anderen Fahrzeug zum Überholen positioniert, muss je nach Grad der Überlappung zum normalen Einlenkpunkt, nicht dem tatsächlichen Einlenkpunkt, (der Ideallinie) der Kurve wie folgt Platz gelassen werden:
+Wenn sich ein Fahrzeug in einer Kurve neben einem anderen Fahrzeug zum Überholen positioniert, muss je nach Grad der maximalen Überlappung bis zum normalen Einlenkpunkt, nicht dem tatsächlichen Einlenkpunkt, (der Ideallinie) der Kurve wie folgt Platz gelassen werden:
 
 - **Fall A:** Die Vorderachse des Angreifers ist im Bereich A (siehe Grafik) des Verteidigers:
   - Der Verteidiger muss dem Angreifer keinen Platz lassen. Der Angreifer muss zurückziehen.
