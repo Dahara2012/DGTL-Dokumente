@@ -4,13 +4,13 @@
 
 Die DGTL besteht aus Teams, die in 90-minütigen[^1] Rennen gegeneinander antreten. Jedes Team kann pro Rennen bis zu zwei Fahrzeuge einsetzen, wobei keine Fahrerwechsel stattfinden. In der Regel sind pro Rennen zwei Boxenstopps erforderlich.
 
-Die Liga-Saison umfasst sechs Rennen, die normalerweise im Zwei-Wochen-Rhythmus dienstags stattfinden und sich über eine 12-wöchige iRacing-Saison erstrecken. Es handelt sich um eine Teammeisterschaft, bei der jeder Fahrer Punkte für sein Team sammelt.
+Die Saison umfasst 10 Rennen, die normalerweise im Zwei-Wochen-Rhythmus dienstags stattfinden und sich über ein halbes Jahr erstrecken. Es handelt sich um eine Teammeisterschaft, bei der jeder Fahrer auf seinem eigenen uto Punkte für sein Team sammelt.
 
 Im Vorfeld der Rennen stellt die Liga Trainingsserver zur Verfügung. Die Startpositionen für jedes Rennen werden in einem offenen Qualifying ermittelt.
 
 # Startgebühr
 
-Die Startgebühr beträgt pro Team 20€ pro Saison. Damit kann ein Team zwei Fahrzeuge für die Saison stellen. Die Startgebühr wird verwendet, um die Organisation, Server und Preise zu finanzieren. Die Startgebühr muss bis spätestens 2 Wochen vor Saisonstart eingegangen sein, sonst kann der Startplatz anderweitig vergeben werden. Für ein vorzeitiges Ausscheiden, egal ob durch Disqualifikation oder freiwilligen Rücktritt, gibt es keine Erstattung der Startgebühr. Wenn die Saison aus organisatorischen oder technischen Gründen im Vorfeld abgesagt werden muss, werden bereits gezahlte Startgelder zurückerstattet. Alle Informationen zum Zahlungsvorgang werden während des Anmeldeprozesses kommuniziert. Sollten Teams erst nach dem ersten Rennen nachrücken, zahlen sie eine um die Hälfte ermäßigte Startgebühr.
+Die Startgebühr beträgt pro Team 20€ pro Saison. Damit kann ein Team zwei Fahrzeuge für die Saison stellen. Die Startgebühr wird verwendet, um die Organisation, Server und Preise zu finanzieren. Ohne gezahlte Startgebühr ist ein Team nicht Startberechtigt. Steht die Startgebühr zwei Wochen vor Saisonstart noch aus kann der Startplatz andersweitig vergeben werden. Für ein vorzeitiges Ausscheiden, egal ob durch Disqualifikation oder freiwilligen Rücktritt, gibt es keine Erstattung der Startgebühr. Wenn die Saison aus organisatorischen oder technischen Gründen im Vorfeld abgesagt werden muss, werden bereits gezahlte Startgelder zurückerstattet. Alle Informationen zum Zahlungsvorgang werden während des Anmeldeprozesses kommuniziert. Sollten Teams erst nach dem ersten Rennen nachrücken, zahlen sie eine um die Hälfte ermäßigte Startgebühr.
 
 # Preise
 
@@ -18,15 +18,14 @@ Für den ersten, zweiten und dritten Platz in der Teamwertung wird am Ende der S
 
 # Anmeldung und Gaststarts
 
-Die Anmeldung findet über die Webseite statt. Ein entsprechendes Formular ist dort zu finden. Die Anzahl der Verfügbaren Startplätze ist auf 20 beschränkt. Sollten sich bis zum Stichtag mehr als 20 Teams anmelden gibt es ein Qualifikationsevent. Teams die sich nicht Qualifizieren können, oder sich nach dem Stichtag anmelden kommen auf eine Warteliste. Teams der Warteliste rücken nach Reihenfolge basierend auf ihrer Platzierung im Qualifying und danach nach dem Zeitpunkt der Anmeldung nach.
-
+Die Anmeldung findet über den Liga Discord Statt (#s9-anmeldungen). Ein entsprechende Vorlage ist dort zu finden. Für jedes Team bitte einen eigenen Post anlegen. Die Anzahl der Verfügbaren Startplätze ist auf 20 beschränkt. Im Vorfeld der Saison findet ein DGTL-Team-Endurance-Event statt. Basierend auf der Platzierung in diesem Event erhalten Teams ein vorrecht auf einen Startplatzz in der kommenden DGTL-Saison, vorausgesetzt es wird sich bis zu einem angegeben Stichtag angemeldet. Alle übrigen Startplätze werden basierend auf dem Anmeldedatum vergeben.
 Fristen und Termine können dem Ligakalender[^3] entnommen werden.
 
 Gaststarter sind diese Saison nicht vorgesehen.
 
-# Qualifikation
+# Team Endurance Event
 
-Eine Qualifikationsevent wird durchgeführt sofern die Anzahl eingegangener Anmeldungen die Anzahl verfügbarer Startplätze zum Stichtag überschreitet. Bei dem Qualifikationsevent handelt es sich um eine Open Qualifying Session. Aus den gefahrenen schnellsten Runden wird ein Ranking der Teams nach dem DGTL Punkteschema erstellt. Pro Team sollen 2 Fahrer des Kaders antreten. Treten mehr als 2 Fahrer für ein Team an werden dabei die Platzierung der jeweils zwei schlechtesten Fahrer für die Teamwertung herangezogen, um Chancengleichheit zwischen Teams mit zwei Fahrern und Teams mit mehr Fahrern herzustellen. Die 20 besten Teams erhalten dabei einen Startplatz für die kommende Saison. Teams auf den weiteren Plätzen kommen auf die Warteliste.
+Im Vorfeld der DGTL Saison findet ein Team Endurance Event statt. Dabei teilen sich mehrere Fahrer ein Fahrzeug über eine Distanz von 5 Stunden. Wie in der DGTL wird auch hier in GT3-Fahrzeugen angetreten. Mit einer Anmeldung für die kommenden DGTL-Saison ist man automatisch auch für das jeweilige DGTL-Team-Endurance-Event startberechtigt. Termin und Strecke werden im Vorfeld bekanntgegeben.
 
 # Ablauf
 
@@ -43,7 +42,7 @@ Der Ablauf am Renntag ist wie folgt:
 
 Alle Rennen einer DGTL Saison müssen pro Fahrer mit dem gleichen Auto bestritten werden. Für einen Fahrer wird das Auto für die Saison gesetzt das er in seiner ersten Rennsession verwendet. Das gewählte Auto darf sich innerhalb eines Teams unterscheiden. Ein Fahrer kann sein Fahrzeug nur unter Aufgabe aller seiner bis dahin erfahrenen Punkte wechseln. Der Fahrzeugpool orientiert sich am Fahrzeugpool von iRacings aktiven GT3 Serien. Wenn in iRacing Fahrzeuge ersetzt oder hinzugefügt werden, wird das wahrscheinlich auch in der DGTL angepasst.
 
-Aktueller Fahrzeugpool:
+**Aktueller Fahrzeugpool:**
 
 - Ferrari 296 GT3
 - Mercedes-AMG GT3
@@ -69,11 +68,11 @@ Für die Sessions der DGTL wird dynamisches Wetter verwendet. Die genauen Verhä
 
 # Kader
 
-Ein Kader umfasst alle Fahrer, die für ein Team startberechtigt sind. Ein Kader ist auf 4 Fahrer begrenzt. Der Teamleiter kann die Zusammenstellung des eigenen Kaders verändern. Dafür meldet er Änderungen bei der Liga-Organisation. Fahrer können auch aus dem Kader entfernt werden; dabei gehen allerdings alle Punkte verloren, die der Fahrer in der laufenden Saison bis zu diesem Zeitpunkt erfahren hat. Die Bearbeitung von Anträgen für Änderungen am Kader können bis zu 24h dauern, Fahrer daher bitte rechtzeitig vor einem Rennen melden.
+Ein Kader umfasst alle Fahrer, die für ein Team startberechtigt sind. Ein Kader ist auf 5 Fahrer begrenzt. Der Teamleiter kann die Zusammenstellung des eigenen Kaders verändern. Dafür meldet er Änderungen bei der Liga-Organisation. Fahrer können auch aus dem Kader entfernt werden; dabei gehen allerdings alle Punkte verloren, die der Fahrer in der laufenden Saison bis zu diesem Zeitpunkt erfahren hat. Die Bearbeitung von Anträgen für Änderungen am Kader können bis zu 24h dauern, Fahrer daher bitte rechtzeitig vor einem Rennen melden.
 
 # Punktevergabe
 
-Punkte werden nach der Veröffentlichung des offiziellen Ergebnisses nach dem folgenden Schema vergeben. Die Teamwertung ergibt sich aus den kumulierten Punkte ihrer Fahrer. Gewertet werden alle Fahrer, die an den Start gehen. Wird das Rennen abgebrochen, werden bei <50% zurückgelegter regulärer Rennrunden von der Anzahl angedachter Rennrunden halbe Punkte vergeben, sonst volle Punkte. Im Falle eines Rennabbruchs zählen die Platzierungen aus der letzten regulären Rennrunde[^2].
+Punkte werden nach der Veröffentlichung des offiziellen Ergebnisses nach dem folgenden Schema vergeben. Die Teamwertung ergibt sich aus den kumulierten Punkte ihrer Fahrer. Gewertet werden alle Fahrer, die an den Start gehen. Wird das Rennen abgebrochen, werden bei <50% zurückgelegter regulärer Rennrunden von der Anzahl angedachter Rennrunden halbe Punkte vergeben, sonst volle Punkte. Im Falle eines Rennabbruchs zählen die Platzierungen aus der letzten regulären Rennrunde[^2]. Jedes Team hat pro Saison ein Streichergebnis. Dabei wird das Rennen aus der Kalkulation gestrichen, in dem ein Team die wenigsten Punkten in der Saison erreicht hat.
 
 Fahrer mit DNF oder TOW erhalten Punkte basierend auf ihrer Endplatzierung.
 
@@ -123,7 +122,7 @@ Fahrer mit DSQ erhalten keine Punkte.
 
 # Rennkalender
 
-Es gibt einen aktiven Streckenpool und einen inaktiven Streckenpool mit jeweils 20 Strecken. Der Rennkalender einer Saison ergibt sich aus den sechs Strecken des aktiven Streckenpools, die am Längsten nicht mehr in der DGTL gefahren worden sind. Diese sechs Strecken werden dabei durch die Ligaleitung auf die zuvor bekanntgegebenen Renntermine aufgeteilt. Kommen mehrere Strecken aufgrund dieser Kriterien für den Rennkalender in Frage entscheidet im die Ligaleitung über die Auswahl der unklaren Strecken. Die Ligaleitung kann zwischen Saisons die Zusammensetzung des inaktiven Pools durch tauschen mit anderen iRacing Strecken verändern; der aktive Pool wird dabei nicht modifiziert. Pro Saison gibt es zwei Abstimmungen. Die Teamleiter können drei Strecken voten, die aus dem aktiven Streckenpool in den inaktiven Streckenpool wechseln und drei Strecken voten, die aus dem inaktiven Streckenpool in den aktiven Streckenpol wechseln. Die aktuelle Zusammensetzung der Streckenpools kann auf der Webseite oder direkt [hier](https://docs.google.com/spreadsheets/d/1SBfVbcChwI689BPT6gqlZROs9y8jMnXiEKK8T2ua43k/edit?usp=sharing) gefunden werden.
+Es gibt einen aktiven Streckenpool und einen inaktiven Streckenpool mit jeweils 20 Strecken. Der Rennkalender einer Saison ergibt sich aus den zehn Strecken des aktiven Streckenpools, die am Längsten nicht mehr in der DGTL gefahren worden sind. Diese zehn Strecken werden dabei durch die Ligaleitung auf die zuvor bekanntgegebenen Renntermine aufgeteilt. Kommen mehrere Strecken aufgrund dieser Kriterien für den Rennkalender in Frage entscheidet im die Ligaleitung über die Auswahl der unklaren Strecken. Die Ligaleitung kann zwischen Saisons die Zusammensetzung des inaktiven Pools durch tauschen mit anderen iRacing Strecken verändern; der aktive Pool wird dabei nicht modifiziert. Pro Saison gibt es folgende zwei Abstimmungen bzgl. Streckenpools. Die Teamleiter können drei Strecken voten, die aus dem aktiven Streckenpool in den inaktiven Streckenpool wechseln und drei Strecken voten, die aus dem inaktiven Streckenpool in den aktiven Streckenpol wechseln. Die aktuelle Zusammensetzung der Streckenpools kann auf der Webseite oder direkt [hier](https://docs.google.com/spreadsheets/d/1SBfVbcChwI689BPT6gqlZROs9y8jMnXiEKK8T2ua43k/edit?usp=sharing) gefunden werden.
 
 Die Termine zum Voting und zur Bekanntgabe des Rennkalenders können dem Ligakalender[^3] entnommen werden.
 
@@ -133,7 +132,7 @@ Die Rennkommission behält sich vor, im Falle technischer oder anderer Probleme 
 
 # Livestream
 
-Die Rennen werden live übertragen. Eine Übertragung von DGTL Veranstaltung ohne vorherige Erlaubnis ist nicht zulässig. Eine Ausnahme stellt eine Übertragung dar, die nur auf das eigene Auto fokussiert ist und nicht versucht einen Überblick über das gesamte Renngeschehen zu bieten. Jene ist ohne gesonderte Erlaubnis möglich.
+Die Rennen werden, sogern möglich, live übertragen. Eine Übertragung von DGTL Veranstaltung ohne vorherige Erlaubnis ist nicht zulässig. Eine Ausnahme stellt eine Übertragung dar, die nur auf das eigene Auto fokussiert ist und nicht versucht einen Überblick über das gesamte Renngeschehen zu bieten. Jene ist ohne gesonderte Erlaubnis möglich.
 
 # Balance of Performance
 
@@ -154,4 +153,4 @@ Sollten Teams am Ende der Saison Punktegleichstand haben, wird die Endplatzierun
 
 [^1]: Die Distanz eines Rennens wird in Runden festgelegt. Die Anzahl dieser Runden wird so festgelegt, dass sie in etwa einer Renndauer von 90 Minuten (bei trockenen Bedingungen) entspricht.
 [^2]: Die letzte reguläre Rennrunde ist die letzte komplette Rennrunde die vom Führenden unter Grüner Flagge beendet wurde.
-[^3]: Der Ligakalender kann [hier](https://dgtl.dahara.de/#h.kv6esdq53hli) gefunden werden und mit klicken von "zu Kalender hinzufügen" dem eigenen Kalender hinzugefügt werden.
+[^3]: [https://dgtl.dahara.de/kalender](https://dgtl.dahara.de/kalender)
