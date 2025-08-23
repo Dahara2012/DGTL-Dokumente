@@ -1,5 +1,7 @@
 ![Logo](/Images/DGTL-Logo-White.png)
 
+[English Version](https://github.com/Dahara2012/DGTL-Dokumente/blob/main/enduinformation-s9-en.md)
+
 # Format
 
 Mit dem DGTL Endurance präsentieren wir unser erstes offizielles Langstreckenrennen. Dieses Event ist ein eigenständiges Highlight und unabhängig vom regulären Ligabetrieb der DGTL-Serie.
@@ -41,7 +43,7 @@ Der Ablauf am Renntag ist wie folgt:
 - 17:00 Uhr - Rennen (5h)
 - 22.00 Uhr - Interviews
 
-**Aktueller Fahrzeugpool:**
+# Aktueller Fahrzeugpool
 
 - Ferrari 296 GT3
 - Mercedes-AMG GT3
@@ -69,56 +71,6 @@ Für die Sessions der DGTL wird dynamisches Wetter verwendet. Die genauen Verhä
 
 Ein Kader umfasst alle Fahrer, die für ein Team startberechtigt sind. Ein Kader ist auf 5 Fahrer begrenzt. Der Teamleiter kann die Zusammenstellung des eigenen Kaders verändern. Dafür meldet er Änderungen bei der Organisation über den entsprechenden Teanleiter Channel im Discord. Die Bearbeitung von Anträgen für Änderungen am Kader können bis zu 24h dauern, Fahrer daher bitte rechtzeitig vor einem Rennen melden.
 
-# Punktevergabe
-
-Punkte werden nach der Veröffentlichung des offiziellen Ergebnisses nach dem folgenden Schema vergeben. Die Teamwertung ergibt sich aus den kumulierten Punkte ihrer Fahrer. Gewertet werden alle Fahrer, die an den Start gehen. Wird das Rennen abgebrochen, werden bei <50% zurückgelegter regulärer Rennrunden von der Anzahl angedachter Rennrunden halbe Punkte vergeben, sonst volle Punkte. Im Falle eines Rennabbruchs zählen die Platzierungen aus der letzten regulären Rennrunde[^2]. Jedes Team hat pro Saison ein Streichergebnis. Dabei wird das Rennen aus der Kalkulation gestrichen, in dem ein Team die wenigsten Punkten in der Saison erreicht hat.
-
-Fahrer mit DNF oder TOW erhalten Punkte basierend auf ihrer Endplatzierung.
-
-Fahrer mit DSQ erhalten keine Punkte.
-
-- P01: 75 Punkte
-- P02: 70 Punkte
-- P03: 65 Punkte
-- P04: 61 Punkte
-- P05: 58 Punkte
-- P06: 55 Punkte
-- P07: 52 Punkte
-- P08: 49 Punkte
-- P09: 46 Punkte
-- P10: 43 Punkte
-- P11: 40 Punkte
-- P12: 38 Punkte
-- P13: 36 Punkte
-- P14: 34 Punkte
-- P15: 32 Punkte
-- P16: 30 Punkte
-- P17: 28 Punkte
-- P18: 26 Punkte
-- P19: 24 Punkte
-- P20: 22 Punkte
-- P21: 20 Punkte
-- P22: 19 Punkte
-- P23: 18 Punkte
-- P24: 17 Punkte
-- P25: 16 Punkte
-- P26: 15 Punkte
-- P27: 14 Punkte
-- P28: 13 Punkte
-- P29: 12 Punkte
-- P30: 11 Punkte
-- P31: 10 Punkte
-- P32: 09 Punkte
-- P33: 08 Punkte
-- P34: 07 Punkte
-- P35: 06 Punkte
-- P36: 05 Punkte
-- P37: 04 Punkte
-- P38: 03 Punkte
-- P37: 02 Punkte
-- P40: 01 Punkt
-- P40+: 0 Punkte
-
 # Verschiebung
 
 Die Rennkommission behält sich vor, im Falle technischer oder anderer Probleme die Veranstaltung am Rennabend abzubrechen und zu verschieben, oder zu annullieren. Wird ein Ersatztermin anberaumt, wird dieser zeitnah über Discord (#ankündigungen) bekannt gegeben.
@@ -131,6 +83,4 @@ Die Rennen werden, sogern möglich, live übertragen. Eine Übertragung von DGTL
 
 Die Rennsessions werden von einer Live-Rennkommission überwacht. Strafen werden live vergeben. Vorfälle werden nach der jeweils aktuellen Version des Dahara Standardregelwerks entschieden. Informationen wie Proteste eingereicht werden können sind im Regelwerk zu finden.
 
-[^1]: Die Distanz eines Rennens wird in Runden festgelegt. Die Anzahl dieser Runden wird so festgelegt, dass sie in etwa einer Renndauer von 90 Minuten (bei trockenen Bedingungen) entspricht.
-[^2]: Die letzte reguläre Rennrunde ist die letzte komplette Rennrunde die vom Führenden unter Grüner Flagge beendet wurde.
 [^3]: [https://dgtl.dahara.de/kalender](https://dgtl.dahara.de/kalender)

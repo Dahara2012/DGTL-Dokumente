@@ -1,48 +1,49 @@
 ![Logo](/Images/DGTL-Logo-White.png)
 
+[Deutsche Version](https://github.com/Dahara2012/DGTL-Dokumente/blob/main/enduinformation-s9-de.md)
+
 # Format
 
-Die DGTL besteht aus Teams, die in 90-minütigen[^1] Rennen gegeneinander antreten. Jedes Team kann pro Rennen bis zu zwei Fahrzeuge einsetzen, wobei keine Fahrerwechsel stattfinden. In der Regel sind pro Rennen zwei Boxenstopps erforderlich.
+With the DGTL Endurance, we present our very first official endurance race. This event stands as an independent highlight, separate from the regular DGTL league operations.
 
-Die Saison umfasst 10 Rennen, die normalerweise im Zwei-Wochen-Rhythmus dienstags stattfinden und sich über ein halbes Jahr erstrecken. Es handelt sich um eine Teammeisterschaft, bei der jeder Fahrer auf seinem eigenen uto Punkte für sein Team sammelt.
+Special Feature: Participating teams will receive a reserved slot for the upcoming DGTL season based on their race result. Thus, the Endurance Race also serves as a small qualification event.
 
-Im Vorfeld der Rennen stellt die Liga Trainingsserver zur Verfügung. Die Startpositionen für jedes Rennen werden in einem offenen Qualifying ermittelt.
+**Key Details:**
 
-# Startgebühr
+- Race Duration: 5 hours
+- Track: Silverstone Circuit
+- Format: Team race with driver swaps, one car per team
+- Qualifying: Open qualifying determines the starting grid
+- Practice: A dedicated practice server will be available
+- Fuel Limit: 90% tank capacity
+- Class: GT3
 
-Die Startgebühr beträgt pro Team 20€ pro Saison. Damit kann ein Team zwei Fahrzeuge für die Saison stellen. Die Startgebühr wird verwendet, um die Organisation, Server und Preise zu finanzieren. Ohne gezahlte Startgebühr ist ein Team nicht Startberechtigt. Steht die Startgebühr zwei Wochen vor Saisonstart noch aus kann der Startplatz andersweitig vergeben werden. Für ein vorzeitiges Ausscheiden, egal ob durch Disqualifikation oder freiwilligen Rücktritt, gibt es keine Erstattung der Startgebühr. Wenn die Saison aus organisatorischen oder technischen Gründen im Vorfeld abgesagt werden muss, werden bereits gezahlte Startgelder zurückerstattet. Alle Informationen zum Zahlungsvorgang werden während des Anmeldeprozesses kommuniziert. Sollten Teams erst nach dem ersten Rennen nachrücken, zahlen sie eine um die Hälfte ermäßigte Startgebühr.
+# Entry Fee
 
-# Preise
+There is no entry fee for this event.
 
-Für den ersten, zweiten und dritten Platz in der Teamwertung wird am Ende der Saison dem jeweiligen Teamleiter ein Pokal überreicht. Sollte ein Teamleiter nicht innerhalb von einer Woche nach dem ersten Kontaktversuch der Ligaleitung zum Zweck der Preisübergabe reagieren, verfällt jeder Anspruch auf einen Preis. Preise werden nur verliehen, wenn das Starterfeld > 20 Fahrzeuge bzw. 10 Teams ist.
+# Prizes
 
-# Anmeldung und Gaststarts
+No prizes will be awarded. The only reward is a reserved slot for the upcoming DGTL season. This guarantees the team a fixed spot – based on their finishing position in the race – provided that registration is completed before the official deadline.
 
-Die Anmeldung findet über den Liga Discord Statt (#s9-anmeldungen). Ein entsprechende Vorlage ist dort zu finden. Für jedes Team bitte einen eigenen Post anlegen. Die Anzahl der Verfügbaren Startplätze ist auf 20 beschränkt. Im Vorfeld der Saison findet ein DGTL-Team-Endurance-Event statt. Basierend auf der Platzierung in diesem Event erhalten Teams ein vorrecht auf einen Startplatzz in der kommenden DGTL-Saison, vorausgesetzt es wird sich bis zu einem angegeben Stichtag angemeldet. Alle übrigen Startplätze werden basierend auf dem Anmeldedatum vergeben.
-Fristen und Termine können dem Ligakalender[^3] entnommen werden.
+The race result becomes decisive if more than 20 teams participate, as the DGTL grid is limited to 20 slots.
 
-Gaststarter sind diese Saison nicht vorgesehen.
+# Registration
 
-# Team Endurance Event
+Registration takes place via the league Discord (#s9-registrations). A corresponding template can be found there. Please create a separate post for each team. The number of available slots is limited to 50. Deadlines and dates can be found in the league calendar[^3].
 
-Im Vorfeld der DGTL Saison findet ein Team Endurance Event statt. Dabei teilen sich mehrere Fahrer ein Fahrzeug über eine Distanz von 5 Stunden. Wie in der DGTL wird auch hier in GT3-Fahrzeugen angetreten. Mit einer Anmeldung für die kommenden DGTL-Saison ist man automatisch auch für das jeweilige DGTL-Team-Endurance-Event startberechtigt. Termin und Strecke werden im Vorfeld bekanntgegeben.
+# Schedule
 
-# Ablauf
+The race day schedule is as follows:
 
-Der Ablauf am Renntag ist wie folgt:
+- 15:00 - Open Practice (90 min)
+- 16:00 - Briefing (10 min)
+- 16:30 - Qualifying (20 min)
+- 16:50 - Warmup (10 min)
+- 17:00 - Race (5h)
+- 22:00 - Interviews
 
-- (19:00 Uhr) Open Practice (50min)
-- (19:50 Uhr) Briefing (10min)
-- (20:00 Uhr) Qualifying (20min)
-- (20.20 Uhr) Warmup (10min)
-- (20.30 Uhr) Rennen (90min)
-- (22.00 Uhr) Interviews
-
-# Fahrzeugwahl
-
-Alle Rennen einer DGTL Saison müssen pro Fahrer mit dem gleichen Auto bestritten werden. Für einen Fahrer wird das Auto für die Saison gesetzt das er in seiner ersten Rennsession verwendet. Das gewählte Auto darf sich innerhalb eines Teams unterscheiden. Ein Fahrer kann sein Fahrzeug nur unter Aufgabe aller seiner bis dahin erfahrenen Punkte wechseln. Der Fahrzeugpool orientiert sich am Fahrzeugpool von iRacings aktiven GT3 Serien. Wenn in iRacing Fahrzeuge ersetzt oder hinzugefügt werden, wird das wahrscheinlich auch in der DGTL angepasst.
-
-**Aktueller Fahrzeugpool:**
+# Current Car Pool
 
 - Ferrari 296 GT3
 - Mercedes-AMG GT3
@@ -56,101 +57,32 @@ Alle Rennen einer DGTL Saison müssen pro Fahrer mit dem gleichen Auto bestritte
 
 # Setups
 
-Das Setup für alle Rennen der DGTL ist nicht vorgegeben. Es wird mit Open Setup gefahren.
+The setup for all DGTL races is not fixed. Open setups are used.
 
 # Briefing
 
-Vor jedem Rennen findet ein Briefing statt. Die Teilnahme am Briefing ist nicht verpflichtend, stellt aber die letzte Möglichkeit dar vor einem Rennen Fragen zu stellen. Alle Informationen, die im Briefing kommuniziert werden, können auch im Briefingdokument nachgelesen werden. Dabei ist darauf zu achten, dass das Dokument bis zum Briefing noch aktualisiert werden kann. Kenntnis über alle Informationen, die im Briefing kommuniziert werden, wird vorausgesetzt. Im Briefing werden eventuell veränderte Abläufe kommuniziert. Es wird an Regeln erinnert, die zuletzt problematisch waren, Hinweise der Rennleitung vorgelesen und an angewandte oder abzusitzende Strafen erinnert. Das Briefingdokument enthält darüber hinaus Informationen zu den Wetter/InSim Einstellungen der Sessions.
+A briefing takes place before each race. Attendance is not mandatory, but it is the last opportunity to ask questions prior to the race. All information communicated during the briefing can also be found in the briefing document. Please note that the document may still be updated up until the briefing. Familiarity with all information communicated in the briefing is required.
+
+During the briefing, any changes to procedures may be announced. Rules that have recently caused issues will be reiterated, race control notices will be read out, and applied or pending penalties will be addressed. The briefing document also includes details regarding the weather and InSim settings of the sessions.
 
 # Wetter
 
-Für die Sessions der DGTL wird dynamisches Wetter verwendet. Die genauen Verhältnisse der Sessions sind im Vorfeld also nicht bekannt. Im Briefingdokuemnt werden im Vorfeld die Parameter bekanntgegeben mit denen das Wetter generiert wird (Regenwahrscheinlichkeit, Temperatur, Windgeschwindigkeit). Ein detaillierter Wetterbericht wird am Vortag jedes Rennens veröffentlicht.
+Dynamic weather is used for all DGTL sessions. The exact conditions for each session are therefore not known in advance. The briefing document will provide the parameters used to generate the weather (rain probability, temperature, wind speed). A detailed weather report will be published on the day before each race.
 
-# Kader
+# Roster
 
-Ein Kader umfasst alle Fahrer, die für ein Team startberechtigt sind. Ein Kader ist auf 5 Fahrer begrenzt. Der Teamleiter kann die Zusammenstellung des eigenen Kaders verändern. Dafür meldet er Änderungen bei der Liga-Organisation. Fahrer können auch aus dem Kader entfernt werden; dabei gehen allerdings alle Punkte verloren, die der Fahrer in der laufenden Saison bis zu diesem Zeitpunkt erfahren hat. Die Bearbeitung von Anträgen für Änderungen am Kader können bis zu 24h dauern, Fahrer daher bitte rechtzeitig vor einem Rennen melden.
+A roster includes all drivers eligible to race for a team. Each roster is limited to 5 drivers. The team leader can modify their team roster by submitting changes to the organization via the designated team leader channel on Discord. Processing requests for roster changes may take up to 24 hours, so please register drivers well in advance of a race.
 
-# Punktevergabe
+# Postponement
 
-Punkte werden nach der Veröffentlichung des offiziellen Ergebnisses nach dem folgenden Schema vergeben. Die Teamwertung ergibt sich aus den kumulierten Punkte ihrer Fahrer. Gewertet werden alle Fahrer, die an den Start gehen. Wird das Rennen abgebrochen, werden bei <50% zurückgelegter regulärer Rennrunden von der Anzahl angedachter Rennrunden halbe Punkte vergeben, sonst volle Punkte. Im Falle eines Rennabbruchs zählen die Platzierungen aus der letzten regulären Rennrunde[^2]. Jedes Team hat pro Saison ein Streichergebnis. Dabei wird das Rennen aus der Kalkulation gestrichen, in dem ein Team die wenigsten Punkten in der Saison erreicht hat.
-
-Fahrer mit DNF oder TOW erhalten Punkte basierend auf ihrer Endplatzierung.
-
-Fahrer mit DSQ erhalten keine Punkte.
-
-- P01: 75 Punkte
-- P02: 70 Punkte
-- P03: 65 Punkte
-- P04: 61 Punkte
-- P05: 58 Punkte
-- P06: 55 Punkte
-- P07: 52 Punkte
-- P08: 49 Punkte
-- P09: 46 Punkte
-- P10: 43 Punkte
-- P11: 40 Punkte
-- P12: 38 Punkte
-- P13: 36 Punkte
-- P14: 34 Punkte
-- P15: 32 Punkte
-- P16: 30 Punkte
-- P17: 28 Punkte
-- P18: 26 Punkte
-- P19: 24 Punkte
-- P20: 22 Punkte
-- P21: 20 Punkte
-- P22: 19 Punkte
-- P23: 18 Punkte
-- P24: 17 Punkte
-- P25: 16 Punkte
-- P26: 15 Punkte
-- P27: 14 Punkte
-- P28: 13 Punkte
-- P29: 12 Punkte
-- P30: 11 Punkte
-- P31: 10 Punkte
-- P32: 09 Punkte
-- P33: 08 Punkte
-- P34: 07 Punkte
-- P35: 06 Punkte
-- P36: 05 Punkte
-- P37: 04 Punkte
-- P38: 03 Punkte
-- P37: 02 Punkte
-- P40: 01 Punkt
-- P40+: 0 Punkte
-
-# Rennkalender
-
-Es gibt einen aktiven Streckenpool und einen inaktiven Streckenpool mit jeweils 20 Strecken. Der Rennkalender einer Saison ergibt sich aus den zehn Strecken des aktiven Streckenpools, die am Längsten nicht mehr in der DGTL gefahren worden sind. Diese zehn Strecken werden dabei durch die Ligaleitung auf die zuvor bekanntgegebenen Renntermine aufgeteilt. Kommen mehrere Strecken aufgrund dieser Kriterien für den Rennkalender in Frage entscheidet im die Ligaleitung über die Auswahl der unklaren Strecken. Die Ligaleitung kann zwischen Saisons die Zusammensetzung des inaktiven Pools durch tauschen mit anderen iRacing Strecken verändern; der aktive Pool wird dabei nicht modifiziert. Pro Saison gibt es folgende zwei Abstimmungen bzgl. Streckenpools. Die Teamleiter können drei Strecken voten, die aus dem aktiven Streckenpool in den inaktiven Streckenpool wechseln und drei Strecken voten, die aus dem inaktiven Streckenpool in den aktiven Streckenpol wechseln. Die aktuelle Zusammensetzung der Streckenpools kann auf der Webseite oder direkt [hier](https://docs.google.com/spreadsheets/d/1SBfVbcChwI689BPT6gqlZROs9y8jMnXiEKK8T2ua43k/edit?usp=sharing) gefunden werden.
-
-Die Termine zum Voting und zur Bekanntgabe des Rennkalenders können dem Ligakalender[^3] entnommen werden.
-
-# Verschiebung
-
-Die Rennkommission behält sich vor, im Falle technischer oder anderer Probleme die Veranstaltung am Rennabend abzubrechen und zu verschieben, oder zu annullieren. Wird ein Ersatztermin anberaumt, wird dieser zeitnah über Discord (#ankündigungen) bekannt gegeben.
+The race commission reserves the right to suspend, postpone, or cancel the event on race day in case of technical or other issues. If a replacement date is scheduled, it will be announced promptly via Discord (#announcements).
 
 # Livestream
 
-Die Rennen werden, sogern möglich, live übertragen. Eine Übertragung von DGTL Veranstaltung ohne vorherige Erlaubnis ist nicht zulässig. Eine Ausnahme stellt eine Übertragung dar, die nur auf das eigene Auto fokussiert ist und nicht versucht einen Überblick über das gesamte Renngeschehen zu bieten. Jene ist ohne gesonderte Erlaubnis möglich.
+Races will be broadcast live whenever possible. Broadcasting a DGTL event without prior permission is not allowed. An exception is a broadcast that focuses solely on a team’s own car and does not attempt to provide an overview of the entire race. Such broadcasts are permitted without special permission.
 
-# Balance of Performance
+# Rules, Penalties, and Protests
 
-Die Tankkapazität in der DGTL beträgt in der Regel 60%. Damit benötigen Fahrzeuge im Normalfall (SC Phasen oder andere unplanmäßige Ereignisse außen vorgenommen) 3 Stints zur Beendigung eines Rennens. Zusätzliche BoP Anpassungen sind nicht vorgesehen. Steht allerdings eine aktuelle alternative BoP zur Verfügung (bspw. eines iRacing Special Events zur selben Strecken) kann diese übernommen werden. Alle Informationen zur jeweils gültigen BoP können dem aktuellen Briefing Dokument entnommen werden.
+Race sessions are monitored by a live race commission. Penalties are issued in real time. Incidents are adjudicated according to the current version of the Dahara Standard Rulebook. Information on how to file protests can be found in the rulebook.
 
-# Regeln, Strafen und Proteste
-
-Die Rennsessions werden von einer Live-Rennkommission überwacht. Strafen werden live vergeben. Vorfälle werden nach der jeweils aktuellen Version des Dahara Standardregelwerks entschieden.Informationen wie Proteste eingereicht werden können sind im Regelwerk zu finden.
-
-# Tie Breaker
-
-Sollten Teams am Ende der Saison Punktegleichstand haben, wird die Endplatzierung nach folgenden Kriterien in folgender Reihenfolge entschieden. Sobald ein Kriterium einen Unterschied zwischen beiden Parteien zum Vorteil einer Partei ergibt, erhält diese Partei die bessere der zu entscheidenden Platzierungen; mögliche weitere Kriterien werden dann nicht weiter betrachtet:
-
-1. Vorteil für die Partei mit weniger Strafpunkten zum Saisonende.
-2. Vorteil für die Partei mit mehr Rennteilnahmen.
-3. Vorteil für die Partei mit der niedrigeren Summe aller Platzierungen aller Rennen.
-4. Reihenfolge der Anmeldung für die Saison; der Vorteil liegt dabei auf Seiten der früheren Anmeldung.
-
-[^1]: Die Distanz eines Rennens wird in Runden festgelegt. Die Anzahl dieser Runden wird so festgelegt, dass sie in etwa einer Renndauer von 90 Minuten (bei trockenen Bedingungen) entspricht.
-[^2]: Die letzte reguläre Rennrunde ist die letzte komplette Rennrunde die vom Führenden unter Grüner Flagge beendet wurde.
 [^3]: [https://dgtl.dahara.de/kalender](https://dgtl.dahara.de/kalender)
