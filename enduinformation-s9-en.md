@@ -24,9 +24,7 @@ There is no entry fee for this event.
 
 # Prizes
 
-No prizes will be awarded. The only reward is a reserved slot for the upcoming DGTL season. This guarantees the team a fixed spot – based on their finishing position in the race – provided that registration is completed before the official deadline.
-
-The race result becomes decisive if more than 20 teams participate, as the DGTL grid is limited to 20 slots.
+No prizes will be awarded. The only reward is a reserved slot for the upcoming DGTL season for the Top 10 teams of the endurance event. This guarantees the team a fixed spot, provided that registration is completed before the official deadline.
 
 # Registration
 

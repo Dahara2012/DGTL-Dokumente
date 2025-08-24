@@ -24,9 +24,7 @@ Für dieses Event ist keine Startgebühr fällig.
 
 # Preise
 
-Es werden keine Preise ausgeschüttet. Der einzige Gewinn besteht in einer Startplatzreservierung für die kommende DGTL-Saison. Diese garantiert dem Team – abhängig von der erzielten Platzierung im Rennen – einen festen Startplatz, sofern die Anmeldung bis zum offiziellen Stichtag erfolgt.
-
-Relevant wird die Platzierung dann, wenn mehr als 20 Teams am Rennen teilnehmen, da das Starterfeld der DGTL auf 20 Plätze begrenzt ist.
+Es werden keine Preise ausgeschüttet. Der einzige Gewinn besteht in einer Startplatzreservierung für die Top10 des Endurance-Events für die kommende DGTL-Saison. Diese garantiert dem Team – abhängig von der erzielten Platzierung im Rennen – einen festen Startplatz, sofern die Anmeldung bis zum offiziellen Stichtag erfolgt.
 
 # Anmeldung
 
